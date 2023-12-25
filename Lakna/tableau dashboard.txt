@@ -1,1 +1,4 @@
-https://public.tableau.com/app/profile/lakna.premasinghe/viz/MelanomaAnalysis_17032704663840/deathscount?publish=yes
+https://public.tableau.com/app/profile/lakna.premasinghe/viz/MelanomaAnalysis_17032704663840/mapall?publish=yes
+
+
+The three main types of skin cancer are basal cell carcinoma (BCC), squamous cell carcinoma (SCC) and melanoma. BCC and SCC are also called non-melanoma skin cancer or keratinocyte cancer. They are far more common than melanoma. Rare types of non-melanoma skin cancer include Merkel cell carcinoma and angiosarcoma.
