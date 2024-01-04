@@ -1,4 +1,12 @@
 https://public.tableau.com/app/profile/lakna.premasinghe/viz/MelanomaAnalysis_17032704663840/mapall?publish=yes
 
 
-The three main types of skin cancer are basal cell carcinoma (BCC), squamous cell carcinoma (SCC) and melanoma. BCC and SCC are also called non-melanoma skin cancer or keratinocyte cancer. They are far more common than melanoma. Rare types of non-melanoma skin cancer include Merkel cell carcinoma and angiosarcoma.
+incident risk
+risk of being diagnosed with melanoma continues to increase
+mortality risk has also increased over the years. 
+
+geographical view
+death rate is high
+
+
+according to the world map, it is indicated that the death rate in Australia is high compared with other countries.
