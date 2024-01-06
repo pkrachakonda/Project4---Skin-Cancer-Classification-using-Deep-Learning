@@ -1,12 +1,1 @@
-https://public.tableau.com/app/profile/lakna.premasinghe/viz/MelanomaAnalysis_17032704663840/mapall?publish=yes
-
-
-incident risk
-risk of being diagnosed with melanoma continues to increase
-mortality risk has also increased over the years. 
-
-geographical view
-death rate is high
-
-
-according to the world map, it is indicated that the death rate in Australia is high compared with other countries.
+https://public.tableau.com/app/profile/lakna.premasinghe/viz/MelanomaAnalysis_17032704663840/melanomainaustralia?publish=yes
