@@ -25,7 +25,7 @@ Group12
     
 <b>What is it?</b> Melanoma is a cancer that develops from melanocytes, the skin cells that produce melanin pigment, which gives skin its color.<br><br>
 <b>Where is it usually found?</b> Melanomas often resemble moles and sometimes may arise from them. They can be found on any area of the body, even in areas that are not typically exposed to the sun.<br><br>
-<b>How many people get it?</b> In 2019, more than 192,000 new cases of melanoma are expected to occur in the U.S., about 96,000 of which will be invasive.<br></br>
-<b>How serious is it?</b> Melanoma is the most dangerous of the three most common forms of skin cancer. Melanomas can be curable when caught and treated early. In 2019, melanoma is projected to cause about 7,200 deaths.<br><br>
+<b>How many people get it?</b> In 2023, more than ... ,new cases of melanoma are expected to occur in Australia., about .... of which will be invasive<br></br>
+<b>How serious is it?</b> Melanoma is the most dangerous of the three most common forms of skin cancer. Melanomas can be curable when caught and treated early. In 2023, melanoma is projected to cause about .... deaths.<br><br>
     
 </p>
