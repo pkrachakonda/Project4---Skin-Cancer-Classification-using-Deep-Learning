@@ -1,0 +1,201 @@
+Year,Country,Cancer_Type,Predicted_Cases,Population,Predicted_Increase,Predicted_Percentage_Change
+2020,Australia,"Lip, oral cavity",376,25499881,0,0.0
+2025,Australia,"Lip, oral cavity",423,26879753,47,12.5
+2030,Australia,"Lip, oral cavity",473,28177480,97,25.7979
+2035,Australia,"Lip, oral cavity",525,29410247,149,39.6277
+2040,Australia,"Lip, oral cavity",574,30572490,198,52.6596
+2020,Australia,Anus,113,25499881,0,0.0
+2025,Australia,Anus,128,26879753,15,13.2743
+2030,Australia,Anus,144,28177480,31,27.4336
+2035,Australia,Anus,161,29410247,48,42.4779
+2040,Australia,Anus,177,30572490,64,56.6372
+2020,Australia,Liver and intrahepatic bile ducts,2142,25499881,0,0.0
+2025,Australia,Liver and intrahepatic bile ducts,2422,26879753,280,13.0719
+2030,Australia,Liver and intrahepatic bile ducts,2716,28177480,574,26.7974
+2035,Australia,Liver and intrahepatic bile ducts,3008,29410247,866,40.4295
+2040,Australia,Liver and intrahepatic bile ducts,3278,30572490,1136,53.0345
+2020,Australia,Gallbladder,163,25499881,0,0.0
+2025,Australia,Gallbladder,186,26879753,23,14.1104
+2030,Australia,Gallbladder,214,28177480,51,31.2883
+2035,Australia,Gallbladder,241,29410247,78,47.8528
+2040,Australia,Gallbladder,267,30572490,104,63.8037
+2020,Australia,Pancreas,3184,25499881,0,0.0
+2025,Australia,Pancreas,3646,26879753,462,14.51
+2030,Australia,Pancreas,4148,28177480,964,30.2764
+2035,Australia,Pancreas,4656,29410247,1472,46.2312
+2040,Australia,Pancreas,5121,30572490,1937,60.8354
+2020,Australia,Larynx,195,25499881,0,0.0
+2025,Australia,Larynx,224,26879753,29,14.8718
+2030,Australia,Larynx,254,28177480,59,30.2564
+2035,Australia,Larynx,283,29410247,88,45.1282
+2040,Australia,Larynx,310,30572490,115,58.9744
+2020,Australia,"Trachea, bronchus and lung",8867,25499881,0,0.0
+2025,Australia,"Trachea, bronchus and lung",10164,26879753,1297,14.6273
+2030,Australia,"Trachea, bronchus and lung",11536,28177480,2669,30.1004
+2035,Australia,"Trachea, bronchus and lung",12887,29410247,4020,45.3366
+2040,Australia,"Trachea, bronchus and lung",14119,30572490,5252,59.2309
+2020,Australia,Melanoma of skin,1408,25499881,0,0.0
+2025,Australia,Melanoma of skin,1622,26879753,214,15.1989
+2030,Australia,Melanoma of skin,1874,28177480,466,33.0966
+2035,Australia,Melanoma of skin,2141,29410247,733,52.0597
+2040,Australia,Melanoma of skin,2387,30572490,979,69.5312
+2020,Australia,Non-melanoma skin cancer,784,25499881,0,0.0
+2025,Australia,Non-melanoma skin cancer,910,26879753,126,16.0714
+2030,Australia,Non-melanoma skin cancer,1073,28177480,289,36.8622
+2035,Australia,Non-melanoma skin cancer,1259,29410247,475,60.5867
+2040,Australia,Non-melanoma skin cancer,1429,30572490,645,82.2704
+2020,Australia,Mesothelioma,781,25499881,0,0.0
+2025,Australia,Mesothelioma,922,26879753,141,18.0538
+2030,Australia,Mesothelioma,1079,28177480,298,38.1562
+2035,Australia,Mesothelioma,1236,29410247,455,58.2586
+2040,Australia,Mesothelioma,1376,30572490,595,76.1844
+2020,Australia,Kaposi sarcoma,3,25499881,0,0.0
+2025,Australia,Kaposi sarcoma,4,26879753,1,33.3333
+2030,Australia,Kaposi sarcoma,5,28177480,2,66.6667
+2035,Australia,Kaposi sarcoma,6,29410247,3,100.0
+2040,Australia,Kaposi sarcoma,7,30572490,4,133.3333
+2020,Australia,Salivary glands,108,25499881,0,0.0
+2025,Australia,Salivary glands,124,26879753,16,14.8148
+2030,Australia,Salivary glands,145,28177480,37,34.2593
+2035,Australia,Salivary glands,168,29410247,60,55.5556
+2040,Australia,Salivary glands,189,30572490,81,75.0
+2020,Australia,Breast,3132,12801256,0,0.0
+2025,Australia,Breast,3520,13501945,388,12.3882
+2030,Australia,Breast,3968,14167763,836,26.6922
+2035,Australia,Breast,4442,14803175,1310,41.8263
+2040,Australia,Breast,4881,15400539,1749,55.8429
+2020,Australia,Vulva,86,12801256,0,0.0
+2025,Australia,Vulva,98,13501945,12,13.9535
+2030,Australia,Vulva,114,14167763,28,32.5581
+2035,Australia,Vulva,132,14803175,46,53.4884
+2040,Australia,Vulva,149,15400539,63,73.2558
+2020,Australia,Vagina,28,12801256,0,0.0
+2025,Australia,Vagina,31,13501945,3,10.7143
+2030,Australia,Vagina,36,14167763,8,28.5714
+2035,Australia,Vagina,40,14803175,12,42.8571
+2040,Australia,Vagina,43,15400539,15,53.5714
+2020,Australia,Cervix uteri,328,12801256,0,0.0
+2025,Australia,Cervix uteri,361,13501945,33,10.061
+2030,Australia,Cervix uteri,397,14167763,69,21.0366
+2035,Australia,Cervix uteri,434,14803175,106,32.3171
+2040,Australia,Cervix uteri,468,15400539,140,42.6829
+2020,Australia,Corpus uteri,571,12801256,0,0.0
+2025,Australia,Corpus uteri,650,13501945,79,13.8354
+2030,Australia,Corpus uteri,738,14167763,167,29.2469
+2035,Australia,Corpus uteri,827,14803175,256,44.8336
+2040,Australia,Corpus uteri,910,15400539,339,59.3695
+2020,Australia,Ovary,1046,12801256,0,0.0
+2025,Australia,Ovary,1183,13501945,137,13.0975
+2030,Australia,Ovary,1334,14167763,288,27.5335
+2035,Australia,Ovary,1486,14803175,440,42.065
+2040,Australia,Ovary,1627,15400539,581,55.5449
+2020,Australia,Penis,21,12698625,0,0.0
+2025,Australia,Penis,24,13377808,3,14.2857
+2030,Australia,Penis,29,14009717,8,38.0952
+2035,Australia,Penis,33,14607072,12,57.1429
+2040,Australia,Penis,36,15171951,15,71.4286
+2020,Australia,Prostate,3455,12698625,0,0.0
+2025,Australia,Prostate,4110,13377808,655,18.958
+2030,Australia,Prostate,4936,14009717,1481,42.8654
+2035,Australia,Prostate,5838,14607072,2383,68.9725
+2040,Australia,Prostate,6641,15171951,3186,92.2142
+2020,Australia,Testis,26,12698625,0,0.0
+2025,Australia,Testis,28,13377808,2,7.6923
+2030,Australia,Testis,30,14009717,4,15.3846
+2035,Australia,Testis,32,14607072,6,23.0769
+2040,Australia,Testis,34,15171951,8,30.7692
+2020,Australia,Kidney and renal pelvis,1263,25499881,0,0.0
+2025,Australia,Kidney and renal pelvis,1446,26879753,183,14.4893
+2030,Australia,Kidney and renal pelvis,1652,28177480,389,30.7997
+2035,Australia,Kidney and renal pelvis,1865,29410247,602,47.6643
+2040,Australia,Kidney and renal pelvis,2062,30572490,799,63.2621
+2020,Australia,Oropharynx,252,25499881,0,0.0
+2025,Australia,Oropharynx,280,26879753,28,11.1111
+2030,Australia,Oropharynx,308,28177480,56,22.2222
+2035,Australia,Oropharynx,336,29410247,84,33.3333
+2040,Australia,Oropharynx,362,30572490,110,43.6508
+2020,Australia,Bladder,1367,25499881,0,0.0
+2025,Australia,Bladder,1614,26879753,247,18.0688
+2030,Australia,Bladder,1927,28177480,560,40.9656
+2035,Australia,Bladder,2270,29410247,903,66.0571
+2040,Australia,Bladder,2581,30572490,1214,88.8076
+2020,Australia,"Brain, nervous system",1590,25499881,0,0.0
+2025,Australia,"Brain, nervous system",1759,26879753,169,10.6289
+2030,Australia,"Brain, nervous system",1925,28177480,335,21.0692
+2035,Australia,"Brain, nervous system",2085,29410247,495,31.1321
+2040,Australia,"Brain, nervous system",2232,30572490,642,40.3774
+2020,Australia,Thyroid,152,25499881,0,0.0
+2025,Australia,Thyroid,174,26879753,22,14.4737
+2030,Australia,Thyroid,198,28177480,46,30.2632
+2035,Australia,Thyroid,223,29410247,71,46.7105
+2040,Australia,Thyroid,246,30572490,94,61.8421
+2020,Australia,Hodgkin lymphoma,86,25499881,0,0.0
+2025,Australia,Hodgkin lymphoma,98,26879753,12,13.9535
+2030,Australia,Hodgkin lymphoma,111,28177480,25,29.0698
+2035,Australia,Hodgkin lymphoma,124,29410247,38,44.186
+2040,Australia,Hodgkin lymphoma,136,30572490,50,58.1395
+2020,Australia,Non-Hodgkin lymphoma,1732,25499881,0,0.0
+2025,Australia,Non-Hodgkin lymphoma,2004,26879753,272,15.7044
+2030,Australia,Non-Hodgkin lymphoma,2316,28177480,584,33.7182
+2035,Australia,Non-Hodgkin lymphoma,2643,29410247,911,52.5982
+2040,Australia,Non-Hodgkin lymphoma,2942,30572490,1210,69.8614
+2020,Australia,Multiple myeloma and immunoproliferative diseases,1135,25499881,0,0.0
+2025,Australia,Multiple myeloma and immunoproliferative diseases,1316,26879753,181,15.9471
+2030,Australia,Multiple myeloma and immunoproliferative diseases,1519,28177480,384,33.8326
+2035,Australia,Multiple myeloma and immunoproliferative diseases,1728,29410247,593,52.2467
+2040,Australia,Multiple myeloma and immunoproliferative diseases,1919,30572490,784,69.0749
+2020,Australia,Leukaemia,2015,25499881,0,0.0
+2025,Australia,Leukaemia,2331,26879753,316,15.6824
+2030,Australia,Leukaemia,2694,28177480,679,33.6973
+2035,Australia,Leukaemia,3072,29410247,1057,52.4566
+2040,Australia,Leukaemia,3418,30572490,1403,69.6278
+2020,Australia,Other specified sites,1164,25499881,0,0.0
+2025,Australia,Other specified sites,1321,26879753,157,13.488
+2030,Australia,Other specified sites,1493,28177480,329,28.2646
+2035,Australia,Other specified sites,1668,29410247,504,43.299
+2040,Australia,Other specified sites,1827,30572490,663,56.9588
+2020,Australia,Unspecified sites,2620,25499881,0,0.0
+2025,Australia,Unspecified sites,3029,26879753,409,15.6107
+2030,Australia,Unspecified sites,3533,28177480,913,34.8473
+2035,Australia,Unspecified sites,4086,29410247,1466,55.9542
+2040,Australia,Unspecified sites,4600,30572490,1980,75.5725
+2020,Australia,All cancers,48236,25499881,0,0.0
+2025,Australia,All cancers,55396,26879753,7160,14.8437
+2030,Australia,All cancers,63569,28177480,15333,31.7875
+2035,Australia,All cancers,72081,29410247,23845,49.434
+2040,Australia,All cancers,79874,30572490,31638,65.59
+2020,Australia,Nasopharynx,86,25499881,0,0.0
+2025,Australia,Nasopharynx,95,26879753,9,10.4651
+2030,Australia,Nasopharynx,104,28177480,18,20.9302
+2035,Australia,Nasopharynx,113,29410247,27,31.3953
+2040,Australia,Nasopharynx,122,30572490,36,41.8605
+2020,Australia,All cancers excluding non-melanoma skin cancer,47452,25499881,0,0.0
+2025,Australia,All cancers excluding non-melanoma skin cancer,54486,26879753,7034,14.8234
+2030,Australia,All cancers excluding non-melanoma skin cancer,62496,28177480,15044,31.7036
+2035,Australia,All cancers excluding non-melanoma skin cancer,70821,29410247,23369,49.2477
+2040,Australia,All cancers excluding non-melanoma skin cancer,78445,30572490,30993,65.3144
+2020,Australia,Hypopharynx,74,25499881,0,0.0
+2025,Australia,Hypopharynx,84,26879753,10,13.5135
+2030,Australia,Hypopharynx,94,28177480,20,27.027
+2035,Australia,Hypopharynx,103,29410247,29,39.1892
+2040,Australia,Hypopharynx,112,30572490,38,51.3514
+2020,Australia,Oesophagus,1302,25499881,0,0.0
+2025,Australia,Oesophagus,1481,26879753,179,13.7481
+2030,Australia,Oesophagus,1672,28177480,370,28.4178
+2035,Australia,Oesophagus,1865,29410247,563,43.2412
+2040,Australia,Oesophagus,2042,30572490,740,56.8356
+2020,Australia,Stomach,1091,25499881,0,0.0
+2025,Australia,Stomach,1248,26879753,157,14.3905
+2030,Australia,Stomach,1423,28177480,332,30.4308
+2035,Australia,Stomach,1603,29410247,512,46.9294
+2040,Australia,Stomach,1768,30572490,677,62.0532
+2020,Australia,Colon,3817,25499881,0,0.0
+2025,Australia,Colon,4422,26879753,605,15.8501
+2030,Australia,Colon,5171,28177480,1354,35.4729
+2035,Australia,Colon,5994,29410247,2177,57.0343
+2040,Australia,Colon,6758,30572490,2941,77.05
+2020,Australia,Rectum,1673,25499881,0,0.0
+2025,Australia,Rectum,1916,26879753,243,14.5248
+2030,Australia,Rectum,2187,28177480,514,30.7233
+2035,Australia,Rectum,2467,29410247,794,47.4597
+2040,Australia,Rectum,2723,30572490,1050,62.7615

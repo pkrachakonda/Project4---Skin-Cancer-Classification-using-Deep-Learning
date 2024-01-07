@@ -1,0 +1,56 @@
+from PIL import Image
+import matplotlib.pyplot as plt
+import numpy as np, requests
+from io import BytesIO
+image_url = "https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/11/19/10/03/ds00575-a-asymmetry.jpg"
+response = requests.get(image_url)
+image = Image.open(BytesIO(response.content))
+# image = PIL.Image.open('images/basalCellCarcinomaBCC_6163_lg.jpg')
+image = image.resize((180, 180))
+img = np.array(image)
+plt.imshow(img)
+plt.axis('off')
+plt.show()
+img = X_test[1]
+img = np.array(image).reshape(-1, 180, 180, 3)
+result = model.predict(img)
+print(result[0])
+result = result.tolist()
+max_prob = max(result[0])
+class_ind = result[0].index(max_prob)
+print(lesion_type_dict[label_mapping[class_ind]])
+Out[93]: <matplotlib.image.AxesImage at 0x15c80a29fd0>
+Out[93]: (-0.5, 179.5, 179.5, -0.5)
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 26ms/step
+[0.52445364 0.24082644 0.00747029 0.18600737 0.01561854 0.01184263
+ 0.00716494 0.00661607]
+Melanocytic nevi (nv)
+
+
+from PIL import Image
+import matplotlib.pyplot as plt
+import numpy as np, requests
+from io import BytesIO
+image_url = "https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/11/15/17/38/ds00190_-ds00439_im01723_r7_skincthu_jpg.jpg"
+response = requests.get(image_url)
+image = Image.open(BytesIO(response.content))
+# image = PIL.Image.open('images/basalCellCarcinomaBCC_6163_lg.jpg')
+image = image.resize((180, 180))
+img = np.array(image)
+plt.imshow(img)
+plt.axis('off')
+plt.show()
+img = X_test[1]
+img = np.array(image).reshape(-1, 180, 180, 3)
+result = model.predict(img)
+print(result[0])
+result = result.tolist()
+max_prob = max(result[0])
+class_ind = result[0].index(max_prob)
+print(lesion_type_dict[label_mapping[class_ind]])
+Out[94]: <matplotlib.image.AxesImage at 0x15c7f699910>
+Out[94]: (-0.5, 179.5, 179.5, -0.5)
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 22ms/step
+[0.08925287 0.78523314 0.00855411 0.08486484 0.00927814 0.00375126
+ 0.01643338 0.00263219]
+Melanoma (mel)
