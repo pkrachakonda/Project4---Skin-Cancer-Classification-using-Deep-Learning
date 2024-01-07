@@ -32,3 +32,7 @@ The [Project Dataset](https://github.com/pkrachakonda/Project4_Gr12/tree/main/Pr
 - AIHW [Cancer data in Australia](https://www.aihw.gov.au/reports/cancer/cancer-data-in-australia/data)
 - WHO [WHO Mortality Database](https://platform.who.int/mortality/themes/theme-details/topics/indicator-groups/indicator-group-details/MDB/melanoma-and-other-skin-cancers)
 - GCO [Cancer Today](https://gco.iarc.fr/today/online-analysis-map?v=2020&mode=population&mode_population=continents&population=900&populations=900&key=asr&sex=0&cancer=39&type=0&statistic=5&prevalence=0&population_group=0&ages_group%5B%5D=0&ages_group%5B%5D=17&nb_items=10&group_cancer=1&include_nmsc=0&include_nmsc_other=0&projection=natural-earth&color_palette=default&map_scale=quantile&map_nb_colors=5&continent=0&show_ranking=0&rotate=%255B10%252C0%255D)
+
+# Flowchart
+
+![image](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/e7187979-e98b-4218-941f-ff810253d311)
