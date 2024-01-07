@@ -6,7 +6,7 @@ Skin cancer, out-of-control growth of abnormal cells in the *epidermis*, the out
  
 <img src="https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_article/public/cgov_contextual_image/2019-06/1-how-does-cancer-form.jpg?h=b48714fe&itok=fc2eMUvr" alt="Cancer cell development" width=400/>
     
-##Melanoma, in 4 questions##
+## Melanoma, in 4 questions ##
 
 <img src="https://www.verywellhealth.com/thmb/GmfzGuCPokTF14Dk06EaWvvROzo=/3125x2084/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-melanoma-514215_final-01-3b091d9a68074ba7b5a1cb6d8287cf92.png" width=500 alt="4 types of melanoma"/><br><br>
     
