@@ -1,0 +1,4621 @@
+Year,Sex,Cancer_Type,Aust_Mortality_to_incidence_ratio,Segi_Mortality_to_incidence_ratio,WHO_Mortality_to_incidence_ratio
+1968,Male,Acute lymphoblastic leukaemia,,,
+1969,Male,Acute lymphoblastic leukaemia,,,
+1970,Male,Acute lymphoblastic leukaemia,,,
+1971,Male,Acute lymphoblastic leukaemia,,,
+1972,Male,Acute lymphoblastic leukaemia,,,
+1973,Male,Acute lymphoblastic leukaemia,,,
+1974,Male,Acute lymphoblastic leukaemia,,,
+1975,Male,Acute lymphoblastic leukaemia,,,
+1976,Male,Acute lymphoblastic leukaemia,,,
+1977,Male,Acute lymphoblastic leukaemia,,,
+1978,Male,Acute lymphoblastic leukaemia,,,
+1979,Male,Acute lymphoblastic leukaemia,,,
+1980,Male,Acute lymphoblastic leukaemia,,,
+1981,Male,Acute lymphoblastic leukaemia,,,
+1982,Male,Acute lymphoblastic leukaemia,0.62,0.49,0.55
+1983,Male,Acute lymphoblastic leukaemia,0.88,0.7,0.79
+1984,Male,Acute lymphoblastic leukaemia,0.74,0.54,0.62
+1985,Male,Acute lymphoblastic leukaemia,0.71,0.51,0.58
+1986,Male,Acute lymphoblastic leukaemia,0.61,0.44,0.5
+1987,Male,Acute lymphoblastic leukaemia,0.58,0.48,0.51
+1988,Male,Acute lymphoblastic leukaemia,0.65,0.48,0.55
+1989,Male,Acute lymphoblastic leukaemia,0.49,0.41,0.45
+1990,Male,Acute lymphoblastic leukaemia,0.55,0.4,0.46
+1991,Male,Acute lymphoblastic leukaemia,0.51,0.36,0.43
+1992,Male,Acute lymphoblastic leukaemia,0.61,0.49,0.55
+1993,Male,Acute lymphoblastic leukaemia,0.52,0.36,0.42
+1994,Male,Acute lymphoblastic leukaemia,0.64,0.52,0.57
+1995,Male,Acute lymphoblastic leukaemia,0.68,0.52,0.59
+1996,Male,Acute lymphoblastic leukaemia,0.58,0.44,0.5
+1997,Male,Acute lymphoblastic leukaemia,0.46,0.38,0.42
+1998,Male,Acute lymphoblastic leukaemia,0.51,0.43,0.47
+1999,Male,Acute lymphoblastic leukaemia,0.59,0.47,0.53
+2000,Male,Acute lymphoblastic leukaemia,0.5,0.36,0.41
+2001,Male,Acute lymphoblastic leukaemia,0.36,0.29,0.32
+2002,Male,Acute lymphoblastic leukaemia,0.46,0.34,0.39
+2003,Male,Acute lymphoblastic leukaemia,0.44,0.27,0.33
+2004,Male,Acute lymphoblastic leukaemia,0.28,0.2,0.23
+2005,Male,Acute lymphoblastic leukaemia,0.38,0.28,0.32
+2006,Male,Acute lymphoblastic leukaemia,0.31,0.23,0.26
+2007,Male,Acute lymphoblastic leukaemia,0.27,0.18,0.21
+2008,Male,Acute lymphoblastic leukaemia,0.34,0.23,0.27
+2009,Male,Acute lymphoblastic leukaemia,0.24,0.16,0.19
+2010,Male,Acute lymphoblastic leukaemia,0.33,0.22,0.26
+2011,Male,Acute lymphoblastic leukaemia,,,
+1968,Female,Acute lymphoblastic leukaemia,,,
+1969,Female,Acute lymphoblastic leukaemia,,,
+1970,Female,Acute lymphoblastic leukaemia,,,
+1971,Female,Acute lymphoblastic leukaemia,,,
+1972,Female,Acute lymphoblastic leukaemia,,,
+1973,Female,Acute lymphoblastic leukaemia,,,
+1974,Female,Acute lymphoblastic leukaemia,,,
+1975,Female,Acute lymphoblastic leukaemia,,,
+1976,Female,Acute lymphoblastic leukaemia,,,
+1977,Female,Acute lymphoblastic leukaemia,,,
+1978,Female,Acute lymphoblastic leukaemia,,,
+1979,Female,Acute lymphoblastic leukaemia,,,
+1980,Female,Acute lymphoblastic leukaemia,,,
+1981,Female,Acute lymphoblastic leukaemia,,,
+1982,Female,Acute lymphoblastic leukaemia,0.69,0.55,0.61
+1983,Female,Acute lymphoblastic leukaemia,0.51,0.39,0.43
+1984,Female,Acute lymphoblastic leukaemia,0.66,0.47,0.55
+1985,Female,Acute lymphoblastic leukaemia,0.56,0.45,0.5
+1986,Female,Acute lymphoblastic leukaemia,0.47,0.35,0.39
+1987,Female,Acute lymphoblastic leukaemia,0.56,0.4,0.47
+1988,Female,Acute lymphoblastic leukaemia,0.45,0.35,0.39
+1989,Female,Acute lymphoblastic leukaemia,0.71,0.54,0.62
+1990,Female,Acute lymphoblastic leukaemia,0.46,0.32,0.38
+1991,Female,Acute lymphoblastic leukaemia,0.49,0.36,0.41
+1992,Female,Acute lymphoblastic leukaemia,0.52,0.41,0.44
+1993,Female,Acute lymphoblastic leukaemia,0.69,0.51,0.58
+1994,Female,Acute lymphoblastic leukaemia,0.47,0.34,0.4
+1995,Female,Acute lymphoblastic leukaemia,0.54,0.36,0.42
+1996,Female,Acute lymphoblastic leukaemia,0.41,0.3,0.34
+1997,Female,Acute lymphoblastic leukaemia,0.47,0.36,0.4
+1998,Female,Acute lymphoblastic leukaemia,0.49,0.39,0.44
+1999,Female,Acute lymphoblastic leukaemia,0.3,0.24,0.26
+2000,Female,Acute lymphoblastic leukaemia,0.38,0.27,0.31
+2001,Female,Acute lymphoblastic leukaemia,0.4,0.27,0.32
+2002,Female,Acute lymphoblastic leukaemia,0.36,0.23,0.28
+2003,Female,Acute lymphoblastic leukaemia,0.4,0.27,0.32
+2004,Female,Acute lymphoblastic leukaemia,0.31,0.2,0.23
+2005,Female,Acute lymphoblastic leukaemia,0.36,0.25,0.29
+2006,Female,Acute lymphoblastic leukaemia,0.26,0.18,0.21
+2007,Female,Acute lymphoblastic leukaemia,0.29,0.19,0.22
+2008,Female,Acute lymphoblastic leukaemia,0.27,0.18,0.22
+2009,Female,Acute lymphoblastic leukaemia,0.21,0.15,0.17
+2010,Female,Acute lymphoblastic leukaemia,0.24,0.16,0.18
+2011,Female,Acute lymphoblastic leukaemia,,,
+1968,Persons,Acute lymphoblastic leukaemia,,,
+1969,Persons,Acute lymphoblastic leukaemia,,,
+1970,Persons,Acute lymphoblastic leukaemia,,,
+1971,Persons,Acute lymphoblastic leukaemia,,,
+1972,Persons,Acute lymphoblastic leukaemia,,,
+1973,Persons,Acute lymphoblastic leukaemia,,,
+1974,Persons,Acute lymphoblastic leukaemia,,,
+1975,Persons,Acute lymphoblastic leukaemia,,,
+1976,Persons,Acute lymphoblastic leukaemia,,,
+1977,Persons,Acute lymphoblastic leukaemia,,,
+1978,Persons,Acute lymphoblastic leukaemia,,,
+1979,Persons,Acute lymphoblastic leukaemia,,,
+1980,Persons,Acute lymphoblastic leukaemia,,,
+1981,Persons,Acute lymphoblastic leukaemia,,,
+1982,Persons,Acute lymphoblastic leukaemia,0.66,0.52,0.58
+1983,Persons,Acute lymphoblastic leukaemia,0.73,0.57,0.64
+1984,Persons,Acute lymphoblastic leukaemia,0.69,0.51,0.58
+1985,Persons,Acute lymphoblastic leukaemia,0.63,0.48,0.54
+1986,Persons,Acute lymphoblastic leukaemia,0.53,0.39,0.45
+1987,Persons,Acute lymphoblastic leukaemia,0.56,0.44,0.49
+1988,Persons,Acute lymphoblastic leukaemia,0.56,0.42,0.48
+1989,Persons,Acute lymphoblastic leukaemia,0.58,0.46,0.51
+1990,Persons,Acute lymphoblastic leukaemia,0.51,0.37,0.42
+1991,Persons,Acute lymphoblastic leukaemia,0.5,0.36,0.42
+1992,Persons,Acute lymphoblastic leukaemia,0.58,0.45,0.5
+1993,Persons,Acute lymphoblastic leukaemia,0.59,0.42,0.49
+1994,Persons,Acute lymphoblastic leukaemia,0.56,0.44,0.49
+1995,Persons,Acute lymphoblastic leukaemia,0.62,0.45,0.52
+1996,Persons,Acute lymphoblastic leukaemia,0.5,0.37,0.42
+1997,Persons,Acute lymphoblastic leukaemia,0.47,0.37,0.41
+1998,Persons,Acute lymphoblastic leukaemia,0.5,0.41,0.45
+1999,Persons,Acute lymphoblastic leukaemia,0.46,0.36,0.41
+2000,Persons,Acute lymphoblastic leukaemia,0.45,0.32,0.37
+2001,Persons,Acute lymphoblastic leukaemia,0.38,0.28,0.32
+2002,Persons,Acute lymphoblastic leukaemia,0.41,0.29,0.34
+2003,Persons,Acute lymphoblastic leukaemia,0.42,0.27,0.33
+2004,Persons,Acute lymphoblastic leukaemia,0.3,0.2,0.23
+2005,Persons,Acute lymphoblastic leukaemia,0.37,0.27,0.31
+2006,Persons,Acute lymphoblastic leukaemia,0.29,0.21,0.24
+2007,Persons,Acute lymphoblastic leukaemia,0.27,0.18,0.22
+2008,Persons,Acute lymphoblastic leukaemia,0.31,0.21,0.25
+2009,Persons,Acute lymphoblastic leukaemia,0.23,0.16,0.18
+2010,Persons,Acute lymphoblastic leukaemia,0.29,0.19,0.23
+2011,Persons,Acute lymphoblastic leukaemia,,,
+1968,Male,Acute myeloid leukaemia,,,
+1969,Male,Acute myeloid leukaemia,,,
+1970,Male,Acute myeloid leukaemia,,,
+1971,Male,Acute myeloid leukaemia,,,
+1972,Male,Acute myeloid leukaemia,,,
+1973,Male,Acute myeloid leukaemia,,,
+1974,Male,Acute myeloid leukaemia,,,
+1975,Male,Acute myeloid leukaemia,,,
+1976,Male,Acute myeloid leukaemia,,,
+1977,Male,Acute myeloid leukaemia,,,
+1978,Male,Acute myeloid leukaemia,,,
+1979,Male,Acute myeloid leukaemia,,,
+1980,Male,Acute myeloid leukaemia,,,
+1981,Male,Acute myeloid leukaemia,,,
+1982,Male,Acute myeloid leukaemia,0.96,0.94,0.95
+1983,Male,Acute myeloid leukaemia,0.8,0.78,0.78
+1984,Male,Acute myeloid leukaemia,0.91,0.88,0.89
+1985,Male,Acute myeloid leukaemia,0.99,0.93,0.95
+1986,Male,Acute myeloid leukaemia,0.9,0.88,0.88
+1987,Male,Acute myeloid leukaemia,0.88,0.84,0.85
+1988,Male,Acute myeloid leukaemia,0.81,0.72,0.75
+1989,Male,Acute myeloid leukaemia,0.91,0.87,0.89
+1990,Male,Acute myeloid leukaemia,0.9,0.8,0.83
+1991,Male,Acute myeloid leukaemia,0.91,0.85,0.88
+1992,Male,Acute myeloid leukaemia,0.87,0.83,0.84
+1993,Male,Acute myeloid leukaemia,1,0.92,0.95
+1994,Male,Acute myeloid leukaemia,0.86,0.75,0.79
+1995,Male,Acute myeloid leukaemia,1.05,0.95,0.98
+1996,Male,Acute myeloid leukaemia,0.88,0.81,0.84
+1997,Male,Acute myeloid leukaemia,0.82,0.73,0.76
+1998,Male,Acute myeloid leukaemia,0.92,0.86,0.88
+1999,Male,Acute myeloid leukaemia,0.83,0.73,0.77
+2000,Male,Acute myeloid leukaemia,0.79,0.73,0.75
+2001,Male,Acute myeloid leukaemia,0.81,0.71,0.74
+2002,Male,Acute myeloid leukaemia,0.86,0.76,0.79
+2003,Male,Acute myeloid leukaemia,0.78,0.7,0.73
+2004,Male,Acute myeloid leukaemia,0.96,0.85,0.88
+2005,Male,Acute myeloid leukaemia,0.77,0.65,0.69
+2006,Male,Acute myeloid leukaemia,0.88,0.78,0.81
+2007,Male,Acute myeloid leukaemia,0.88,0.76,0.8
+2008,Male,Acute myeloid leukaemia,0.91,0.76,0.81
+2009,Male,Acute myeloid leukaemia,0.92,0.78,0.82
+2010,Male,Acute myeloid leukaemia,0.97,0.82,0.87
+2011,Male,Acute myeloid leukaemia,,,
+1968,Female,Acute myeloid leukaemia,,,
+1969,Female,Acute myeloid leukaemia,,,
+1970,Female,Acute myeloid leukaemia,,,
+1971,Female,Acute myeloid leukaemia,,,
+1972,Female,Acute myeloid leukaemia,,,
+1973,Female,Acute myeloid leukaemia,,,
+1974,Female,Acute myeloid leukaemia,,,
+1975,Female,Acute myeloid leukaemia,,,
+1976,Female,Acute myeloid leukaemia,,,
+1977,Female,Acute myeloid leukaemia,,,
+1978,Female,Acute myeloid leukaemia,,,
+1979,Female,Acute myeloid leukaemia,,,
+1980,Female,Acute myeloid leukaemia,,,
+1981,Female,Acute myeloid leukaemia,,,
+1982,Female,Acute myeloid leukaemia,0.94,0.91,0.91
+1983,Female,Acute myeloid leukaemia,0.87,0.85,0.85
+1984,Female,Acute myeloid leukaemia,0.84,0.8,0.82
+1985,Female,Acute myeloid leukaemia,0.82,0.8,0.81
+1986,Female,Acute myeloid leukaemia,0.97,0.96,0.96
+1987,Female,Acute myeloid leukaemia,0.92,0.86,0.87
+1988,Female,Acute myeloid leukaemia,0.85,0.83,0.84
+1989,Female,Acute myeloid leukaemia,0.78,0.7,0.72
+1990,Female,Acute myeloid leukaemia,0.84,0.75,0.77
+1991,Female,Acute myeloid leukaemia,0.9,0.82,0.85
+1992,Female,Acute myeloid leukaemia,0.91,0.86,0.87
+1993,Female,Acute myeloid leukaemia,0.87,0.8,0.83
+1994,Female,Acute myeloid leukaemia,0.84,0.79,0.8
+1995,Female,Acute myeloid leukaemia,0.85,0.76,0.79
+1996,Female,Acute myeloid leukaemia,0.86,0.75,0.78
+1997,Female,Acute myeloid leukaemia,0.78,0.68,0.71
+1998,Female,Acute myeloid leukaemia,0.85,0.78,0.8
+1999,Female,Acute myeloid leukaemia,0.76,0.7,0.72
+2000,Female,Acute myeloid leukaemia,0.73,0.67,0.68
+2001,Female,Acute myeloid leukaemia,0.72,0.6,0.63
+2002,Female,Acute myeloid leukaemia,0.77,0.7,0.72
+2003,Female,Acute myeloid leukaemia,0.71,0.6,0.63
+2004,Female,Acute myeloid leukaemia,0.78,0.69,0.72
+2005,Female,Acute myeloid leukaemia,0.76,0.65,0.68
+2006,Female,Acute myeloid leukaemia,0.85,0.72,0.76
+2007,Female,Acute myeloid leukaemia,0.76,0.66,0.69
+2008,Female,Acute myeloid leukaemia,0.74,0.64,0.67
+2009,Female,Acute myeloid leukaemia,0.79,0.65,0.69
+2010,Female,Acute myeloid leukaemia,0.82,0.68,0.72
+2011,Female,Acute myeloid leukaemia,,,
+1968,Persons,Acute myeloid leukaemia,,,
+1969,Persons,Acute myeloid leukaemia,,,
+1970,Persons,Acute myeloid leukaemia,,,
+1971,Persons,Acute myeloid leukaemia,,,
+1972,Persons,Acute myeloid leukaemia,,,
+1973,Persons,Acute myeloid leukaemia,,,
+1974,Persons,Acute myeloid leukaemia,,,
+1975,Persons,Acute myeloid leukaemia,,,
+1976,Persons,Acute myeloid leukaemia,,,
+1977,Persons,Acute myeloid leukaemia,,,
+1978,Persons,Acute myeloid leukaemia,,,
+1979,Persons,Acute myeloid leukaemia,,,
+1980,Persons,Acute myeloid leukaemia,,,
+1981,Persons,Acute myeloid leukaemia,,,
+1982,Persons,Acute myeloid leukaemia,0.95,0.92,0.93
+1983,Persons,Acute myeloid leukaemia,0.83,0.81,0.81
+1984,Persons,Acute myeloid leukaemia,0.88,0.85,0.86
+1985,Persons,Acute myeloid leukaemia,0.9,0.86,0.87
+1986,Persons,Acute myeloid leukaemia,0.92,0.91,0.91
+1987,Persons,Acute myeloid leukaemia,0.9,0.85,0.86
+1988,Persons,Acute myeloid leukaemia,0.81,0.75,0.77
+1989,Persons,Acute myeloid leukaemia,0.86,0.8,0.82
+1990,Persons,Acute myeloid leukaemia,0.86,0.77,0.79
+1991,Persons,Acute myeloid leukaemia,0.91,0.84,0.87
+1992,Persons,Acute myeloid leukaemia,0.89,0.84,0.85
+1993,Persons,Acute myeloid leukaemia,0.94,0.86,0.89
+1994,Persons,Acute myeloid leukaemia,0.84,0.76,0.79
+1995,Persons,Acute myeloid leukaemia,0.95,0.86,0.89
+1996,Persons,Acute myeloid leukaemia,0.87,0.79,0.81
+1997,Persons,Acute myeloid leukaemia,0.79,0.7,0.73
+1998,Persons,Acute myeloid leukaemia,0.89,0.82,0.84
+1999,Persons,Acute myeloid leukaemia,0.79,0.71,0.74
+2000,Persons,Acute myeloid leukaemia,0.77,0.7,0.72
+2001,Persons,Acute myeloid leukaemia,0.76,0.65,0.69
+2002,Persons,Acute myeloid leukaemia,0.81,0.73,0.75
+2003,Persons,Acute myeloid leukaemia,0.75,0.65,0.68
+2004,Persons,Acute myeloid leukaemia,0.87,0.77,0.8
+2005,Persons,Acute myeloid leukaemia,0.76,0.64,0.69
+2006,Persons,Acute myeloid leukaemia,0.87,0.75,0.79
+2007,Persons,Acute myeloid leukaemia,0.83,0.72,0.75
+2008,Persons,Acute myeloid leukaemia,0.83,0.7,0.74
+2009,Persons,Acute myeloid leukaemia,0.86,0.72,0.76
+2010,Persons,Acute myeloid leukaemia,0.9,0.75,0.8
+2011,Persons,Acute myeloid leukaemia,,,
+1968,Male,Anal cancer,,,
+1969,Male,Anal cancer,,,
+1970,Male,Anal cancer,,,
+1971,Male,Anal cancer,,,
+1972,Male,Anal cancer,,,
+1973,Male,Anal cancer,,,
+1974,Male,Anal cancer,,,
+1975,Male,Anal cancer,,,
+1976,Male,Anal cancer,,,
+1977,Male,Anal cancer,,,
+1978,Male,Anal cancer,,,
+1979,Male,Anal cancer,,,
+1980,Male,Anal cancer,,,
+1981,Male,Anal cancer,,,
+1982,Male,Anal cancer,0.44,0.38,0.4
+1983,Male,Anal cancer,0.36,0.29,0.32
+1984,Male,Anal cancer,0.12,0.12,0.12
+1985,Male,Anal cancer,0.14,0.14,0.13
+1986,Male,Anal cancer,0.19,0.25,0.23
+1987,Male,Anal cancer,0.32,0.32,0.31
+1988,Male,Anal cancer,0.24,0.2,0.21
+1989,Male,Anal cancer,0.27,0.27,0.28
+1990,Male,Anal cancer,0.21,0.25,0.23
+1991,Male,Anal cancer,0.24,0.21,0.21
+1992,Male,Anal cancer,0.21,0.18,0.18
+1993,Male,Anal cancer,0.23,0.21,0.22
+1994,Male,Anal cancer,0.31,0.3,0.3
+1995,Male,Anal cancer,0.19,0.2,0.19
+1996,Male,Anal cancer,0.2,0.19,0.2
+1997,Male,Anal cancer,0.18,0.2,0.19
+1998,Male,Anal cancer,0.21,0.19,0.19
+1999,Male,Anal cancer,0.19,0.19,0.18
+2000,Male,Anal cancer,0.26,0.21,0.23
+2001,Male,Anal cancer,0.29,0.29,0.29
+2002,Male,Anal cancer,0.26,0.24,0.25
+2003,Male,Anal cancer,0.28,0.23,0.24
+2004,Male,Anal cancer,0.25,0.23,0.24
+2005,Male,Anal cancer,0.16,0.16,0.16
+2006,Male,Anal cancer,0.2,0.18,0.18
+2007,Male,Anal cancer,0.25,0.25,0.25
+2008,Male,Anal cancer,0.2,0.17,0.18
+2009,Male,Anal cancer,0.17,0.15,0.16
+2010,Male,Anal cancer,0.27,0.23,0.25
+2011,Male,Anal cancer,,,
+1968,Female,Anal cancer,,,
+1969,Female,Anal cancer,,,
+1970,Female,Anal cancer,,,
+1971,Female,Anal cancer,,,
+1972,Female,Anal cancer,,,
+1973,Female,Anal cancer,,,
+1974,Female,Anal cancer,,,
+1975,Female,Anal cancer,,,
+1976,Female,Anal cancer,,,
+1977,Female,Anal cancer,,,
+1978,Female,Anal cancer,,,
+1979,Female,Anal cancer,,,
+1980,Female,Anal cancer,,,
+1981,Female,Anal cancer,,,
+1982,Female,Anal cancer,0.26,0.26,0.26
+1983,Female,Anal cancer,0.39,0.3,0.33
+1984,Female,Anal cancer,0.22,0.19,0.2
+1985,Female,Anal cancer,0.26,0.22,0.23
+1986,Female,Anal cancer,0.15,0.15,0.14
+1987,Female,Anal cancer,0.24,0.22,0.23
+1988,Female,Anal cancer,0.19,0.15,0.16
+1989,Female,Anal cancer,0.15,0.14,0.14
+1990,Female,Anal cancer,0.17,0.12,0.14
+1991,Female,Anal cancer,0.23,0.22,0.22
+1992,Female,Anal cancer,0.24,0.23,0.23
+1993,Female,Anal cancer,0.14,0.13,0.13
+1994,Female,Anal cancer,0.17,0.11,0.13
+1995,Female,Anal cancer,0.22,0.2,0.2
+1996,Female,Anal cancer,0.23,0.21,0.21
+1997,Female,Anal cancer,0.24,0.21,0.22
+1998,Female,Anal cancer,0.19,0.17,0.18
+1999,Female,Anal cancer,0.19,0.18,0.18
+2000,Female,Anal cancer,0.25,0.21,0.23
+2001,Female,Anal cancer,0.27,0.26,0.26
+2002,Female,Anal cancer,0.24,0.21,0.21
+2003,Female,Anal cancer,0.18,0.16,0.17
+2004,Female,Anal cancer,0.16,0.13,0.14
+2005,Female,Anal cancer,0.15,0.11,0.12
+2006,Female,Anal cancer,0.19,0.17,0.18
+2007,Female,Anal cancer,0.17,0.16,0.16
+2008,Female,Anal cancer,0.18,0.15,0.16
+2009,Female,Anal cancer,0.17,0.15,0.16
+2010,Female,Anal cancer,0.19,0.17,0.18
+2011,Female,Anal cancer,,,
+1968,Persons,Anal cancer,,,
+1969,Persons,Anal cancer,,,
+1970,Persons,Anal cancer,,,
+1971,Persons,Anal cancer,,,
+1972,Persons,Anal cancer,,,
+1973,Persons,Anal cancer,,,
+1974,Persons,Anal cancer,,,
+1975,Persons,Anal cancer,,,
+1976,Persons,Anal cancer,,,
+1977,Persons,Anal cancer,,,
+1978,Persons,Anal cancer,,,
+1979,Persons,Anal cancer,,,
+1980,Persons,Anal cancer,,,
+1981,Persons,Anal cancer,,,
+1982,Persons,Anal cancer,0.31,0.3,0.3
+1983,Persons,Anal cancer,0.39,0.3,0.34
+1984,Persons,Anal cancer,0.19,0.16,0.17
+1985,Persons,Anal cancer,0.22,0.19,0.2
+1986,Persons,Anal cancer,0.18,0.2,0.18
+1987,Persons,Anal cancer,0.28,0.27,0.27
+1988,Persons,Anal cancer,0.21,0.18,0.19
+1989,Persons,Anal cancer,0.19,0.19,0.19
+1990,Persons,Anal cancer,0.2,0.19,0.19
+1991,Persons,Anal cancer,0.22,0.21,0.21
+1992,Persons,Anal cancer,0.23,0.21,0.21
+1993,Persons,Anal cancer,0.18,0.17,0.18
+1994,Persons,Anal cancer,0.23,0.19,0.2
+1995,Persons,Anal cancer,0.21,0.2,0.2
+1996,Persons,Anal cancer,0.22,0.2,0.21
+1997,Persons,Anal cancer,0.22,0.22,0.21
+1998,Persons,Anal cancer,0.2,0.18,0.19
+1999,Persons,Anal cancer,0.19,0.19,0.18
+2000,Persons,Anal cancer,0.26,0.22,0.23
+2001,Persons,Anal cancer,0.29,0.28,0.28
+2002,Persons,Anal cancer,0.26,0.22,0.23
+2003,Persons,Anal cancer,0.22,0.19,0.2
+2004,Persons,Anal cancer,0.21,0.18,0.19
+2005,Persons,Anal cancer,0.16,0.14,0.15
+2006,Persons,Anal cancer,0.19,0.17,0.18
+2007,Persons,Anal cancer,0.21,0.2,0.2
+2008,Persons,Anal cancer,0.19,0.16,0.17
+2009,Persons,Anal cancer,0.17,0.15,0.16
+2010,Persons,Anal cancer,0.22,0.19,0.2
+2011,Persons,Anal cancer,,,
+1968,Male,Bladder cancer,,,
+1969,Male,Bladder cancer,,,
+1970,Male,Bladder cancer,,,
+1971,Male,Bladder cancer,,,
+1972,Male,Bladder cancer,,,
+1973,Male,Bladder cancer,,,
+1974,Male,Bladder cancer,,,
+1975,Male,Bladder cancer,,,
+1976,Male,Bladder cancer,,,
+1977,Male,Bladder cancer,,,
+1978,Male,Bladder cancer,,,
+1979,Male,Bladder cancer,,,
+1980,Male,Bladder cancer,,,
+1981,Male,Bladder cancer,,,
+1982,Male,Bladder cancer,0.32,0.27,0.29
+1983,Male,Bladder cancer,0.3,0.26,0.28
+1984,Male,Bladder cancer,0.32,0.27,0.29
+1985,Male,Bladder cancer,0.34,0.28,0.3
+1986,Male,Bladder cancer,0.34,0.29,0.31
+1987,Male,Bladder cancer,0.38,0.32,0.34
+1988,Male,Bladder cancer,0.36,0.31,0.33
+1989,Male,Bladder cancer,0.36,0.31,0.33
+1990,Male,Bladder cancer,0.36,0.3,0.32
+1991,Male,Bladder cancer,0.36,0.31,0.33
+1992,Male,Bladder cancer,0.34,0.3,0.31
+1993,Male,Bladder cancer,0.37,0.3,0.33
+1994,Male,Bladder cancer,0.35,0.3,0.32
+1995,Male,Bladder cancer,0.42,0.35,0.37
+1996,Male,Bladder cancer,0.4,0.34,0.36
+1997,Male,Bladder cancer,0.39,0.35,0.36
+1998,Male,Bladder cancer,0.38,0.34,0.35
+1999,Male,Bladder cancer,0.41,0.36,0.37
+2000,Male,Bladder cancer,0.36,0.32,0.33
+2001,Male,Bladder cancer,0.39,0.35,0.36
+2002,Male,Bladder cancer,0.41,0.35,0.37
+2003,Male,Bladder cancer,0.39,0.34,0.36
+2004,Male,Bladder cancer,0.38,0.33,0.35
+2005,Male,Bladder cancer,0.41,0.37,0.38
+2006,Male,Bladder cancer,0.38,0.34,0.35
+2007,Male,Bladder cancer,0.4,0.35,0.37
+2008,Male,Bladder cancer,0.4,0.35,0.37
+2009,Male,Bladder cancer,0.42,0.38,0.39
+2010,Male,Bladder cancer,0.41,0.35,0.37
+2011,Male,Bladder cancer,,,
+1968,Female,Bladder cancer,,,
+1969,Female,Bladder cancer,,,
+1970,Female,Bladder cancer,,,
+1971,Female,Bladder cancer,,,
+1972,Female,Bladder cancer,,,
+1973,Female,Bladder cancer,,,
+1974,Female,Bladder cancer,,,
+1975,Female,Bladder cancer,,,
+1976,Female,Bladder cancer,,,
+1977,Female,Bladder cancer,,,
+1978,Female,Bladder cancer,,,
+1979,Female,Bladder cancer,,,
+1980,Female,Bladder cancer,,,
+1981,Female,Bladder cancer,,,
+1982,Female,Bladder cancer,0.31,0.26,0.28
+1983,Female,Bladder cancer,0.33,0.28,0.3
+1984,Female,Bladder cancer,0.38,0.31,0.33
+1985,Female,Bladder cancer,0.35,0.3,0.32
+1986,Female,Bladder cancer,0.35,0.3,0.31
+1987,Female,Bladder cancer,0.36,0.29,0.31
+1988,Female,Bladder cancer,0.35,0.29,0.31
+1989,Female,Bladder cancer,0.42,0.35,0.38
+1990,Female,Bladder cancer,0.45,0.38,0.4
+1991,Female,Bladder cancer,0.45,0.38,0.41
+1992,Female,Bladder cancer,0.47,0.42,0.43
+1993,Female,Bladder cancer,0.43,0.36,0.39
+1994,Female,Bladder cancer,0.41,0.35,0.37
+1995,Female,Bladder cancer,0.45,0.39,0.41
+1996,Female,Bladder cancer,0.48,0.4,0.43
+1997,Female,Bladder cancer,0.46,0.39,0.41
+1998,Female,Bladder cancer,0.41,0.34,0.37
+1999,Female,Bladder cancer,0.45,0.41,0.42
+2000,Female,Bladder cancer,0.41,0.32,0.36
+2001,Female,Bladder cancer,0.47,0.4,0.43
+2002,Female,Bladder cancer,0.42,0.36,0.38
+2003,Female,Bladder cancer,0.46,0.38,0.42
+2004,Female,Bladder cancer,0.55,0.51,0.52
+2005,Female,Bladder cancer,0.43,0.37,0.39
+2006,Female,Bladder cancer,0.46,0.42,0.43
+2007,Female,Bladder cancer,0.52,0.44,0.47
+2008,Female,Bladder cancer,0.47,0.4,0.42
+2009,Female,Bladder cancer,0.5,0.44,0.47
+2010,Female,Bladder cancer,0.43,0.36,0.38
+2011,Female,Bladder cancer,,,
+1968,Persons,Bladder cancer,,,
+1969,Persons,Bladder cancer,,,
+1970,Persons,Bladder cancer,,,
+1971,Persons,Bladder cancer,,,
+1972,Persons,Bladder cancer,,,
+1973,Persons,Bladder cancer,,,
+1974,Persons,Bladder cancer,,,
+1975,Persons,Bladder cancer,,,
+1976,Persons,Bladder cancer,,,
+1977,Persons,Bladder cancer,,,
+1978,Persons,Bladder cancer,,,
+1979,Persons,Bladder cancer,,,
+1980,Persons,Bladder cancer,,,
+1981,Persons,Bladder cancer,,,
+1982,Persons,Bladder cancer,0.3,0.26,0.27
+1983,Persons,Bladder cancer,0.3,0.26,0.28
+1984,Persons,Bladder cancer,0.32,0.27,0.29
+1985,Persons,Bladder cancer,0.33,0.28,0.29
+1986,Persons,Bladder cancer,0.34,0.29,0.3
+1987,Persons,Bladder cancer,0.36,0.31,0.32
+1988,Persons,Bladder cancer,0.34,0.29,0.31
+1989,Persons,Bladder cancer,0.36,0.31,0.33
+1990,Persons,Bladder cancer,0.37,0.31,0.33
+1991,Persons,Bladder cancer,0.37,0.32,0.34
+1992,Persons,Bladder cancer,0.36,0.32,0.33
+1993,Persons,Bladder cancer,0.37,0.3,0.33
+1994,Persons,Bladder cancer,0.35,0.3,0.32
+1995,Persons,Bladder cancer,0.41,0.34,0.36
+1996,Persons,Bladder cancer,0.41,0.34,0.37
+1997,Persons,Bladder cancer,0.4,0.35,0.37
+1998,Persons,Bladder cancer,0.38,0.33,0.35
+1999,Persons,Bladder cancer,0.4,0.36,0.37
+2000,Persons,Bladder cancer,0.37,0.31,0.33
+2001,Persons,Bladder cancer,0.4,0.35,0.37
+2002,Persons,Bladder cancer,0.4,0.34,0.36
+2003,Persons,Bladder cancer,0.4,0.35,0.37
+2004,Persons,Bladder cancer,0.41,0.36,0.38
+2005,Persons,Bladder cancer,0.41,0.36,0.38
+2006,Persons,Bladder cancer,0.39,0.34,0.36
+2007,Persons,Bladder cancer,0.43,0.37,0.39
+2008,Persons,Bladder cancer,0.41,0.35,0.37
+2009,Persons,Bladder cancer,0.43,0.39,0.4
+2010,Persons,Bladder cancer,0.4,0.35,0.37
+2011,Persons,Bladder cancer,,,
+1968,Male,Bowel cancer,,,
+1969,Male,Bowel cancer,,,
+1970,Male,Bowel cancer,,,
+1971,Male,Bowel cancer,,,
+1972,Male,Bowel cancer,,,
+1973,Male,Bowel cancer,,,
+1974,Male,Bowel cancer,,,
+1975,Male,Bowel cancer,,,
+1976,Male,Bowel cancer,,,
+1977,Male,Bowel cancer,,,
+1978,Male,Bowel cancer,,,
+1979,Male,Bowel cancer,,,
+1980,Male,Bowel cancer,,,
+1981,Male,Bowel cancer,,,
+1982,Male,Bowel cancer,0.56,0.52,0.53
+1983,Male,Bowel cancer,0.56,0.52,0.53
+1984,Male,Bowel cancer,0.52,0.49,0.5
+1985,Male,Bowel cancer,0.52,0.48,0.5
+1986,Male,Bowel cancer,0.52,0.49,0.5
+1987,Male,Bowel cancer,0.53,0.5,0.51
+1988,Male,Bowel cancer,0.52,0.48,0.5
+1989,Male,Bowel cancer,0.49,0.46,0.47
+1990,Male,Bowel cancer,0.47,0.44,0.45
+1991,Male,Bowel cancer,0.45,0.42,0.43
+1992,Male,Bowel cancer,0.47,0.43,0.45
+1993,Male,Bowel cancer,0.46,0.43,0.44
+1994,Male,Bowel cancer,0.46,0.44,0.45
+1995,Male,Bowel cancer,0.44,0.41,0.42
+1996,Male,Bowel cancer,0.42,0.4,0.41
+1997,Male,Bowel cancer,0.43,0.4,0.41
+1998,Male,Bowel cancer,0.42,0.39,0.4
+1999,Male,Bowel cancer,0.41,0.38,0.39
+2000,Male,Bowel cancer,0.38,0.36,0.37
+2001,Male,Bowel cancer,0.38,0.36,0.37
+2002,Male,Bowel cancer,0.36,0.33,0.34
+2003,Male,Bowel cancer,0.36,0.33,0.34
+2004,Male,Bowel cancer,0.32,0.29,0.3
+2005,Male,Bowel cancer,0.33,0.31,0.31
+2006,Male,Bowel cancer,0.29,0.27,0.28
+2007,Male,Bowel cancer,0.29,0.27,0.28
+2008,Male,Bowel cancer,0.28,0.25,0.26
+2009,Male,Bowel cancer,0.29,0.27,0.28
+2010,Male,Bowel cancer,0.27,0.24,0.25
+2011,Male,Bowel cancer,,,
+1968,Female,Bowel cancer,,,
+1969,Female,Bowel cancer,,,
+1970,Female,Bowel cancer,,,
+1971,Female,Bowel cancer,,,
+1972,Female,Bowel cancer,,,
+1973,Female,Bowel cancer,,,
+1974,Female,Bowel cancer,,,
+1975,Female,Bowel cancer,,,
+1976,Female,Bowel cancer,,,
+1977,Female,Bowel cancer,,,
+1978,Female,Bowel cancer,,,
+1979,Female,Bowel cancer,,,
+1980,Female,Bowel cancer,,,
+1981,Female,Bowel cancer,,,
+1982,Female,Bowel cancer,0.53,0.48,0.5
+1983,Female,Bowel cancer,0.54,0.5,0.52
+1984,Female,Bowel cancer,0.51,0.48,0.49
+1985,Female,Bowel cancer,0.51,0.47,0.48
+1986,Female,Bowel cancer,0.52,0.48,0.49
+1987,Female,Bowel cancer,0.51,0.47,0.48
+1988,Female,Bowel cancer,0.5,0.47,0.48
+1989,Female,Bowel cancer,0.48,0.45,0.46
+1990,Female,Bowel cancer,0.47,0.44,0.45
+1991,Female,Bowel cancer,0.44,0.41,0.42
+1992,Female,Bowel cancer,0.43,0.39,0.4
+1993,Female,Bowel cancer,0.45,0.42,0.43
+1994,Female,Bowel cancer,0.44,0.41,0.41
+1995,Female,Bowel cancer,0.43,0.4,0.41
+1996,Female,Bowel cancer,0.43,0.39,0.4
+1997,Female,Bowel cancer,0.41,0.38,0.39
+1998,Female,Bowel cancer,0.41,0.38,0.39
+1999,Female,Bowel cancer,0.37,0.34,0.35
+2000,Female,Bowel cancer,0.38,0.34,0.35
+2001,Female,Bowel cancer,0.35,0.33,0.34
+2002,Female,Bowel cancer,0.37,0.34,0.35
+2003,Female,Bowel cancer,0.33,0.3,0.31
+2004,Female,Bowel cancer,0.31,0.28,0.29
+2005,Female,Bowel cancer,0.3,0.27,0.28
+2006,Female,Bowel cancer,0.26,0.23,0.24
+2007,Female,Bowel cancer,0.27,0.25,0.26
+2008,Female,Bowel cancer,0.27,0.25,0.26
+2009,Female,Bowel cancer,0.27,0.25,0.25
+2010,Female,Bowel cancer,0.26,0.23,0.24
+2011,Female,Bowel cancer,,,
+1968,Persons,Bowel cancer,,,
+1969,Persons,Bowel cancer,,,
+1970,Persons,Bowel cancer,,,
+1971,Persons,Bowel cancer,,,
+1972,Persons,Bowel cancer,,,
+1973,Persons,Bowel cancer,,,
+1974,Persons,Bowel cancer,,,
+1975,Persons,Bowel cancer,,,
+1976,Persons,Bowel cancer,,,
+1977,Persons,Bowel cancer,,,
+1978,Persons,Bowel cancer,,,
+1979,Persons,Bowel cancer,,,
+1980,Persons,Bowel cancer,,,
+1981,Persons,Bowel cancer,,,
+1982,Persons,Bowel cancer,0.54,0.5,0.52
+1983,Persons,Bowel cancer,0.55,0.51,0.52
+1984,Persons,Bowel cancer,0.52,0.49,0.5
+1985,Persons,Bowel cancer,0.52,0.48,0.49
+1986,Persons,Bowel cancer,0.52,0.49,0.5
+1987,Persons,Bowel cancer,0.52,0.48,0.49
+1988,Persons,Bowel cancer,0.51,0.47,0.49
+1989,Persons,Bowel cancer,0.48,0.45,0.46
+1990,Persons,Bowel cancer,0.47,0.44,0.45
+1991,Persons,Bowel cancer,0.44,0.41,0.42
+1992,Persons,Bowel cancer,0.45,0.41,0.42
+1993,Persons,Bowel cancer,0.46,0.42,0.43
+1994,Persons,Bowel cancer,0.45,0.42,0.43
+1995,Persons,Bowel cancer,0.43,0.4,0.41
+1996,Persons,Bowel cancer,0.42,0.39,0.4
+1997,Persons,Bowel cancer,0.42,0.39,0.4
+1998,Persons,Bowel cancer,0.41,0.39,0.4
+1999,Persons,Bowel cancer,0.39,0.36,0.37
+2000,Persons,Bowel cancer,0.38,0.35,0.36
+2001,Persons,Bowel cancer,0.37,0.34,0.35
+2002,Persons,Bowel cancer,0.36,0.33,0.34
+2003,Persons,Bowel cancer,0.35,0.32,0.33
+2004,Persons,Bowel cancer,0.31,0.29,0.29
+2005,Persons,Bowel cancer,0.32,0.29,0.3
+2006,Persons,Bowel cancer,0.28,0.25,0.26
+2007,Persons,Bowel cancer,0.28,0.26,0.27
+2008,Persons,Bowel cancer,0.28,0.25,0.26
+2009,Persons,Bowel cancer,0.28,0.26,0.26
+2010,Persons,Bowel cancer,0.26,0.24,0.25
+2011,Persons,Bowel cancer,,,
+1968,Male,Brain cancer,,,
+1969,Male,Brain cancer,,,
+1970,Male,Brain cancer,,,
+1971,Male,Brain cancer,,,
+1972,Male,Brain cancer,,,
+1973,Male,Brain cancer,,,
+1974,Male,Brain cancer,,,
+1975,Male,Brain cancer,,,
+1976,Male,Brain cancer,,,
+1977,Male,Brain cancer,,,
+1978,Male,Brain cancer,,,
+1979,Male,Brain cancer,,,
+1980,Male,Brain cancer,,,
+1981,Male,Brain cancer,,,
+1982,Male,Brain cancer,0.8,0.75,0.76
+1983,Male,Brain cancer,0.95,0.87,0.89
+1984,Male,Brain cancer,0.9,0.84,0.86
+1985,Male,Brain cancer,0.88,0.8,0.83
+1986,Male,Brain cancer,0.76,0.71,0.72
+1987,Male,Brain cancer,0.79,0.74,0.75
+1988,Male,Brain cancer,0.9,0.83,0.85
+1989,Male,Brain cancer,0.85,0.81,0.82
+1990,Male,Brain cancer,0.91,0.87,0.88
+1991,Male,Brain cancer,0.87,0.82,0.83
+1992,Male,Brain cancer,0.84,0.78,0.8
+1993,Male,Brain cancer,0.91,0.85,0.86
+1994,Male,Brain cancer,0.86,0.8,0.82
+1995,Male,Brain cancer,0.83,0.78,0.79
+1996,Male,Brain cancer,0.87,0.82,0.83
+1997,Male,Brain cancer,0.86,0.82,0.83
+1998,Male,Brain cancer,0.85,0.81,0.81
+1999,Male,Brain cancer,0.82,0.78,0.79
+2000,Male,Brain cancer,0.84,0.81,0.81
+2001,Male,Brain cancer,0.81,0.76,0.78
+2002,Male,Brain cancer,0.8,0.75,0.76
+2003,Male,Brain cancer,0.83,0.78,0.79
+2004,Male,Brain cancer,0.79,0.76,0.77
+2005,Male,Brain cancer,0.75,0.69,0.71
+2006,Male,Brain cancer,0.78,0.71,0.73
+2007,Male,Brain cancer,0.76,0.72,0.73
+2008,Male,Brain cancer,0.79,0.73,0.74
+2009,Male,Brain cancer,0.74,0.69,0.71
+2010,Male,Brain cancer,0.74,0.7,0.71
+2011,Male,Brain cancer,,,
+1968,Female,Brain cancer,,,
+1969,Female,Brain cancer,,,
+1970,Female,Brain cancer,,,
+1971,Female,Brain cancer,,,
+1972,Female,Brain cancer,,,
+1973,Female,Brain cancer,,,
+1974,Female,Brain cancer,,,
+1975,Female,Brain cancer,,,
+1976,Female,Brain cancer,,,
+1977,Female,Brain cancer,,,
+1978,Female,Brain cancer,,,
+1979,Female,Brain cancer,,,
+1980,Female,Brain cancer,,,
+1981,Female,Brain cancer,,,
+1982,Female,Brain cancer,0.81,0.76,0.77
+1983,Female,Brain cancer,0.83,0.78,0.8
+1984,Female,Brain cancer,0.86,0.77,0.8
+1985,Female,Brain cancer,0.88,0.85,0.86
+1986,Female,Brain cancer,0.77,0.71,0.73
+1987,Female,Brain cancer,0.81,0.76,0.78
+1988,Female,Brain cancer,0.82,0.77,0.78
+1989,Female,Brain cancer,0.75,0.7,0.71
+1990,Female,Brain cancer,0.92,0.85,0.87
+1991,Female,Brain cancer,0.78,0.71,0.72
+1992,Female,Brain cancer,0.86,0.81,0.83
+1993,Female,Brain cancer,0.75,0.7,0.71
+1994,Female,Brain cancer,0.87,0.8,0.82
+1995,Female,Brain cancer,0.83,0.78,0.8
+1996,Female,Brain cancer,0.84,0.78,0.79
+1997,Female,Brain cancer,0.87,0.86,0.86
+1998,Female,Brain cancer,0.88,0.83,0.85
+1999,Female,Brain cancer,0.82,0.76,0.78
+2000,Female,Brain cancer,0.81,0.73,0.76
+2001,Female,Brain cancer,0.77,0.7,0.72
+2002,Female,Brain cancer,0.78,0.72,0.73
+2003,Female,Brain cancer,0.78,0.72,0.74
+2004,Female,Brain cancer,0.78,0.74,0.75
+2005,Female,Brain cancer,0.7,0.66,0.67
+2006,Female,Brain cancer,0.71,0.67,0.68
+2007,Female,Brain cancer,0.78,0.73,0.74
+2008,Female,Brain cancer,0.71,0.65,0.67
+2009,Female,Brain cancer,0.69,0.61,0.63
+2010,Female,Brain cancer,0.73,0.69,0.7
+2011,Female,Brain cancer,,,
+1968,Persons,Brain cancer,,,
+1969,Persons,Brain cancer,,,
+1970,Persons,Brain cancer,,,
+1971,Persons,Brain cancer,,,
+1972,Persons,Brain cancer,,,
+1973,Persons,Brain cancer,,,
+1974,Persons,Brain cancer,,,
+1975,Persons,Brain cancer,,,
+1976,Persons,Brain cancer,,,
+1977,Persons,Brain cancer,,,
+1978,Persons,Brain cancer,,,
+1979,Persons,Brain cancer,,,
+1980,Persons,Brain cancer,,,
+1981,Persons,Brain cancer,,,
+1982,Persons,Brain cancer,0.8,0.75,0.76
+1983,Persons,Brain cancer,0.88,0.82,0.84
+1984,Persons,Brain cancer,0.89,0.81,0.83
+1985,Persons,Brain cancer,0.88,0.82,0.84
+1986,Persons,Brain cancer,0.76,0.71,0.73
+1987,Persons,Brain cancer,0.79,0.74,0.76
+1988,Persons,Brain cancer,0.86,0.8,0.82
+1989,Persons,Brain cancer,0.81,0.76,0.77
+1990,Persons,Brain cancer,0.91,0.86,0.88
+1991,Persons,Brain cancer,0.83,0.77,0.78
+1992,Persons,Brain cancer,0.85,0.79,0.81
+1993,Persons,Brain cancer,0.84,0.78,0.8
+1994,Persons,Brain cancer,0.86,0.8,0.82
+1995,Persons,Brain cancer,0.83,0.78,0.79
+1996,Persons,Brain cancer,0.86,0.8,0.81
+1997,Persons,Brain cancer,0.86,0.83,0.84
+1998,Persons,Brain cancer,0.86,0.82,0.83
+1999,Persons,Brain cancer,0.82,0.77,0.79
+2000,Persons,Brain cancer,0.83,0.78,0.79
+2001,Persons,Brain cancer,0.8,0.74,0.76
+2002,Persons,Brain cancer,0.79,0.74,0.75
+2003,Persons,Brain cancer,0.81,0.75,0.77
+2004,Persons,Brain cancer,0.79,0.75,0.76
+2005,Persons,Brain cancer,0.72,0.67,0.69
+2006,Persons,Brain cancer,0.75,0.7,0.71
+2007,Persons,Brain cancer,0.77,0.72,0.73
+2008,Persons,Brain cancer,0.76,0.69,0.71
+2009,Persons,Brain cancer,0.72,0.66,0.68
+2010,Persons,Brain cancer,0.73,0.69,0.7
+2011,Persons,Brain cancer,,,
+1968,Male,Breast cancer,,,
+1969,Male,Breast cancer,,,
+1970,Male,Breast cancer,,,
+1971,Male,Breast cancer,,,
+1972,Male,Breast cancer,,,
+1973,Male,Breast cancer,,,
+1974,Male,Breast cancer,,,
+1975,Male,Breast cancer,,,
+1976,Male,Breast cancer,,,
+1977,Male,Breast cancer,,,
+1978,Male,Breast cancer,,,
+1979,Male,Breast cancer,,,
+1980,Male,Breast cancer,,,
+1981,Male,Breast cancer,,,
+1982,Male,Breast cancer,0.31,0.28,0.29
+1983,Male,Breast cancer,0.36,0.33,0.32
+1984,Male,Breast cancer,0.46,0.37,0.39
+1985,Male,Breast cancer,0.19,0.17,0.18
+1986,Male,Breast cancer,0.34,0.33,0.33
+1987,Male,Breast cancer,0.41,0.36,0.38
+1988,Male,Breast cancer,0.44,0.4,0.4
+1989,Male,Breast cancer,0.29,0.26,0.27
+1990,Male,Breast cancer,0.23,0.21,0.21
+1991,Male,Breast cancer,0.25,0.25,0.25
+1992,Male,Breast cancer,0.41,0.39,0.39
+1993,Male,Breast cancer,0.27,0.21,0.23
+1994,Male,Breast cancer,0.26,0.25,0.26
+1995,Male,Breast cancer,0.42,0.4,0.41
+1996,Male,Breast cancer,0.25,0.24,0.24
+1997,Male,Breast cancer,0.3,0.21,0.25
+1998,Male,Breast cancer,0.23,0.19,0.2
+1999,Male,Breast cancer,0.28,0.29,0.29
+2000,Male,Breast cancer,0.28,0.27,0.28
+2001,Male,Breast cancer,0.29,0.28,0.28
+2002,Male,Breast cancer,0.21,0.19,0.2
+2003,Male,Breast cancer,0.1,0.09,0.1
+2004,Male,Breast cancer,0.18,0.16,0.17
+2005,Male,Breast cancer,0.21,0.18,0.19
+2006,Male,Breast cancer,0.27,0.23,0.24
+2007,Male,Breast cancer,0.25,0.22,0.23
+2008,Male,Breast cancer,0.12,0.12,0.12
+2009,Male,Breast cancer,0.26,0.25,0.25
+2010,Male,Breast cancer,0.19,0.16,0.16
+2011,Male,Breast cancer,,,
+1968,Female,Breast cancer,,,
+1969,Female,Breast cancer,,,
+1970,Female,Breast cancer,,,
+1971,Female,Breast cancer,,,
+1972,Female,Breast cancer,,,
+1973,Female,Breast cancer,,,
+1974,Female,Breast cancer,,,
+1975,Female,Breast cancer,,,
+1976,Female,Breast cancer,,,
+1977,Female,Breast cancer,,,
+1978,Female,Breast cancer,,,
+1979,Female,Breast cancer,,,
+1980,Female,Breast cancer,,,
+1981,Female,Breast cancer,,,
+1982,Female,Breast cancer,0.37,0.35,0.35
+1983,Female,Breast cancer,0.38,0.36,0.36
+1984,Female,Breast cancer,0.38,0.35,0.36
+1985,Female,Breast cancer,0.37,0.35,0.35
+1986,Female,Breast cancer,0.35,0.33,0.34
+1987,Female,Breast cancer,0.34,0.32,0.32
+1988,Female,Breast cancer,0.35,0.32,0.33
+1989,Female,Breast cancer,0.34,0.32,0.32
+1990,Female,Breast cancer,0.32,0.3,0.31
+1991,Female,Breast cancer,0.31,0.29,0.3
+1992,Female,Breast cancer,0.3,0.28,0.28
+1993,Female,Breast cancer,0.29,0.27,0.27
+1994,Female,Breast cancer,0.27,0.25,0.25
+1995,Female,Breast cancer,0.26,0.23,0.24
+1996,Female,Breast cancer,0.26,0.24,0.25
+1997,Female,Breast cancer,0.25,0.23,0.24
+1998,Female,Breast cancer,0.23,0.21,0.21
+1999,Female,Breast cancer,0.23,0.21,0.21
+2000,Female,Breast cancer,0.21,0.19,0.2
+2001,Female,Breast cancer,0.21,0.19,0.2
+2002,Female,Breast cancer,0.21,0.19,0.2
+2003,Female,Breast cancer,0.22,0.2,0.2
+2004,Female,Breast cancer,0.21,0.19,0.19
+2005,Female,Breast cancer,0.21,0.19,0.2
+2006,Female,Breast cancer,0.2,0.17,0.18
+2007,Female,Breast cancer,0.2,0.18,0.19
+2008,Female,Breast cancer,0.19,0.17,0.18
+2009,Female,Breast cancer,0.19,0.17,0.18
+2010,Female,Breast cancer,0.19,0.16,0.17
+2011,Female,Breast cancer,,,
+1968,Persons,Breast cancer,,,
+1969,Persons,Breast cancer,,,
+1970,Persons,Breast cancer,,,
+1971,Persons,Breast cancer,,,
+1972,Persons,Breast cancer,,,
+1973,Persons,Breast cancer,,,
+1974,Persons,Breast cancer,,,
+1975,Persons,Breast cancer,,,
+1976,Persons,Breast cancer,,,
+1977,Persons,Breast cancer,,,
+1978,Persons,Breast cancer,,,
+1979,Persons,Breast cancer,,,
+1980,Persons,Breast cancer,,,
+1981,Persons,Breast cancer,,,
+1982,Persons,Breast cancer,0.39,0.36,0.36
+1983,Persons,Breast cancer,0.39,0.37,0.37
+1984,Persons,Breast cancer,0.39,0.36,0.37
+1985,Persons,Breast cancer,0.38,0.36,0.36
+1986,Persons,Breast cancer,0.36,0.34,0.35
+1987,Persons,Breast cancer,0.35,0.33,0.33
+1988,Persons,Breast cancer,0.36,0.33,0.34
+1989,Persons,Breast cancer,0.35,0.32,0.33
+1990,Persons,Breast cancer,0.33,0.31,0.31
+1991,Persons,Breast cancer,0.32,0.3,0.3
+1992,Persons,Breast cancer,0.31,0.28,0.29
+1993,Persons,Breast cancer,0.3,0.27,0.28
+1994,Persons,Breast cancer,0.28,0.25,0.26
+1995,Persons,Breast cancer,0.27,0.24,0.25
+1996,Persons,Breast cancer,0.27,0.25,0.25
+1997,Persons,Breast cancer,0.26,0.23,0.24
+1998,Persons,Breast cancer,0.24,0.21,0.22
+1999,Persons,Breast cancer,0.24,0.21,0.22
+2000,Persons,Breast cancer,0.22,0.2,0.2
+2001,Persons,Breast cancer,0.22,0.19,0.2
+2002,Persons,Breast cancer,0.22,0.2,0.2
+2003,Persons,Breast cancer,0.23,0.2,0.21
+2004,Persons,Breast cancer,0.22,0.19,0.2
+2005,Persons,Breast cancer,0.22,0.19,0.2
+2006,Persons,Breast cancer,0.2,0.18,0.19
+2007,Persons,Breast cancer,0.21,0.18,0.19
+2008,Persons,Breast cancer,0.2,0.17,0.18
+2009,Persons,Breast cancer,0.2,0.17,0.18
+2010,Persons,Breast cancer,0.19,0.16,0.17
+2011,Persons,Breast cancer,,,
+1968,Male,Cervical cancer,,,
+1969,Male,Cervical cancer,,,
+1970,Male,Cervical cancer,,,
+1971,Male,Cervical cancer,,,
+1972,Male,Cervical cancer,,,
+1973,Male,Cervical cancer,,,
+1974,Male,Cervical cancer,,,
+1975,Male,Cervical cancer,,,
+1976,Male,Cervical cancer,,,
+1977,Male,Cervical cancer,,,
+1978,Male,Cervical cancer,,,
+1979,Male,Cervical cancer,,,
+1980,Male,Cervical cancer,,,
+1981,Male,Cervical cancer,,,
+1982,Male,Cervical cancer,,,
+1983,Male,Cervical cancer,,,
+1984,Male,Cervical cancer,,,
+1985,Male,Cervical cancer,,,
+1986,Male,Cervical cancer,,,
+1987,Male,Cervical cancer,,,
+1988,Male,Cervical cancer,,,
+1989,Male,Cervical cancer,,,
+1990,Male,Cervical cancer,,,
+1991,Male,Cervical cancer,,,
+1992,Male,Cervical cancer,,,
+1993,Male,Cervical cancer,,,
+1994,Male,Cervical cancer,,,
+1995,Male,Cervical cancer,,,
+1996,Male,Cervical cancer,,,
+1997,Male,Cervical cancer,,,
+1998,Male,Cervical cancer,,,
+1999,Male,Cervical cancer,,,
+2000,Male,Cervical cancer,,,
+2001,Male,Cervical cancer,,,
+2002,Male,Cervical cancer,,,
+2003,Male,Cervical cancer,,,
+2004,Male,Cervical cancer,,,
+2005,Male,Cervical cancer,,,
+2006,Male,Cervical cancer,,,
+2007,Male,Cervical cancer,,,
+2008,Male,Cervical cancer,,,
+2009,Male,Cervical cancer,,,
+2010,Male,Cervical cancer,,,
+2011,Male,Cervical cancer,,,
+1968,Female,Cervical cancer,,,
+1969,Female,Cervical cancer,,,
+1970,Female,Cervical cancer,,,
+1971,Female,Cervical cancer,,,
+1972,Female,Cervical cancer,,,
+1973,Female,Cervical cancer,,,
+1974,Female,Cervical cancer,,,
+1975,Female,Cervical cancer,,,
+1976,Female,Cervical cancer,,,
+1977,Female,Cervical cancer,,,
+1978,Female,Cervical cancer,,,
+1979,Female,Cervical cancer,,,
+1980,Female,Cervical cancer,,,
+1981,Female,Cervical cancer,,,
+1982,Female,Cervical cancer,0.37,0.33,0.33
+1983,Female,Cervical cancer,0.35,0.32,0.32
+1984,Female,Cervical cancer,0.35,0.31,0.31
+1985,Female,Cervical cancer,0.35,0.3,0.31
+1986,Female,Cervical cancer,0.33,0.31,0.3
+1987,Female,Cervical cancer,0.32,0.29,0.29
+1988,Female,Cervical cancer,0.33,0.29,0.29
+1989,Female,Cervical cancer,0.35,0.31,0.31
+1990,Female,Cervical cancer,0.31,0.29,0.29
+1991,Female,Cervical cancer,0.3,0.27,0.27
+1992,Female,Cervical cancer,0.31,0.27,0.28
+1993,Female,Cervical cancer,0.31,0.28,0.28
+1994,Female,Cervical cancer,0.3,0.27,0.27
+1995,Female,Cervical cancer,0.35,0.32,0.32
+1996,Female,Cervical cancer,0.31,0.28,0.28
+1997,Female,Cervical cancer,0.34,0.3,0.3
+1998,Female,Cervical cancer,0.29,0.26,0.26
+1999,Female,Cervical cancer,0.28,0.24,0.24
+2000,Female,Cervical cancer,0.33,0.3,0.3
+2001,Female,Cervical cancer,0.35,0.31,0.32
+2002,Female,Cervical cancer,0.3,0.26,0.27
+2003,Female,Cervical cancer,0.31,0.28,0.29
+2004,Female,Cervical cancer,0.27,0.23,0.24
+2005,Female,Cervical cancer,0.28,0.25,0.25
+2006,Female,Cervical cancer,0.3,0.26,0.26
+2007,Female,Cervical cancer,0.25,0.22,0.22
+2008,Female,Cervical cancer,0.28,0.25,0.25
+2009,Female,Cervical cancer,0.29,0.25,0.25
+2010,Female,Cervical cancer,0.26,0.23,0.24
+2011,Female,Cervical cancer,,,
+1968,Persons,Cervical cancer,,,
+1969,Persons,Cervical cancer,,,
+1970,Persons,Cervical cancer,,,
+1971,Persons,Cervical cancer,,,
+1972,Persons,Cervical cancer,,,
+1973,Persons,Cervical cancer,,,
+1974,Persons,Cervical cancer,,,
+1975,Persons,Cervical cancer,,,
+1976,Persons,Cervical cancer,,,
+1977,Persons,Cervical cancer,,,
+1978,Persons,Cervical cancer,,,
+1979,Persons,Cervical cancer,,,
+1980,Persons,Cervical cancer,,,
+1981,Persons,Cervical cancer,,,
+1982,Persons,Cervical cancer,,,
+1983,Persons,Cervical cancer,,,
+1984,Persons,Cervical cancer,,,
+1985,Persons,Cervical cancer,,,
+1986,Persons,Cervical cancer,,,
+1987,Persons,Cervical cancer,,,
+1988,Persons,Cervical cancer,,,
+1989,Persons,Cervical cancer,,,
+1990,Persons,Cervical cancer,,,
+1991,Persons,Cervical cancer,,,
+1992,Persons,Cervical cancer,,,
+1993,Persons,Cervical cancer,,,
+1994,Persons,Cervical cancer,,,
+1995,Persons,Cervical cancer,,,
+1996,Persons,Cervical cancer,,,
+1997,Persons,Cervical cancer,,,
+1998,Persons,Cervical cancer,,,
+1999,Persons,Cervical cancer,,,
+2000,Persons,Cervical cancer,,,
+2001,Persons,Cervical cancer,,,
+2002,Persons,Cervical cancer,,,
+2003,Persons,Cervical cancer,,,
+2004,Persons,Cervical cancer,,,
+2005,Persons,Cervical cancer,,,
+2006,Persons,Cervical cancer,,,
+2007,Persons,Cervical cancer,,,
+2008,Persons,Cervical cancer,,,
+2009,Persons,Cervical cancer,,,
+2010,Persons,Cervical cancer,,,
+2011,Persons,Cervical cancer,,,
+1968,Male,Chronic lymphocytic leukaemia,,,
+1969,Male,Chronic lymphocytic leukaemia,,,
+1970,Male,Chronic lymphocytic leukaemia,,,
+1971,Male,Chronic lymphocytic leukaemia,,,
+1972,Male,Chronic lymphocytic leukaemia,,,
+1973,Male,Chronic lymphocytic leukaemia,,,
+1974,Male,Chronic lymphocytic leukaemia,,,
+1975,Male,Chronic lymphocytic leukaemia,,,
+1976,Male,Chronic lymphocytic leukaemia,,,
+1977,Male,Chronic lymphocytic leukaemia,,,
+1978,Male,Chronic lymphocytic leukaemia,,,
+1979,Male,Chronic lymphocytic leukaemia,,,
+1980,Male,Chronic lymphocytic leukaemia,,,
+1981,Male,Chronic lymphocytic leukaemia,,,
+1982,Male,Chronic lymphocytic leukaemia,0.45,0.36,0.4
+1983,Male,Chronic lymphocytic leukaemia,0.34,0.31,0.31
+1984,Male,Chronic lymphocytic leukaemia,0.43,0.36,0.39
+1985,Male,Chronic lymphocytic leukaemia,0.39,0.33,0.36
+1986,Male,Chronic lymphocytic leukaemia,0.4,0.34,0.36
+1987,Male,Chronic lymphocytic leukaemia,0.47,0.4,0.42
+1988,Male,Chronic lymphocytic leukaemia,0.4,0.34,0.36
+1989,Male,Chronic lymphocytic leukaemia,0.45,0.39,0.41
+1990,Male,Chronic lymphocytic leukaemia,0.33,0.27,0.29
+1991,Male,Chronic lymphocytic leukaemia,0.33,0.27,0.29
+1992,Male,Chronic lymphocytic leukaemia,0.36,0.29,0.32
+1993,Male,Chronic lymphocytic leukaemia,0.39,0.31,0.34
+1994,Male,Chronic lymphocytic leukaemia,0.42,0.33,0.36
+1995,Male,Chronic lymphocytic leukaemia,0.32,0.27,0.29
+1996,Male,Chronic lymphocytic leukaemia,0.39,0.33,0.35
+1997,Male,Chronic lymphocytic leukaemia,0.41,0.34,0.37
+1998,Male,Chronic lymphocytic leukaemia,0.35,0.29,0.31
+1999,Male,Chronic lymphocytic leukaemia,0.33,0.29,0.3
+2000,Male,Chronic lymphocytic leukaemia,0.3,0.26,0.28
+2001,Male,Chronic lymphocytic leukaemia,0.33,0.28,0.29
+2002,Male,Chronic lymphocytic leukaemia,0.3,0.26,0.27
+2003,Male,Chronic lymphocytic leukaemia,0.31,0.28,0.28
+2004,Male,Chronic lymphocytic leukaemia,0.25,0.21,0.22
+2005,Male,Chronic lymphocytic leukaemia,0.31,0.26,0.28
+2006,Male,Chronic lymphocytic leukaemia,0.29,0.24,0.26
+2007,Male,Chronic lymphocytic leukaemia,0.31,0.25,0.27
+2008,Male,Chronic lymphocytic leukaemia,0.3,0.23,0.25
+2009,Male,Chronic lymphocytic leukaemia,0.35,0.28,0.31
+2010,Male,Chronic lymphocytic leukaemia,0.34,0.26,0.28
+2011,Male,Chronic lymphocytic leukaemia,,,
+1968,Female,Chronic lymphocytic leukaemia,,,
+1969,Female,Chronic lymphocytic leukaemia,,,
+1970,Female,Chronic lymphocytic leukaemia,,,
+1971,Female,Chronic lymphocytic leukaemia,,,
+1972,Female,Chronic lymphocytic leukaemia,,,
+1973,Female,Chronic lymphocytic leukaemia,,,
+1974,Female,Chronic lymphocytic leukaemia,,,
+1975,Female,Chronic lymphocytic leukaemia,,,
+1976,Female,Chronic lymphocytic leukaemia,,,
+1977,Female,Chronic lymphocytic leukaemia,,,
+1978,Female,Chronic lymphocytic leukaemia,,,
+1979,Female,Chronic lymphocytic leukaemia,,,
+1980,Female,Chronic lymphocytic leukaemia,,,
+1981,Female,Chronic lymphocytic leukaemia,,,
+1982,Female,Chronic lymphocytic leukaemia,0.47,0.35,0.4
+1983,Female,Chronic lymphocytic leukaemia,0.37,0.29,0.33
+1984,Female,Chronic lymphocytic leukaemia,0.38,0.29,0.32
+1985,Female,Chronic lymphocytic leukaemia,0.44,0.33,0.37
+1986,Female,Chronic lymphocytic leukaemia,0.37,0.31,0.34
+1987,Female,Chronic lymphocytic leukaemia,0.39,0.32,0.35
+1988,Female,Chronic lymphocytic leukaemia,0.44,0.33,0.38
+1989,Female,Chronic lymphocytic leukaemia,0.3,0.24,0.26
+1990,Female,Chronic lymphocytic leukaemia,0.27,0.22,0.24
+1991,Female,Chronic lymphocytic leukaemia,0.32,0.26,0.28
+1992,Female,Chronic lymphocytic leukaemia,0.39,0.37,0.37
+1993,Female,Chronic lymphocytic leukaemia,0.31,0.26,0.28
+1994,Female,Chronic lymphocytic leukaemia,0.33,0.27,0.29
+1995,Female,Chronic lymphocytic leukaemia,0.3,0.23,0.26
+1996,Female,Chronic lymphocytic leukaemia,0.26,0.2,0.22
+1997,Female,Chronic lymphocytic leukaemia,0.4,0.32,0.34
+1998,Female,Chronic lymphocytic leukaemia,0.28,0.22,0.24
+1999,Female,Chronic lymphocytic leukaemia,0.31,0.24,0.27
+2000,Female,Chronic lymphocytic leukaemia,0.33,0.27,0.29
+2001,Female,Chronic lymphocytic leukaemia,0.3,0.24,0.27
+2002,Female,Chronic lymphocytic leukaemia,0.23,0.2,0.21
+2003,Female,Chronic lymphocytic leukaemia,0.24,0.18,0.2
+2004,Female,Chronic lymphocytic leukaemia,0.22,0.17,0.18
+2005,Female,Chronic lymphocytic leukaemia,0.28,0.23,0.25
+2006,Female,Chronic lymphocytic leukaemia,0.26,0.2,0.22
+2007,Female,Chronic lymphocytic leukaemia,0.28,0.21,0.23
+2008,Female,Chronic lymphocytic leukaemia,0.22,0.16,0.18
+2009,Female,Chronic lymphocytic leukaemia,0.26,0.21,0.22
+2010,Female,Chronic lymphocytic leukaemia,0.29,0.21,0.23
+2011,Female,Chronic lymphocytic leukaemia,,,
+1968,Persons,Chronic lymphocytic leukaemia,,,
+1969,Persons,Chronic lymphocytic leukaemia,,,
+1970,Persons,Chronic lymphocytic leukaemia,,,
+1971,Persons,Chronic lymphocytic leukaemia,,,
+1972,Persons,Chronic lymphocytic leukaemia,,,
+1973,Persons,Chronic lymphocytic leukaemia,,,
+1974,Persons,Chronic lymphocytic leukaemia,,,
+1975,Persons,Chronic lymphocytic leukaemia,,,
+1976,Persons,Chronic lymphocytic leukaemia,,,
+1977,Persons,Chronic lymphocytic leukaemia,,,
+1978,Persons,Chronic lymphocytic leukaemia,,,
+1979,Persons,Chronic lymphocytic leukaemia,,,
+1980,Persons,Chronic lymphocytic leukaemia,,,
+1981,Persons,Chronic lymphocytic leukaemia,,,
+1982,Persons,Chronic lymphocytic leukaemia,0.45,0.35,0.39
+1983,Persons,Chronic lymphocytic leukaemia,0.35,0.3,0.32
+1984,Persons,Chronic lymphocytic leukaemia,0.4,0.33,0.36
+1985,Persons,Chronic lymphocytic leukaemia,0.41,0.33,0.36
+1986,Persons,Chronic lymphocytic leukaemia,0.38,0.32,0.34
+1987,Persons,Chronic lymphocytic leukaemia,0.42,0.36,0.38
+1988,Persons,Chronic lymphocytic leukaemia,0.41,0.33,0.36
+1989,Persons,Chronic lymphocytic leukaemia,0.37,0.31,0.33
+1990,Persons,Chronic lymphocytic leukaemia,0.3,0.24,0.26
+1991,Persons,Chronic lymphocytic leukaemia,0.32,0.26,0.28
+1992,Persons,Chronic lymphocytic leukaemia,0.37,0.31,0.33
+1993,Persons,Chronic lymphocytic leukaemia,0.34,0.28,0.3
+1994,Persons,Chronic lymphocytic leukaemia,0.36,0.29,0.32
+1995,Persons,Chronic lymphocytic leukaemia,0.31,0.26,0.28
+1996,Persons,Chronic lymphocytic leukaemia,0.33,0.27,0.29
+1997,Persons,Chronic lymphocytic leukaemia,0.4,0.33,0.35
+1998,Persons,Chronic lymphocytic leukaemia,0.32,0.26,0.28
+1999,Persons,Chronic lymphocytic leukaemia,0.32,0.27,0.29
+2000,Persons,Chronic lymphocytic leukaemia,0.31,0.26,0.28
+2001,Persons,Chronic lymphocytic leukaemia,0.31,0.26,0.28
+2002,Persons,Chronic lymphocytic leukaemia,0.27,0.24,0.25
+2003,Persons,Chronic lymphocytic leukaemia,0.28,0.24,0.25
+2004,Persons,Chronic lymphocytic leukaemia,0.23,0.19,0.21
+2005,Persons,Chronic lymphocytic leukaemia,0.29,0.25,0.26
+2006,Persons,Chronic lymphocytic leukaemia,0.27,0.22,0.24
+2007,Persons,Chronic lymphocytic leukaemia,0.3,0.23,0.25
+2008,Persons,Chronic lymphocytic leukaemia,0.26,0.2,0.22
+2009,Persons,Chronic lymphocytic leukaemia,0.31,0.25,0.27
+2010,Persons,Chronic lymphocytic leukaemia,0.31,0.24,0.26
+2011,Persons,Chronic lymphocytic leukaemia,,,
+1968,Male,Chronic myeloid leukaemia,,,
+1969,Male,Chronic myeloid leukaemia,,,
+1970,Male,Chronic myeloid leukaemia,,,
+1971,Male,Chronic myeloid leukaemia,,,
+1972,Male,Chronic myeloid leukaemia,,,
+1973,Male,Chronic myeloid leukaemia,,,
+1974,Male,Chronic myeloid leukaemia,,,
+1975,Male,Chronic myeloid leukaemia,,,
+1976,Male,Chronic myeloid leukaemia,,,
+1977,Male,Chronic myeloid leukaemia,,,
+1978,Male,Chronic myeloid leukaemia,,,
+1979,Male,Chronic myeloid leukaemia,,,
+1980,Male,Chronic myeloid leukaemia,,,
+1981,Male,Chronic myeloid leukaemia,,,
+1982,Male,Chronic myeloid leukaemia,0.7,0.66,0.68
+1983,Male,Chronic myeloid leukaemia,0.81,0.71,0.75
+1984,Male,Chronic myeloid leukaemia,0.74,0.7,0.7
+1985,Male,Chronic myeloid leukaemia,0.78,0.75,0.75
+1986,Male,Chronic myeloid leukaemia,0.71,0.7,0.7
+1987,Male,Chronic myeloid leukaemia,0.55,0.56,0.56
+1988,Male,Chronic myeloid leukaemia,0.69,0.64,0.66
+1989,Male,Chronic myeloid leukaemia,0.64,0.59,0.6
+1990,Male,Chronic myeloid leukaemia,0.71,0.71,0.72
+1991,Male,Chronic myeloid leukaemia,0.76,0.68,0.71
+1992,Male,Chronic myeloid leukaemia,0.72,0.69,0.69
+1993,Male,Chronic myeloid leukaemia,0.69,0.61,0.63
+1994,Male,Chronic myeloid leukaemia,0.69,0.63,0.65
+1995,Male,Chronic myeloid leukaemia,0.64,0.59,0.6
+1996,Male,Chronic myeloid leukaemia,0.83,0.69,0.73
+1997,Male,Chronic myeloid leukaemia,0.41,0.42,0.41
+1998,Male,Chronic myeloid leukaemia,0.65,0.59,0.59
+1999,Male,Chronic myeloid leukaemia,0.5,0.43,0.46
+2000,Male,Chronic myeloid leukaemia,0.53,0.49,0.5
+2001,Male,Chronic myeloid leukaemia,0.49,0.4,0.42
+2002,Male,Chronic myeloid leukaemia,0.49,0.4,0.43
+2003,Male,Chronic myeloid leukaemia,0.5,0.4,0.43
+2004,Male,Chronic myeloid leukaemia,0.51,0.39,0.43
+2005,Male,Chronic myeloid leukaemia,0.4,0.3,0.32
+2006,Male,Chronic myeloid leukaemia,0.58,0.45,0.5
+2007,Male,Chronic myeloid leukaemia,0.36,0.26,0.28
+2008,Male,Chronic myeloid leukaemia,0.41,0.28,0.31
+2009,Male,Chronic myeloid leukaemia,0.39,0.25,0.28
+2010,Male,Chronic myeloid leukaemia,0.28,0.18,0.21
+2011,Male,Chronic myeloid leukaemia,,,
+1968,Female,Chronic myeloid leukaemia,,,
+1969,Female,Chronic myeloid leukaemia,,,
+1970,Female,Chronic myeloid leukaemia,,,
+1971,Female,Chronic myeloid leukaemia,,,
+1972,Female,Chronic myeloid leukaemia,,,
+1973,Female,Chronic myeloid leukaemia,,,
+1974,Female,Chronic myeloid leukaemia,,,
+1975,Female,Chronic myeloid leukaemia,,,
+1976,Female,Chronic myeloid leukaemia,,,
+1977,Female,Chronic myeloid leukaemia,,,
+1978,Female,Chronic myeloid leukaemia,,,
+1979,Female,Chronic myeloid leukaemia,,,
+1980,Female,Chronic myeloid leukaemia,,,
+1981,Female,Chronic myeloid leukaemia,,,
+1982,Female,Chronic myeloid leukaemia,0.81,0.77,0.79
+1983,Female,Chronic myeloid leukaemia,0.89,0.82,0.84
+1984,Female,Chronic myeloid leukaemia,0.55,0.58,0.56
+1985,Female,Chronic myeloid leukaemia,0.97,0.91,0.94
+1986,Female,Chronic myeloid leukaemia,0.53,0.46,0.48
+1987,Female,Chronic myeloid leukaemia,0.67,0.66,0.65
+1988,Female,Chronic myeloid leukaemia,0.69,0.58,0.63
+1989,Female,Chronic myeloid leukaemia,0.78,0.69,0.71
+1990,Female,Chronic myeloid leukaemia,0.79,0.71,0.73
+1991,Female,Chronic myeloid leukaemia,0.99,0.94,0.95
+1992,Female,Chronic myeloid leukaemia,0.84,0.83,0.82
+1993,Female,Chronic myeloid leukaemia,0.79,0.71,0.73
+1994,Female,Chronic myeloid leukaemia,0.6,0.55,0.56
+1995,Female,Chronic myeloid leukaemia,0.55,0.49,0.51
+1996,Female,Chronic myeloid leukaemia,0.52,0.46,0.48
+1997,Female,Chronic myeloid leukaemia,0.5,0.47,0.48
+1998,Female,Chronic myeloid leukaemia,0.51,0.5,0.5
+1999,Female,Chronic myeloid leukaemia,0.49,0.48,0.48
+2000,Female,Chronic myeloid leukaemia,0.59,0.58,0.57
+2001,Female,Chronic myeloid leukaemia,0.58,0.47,0.5
+2002,Female,Chronic myeloid leukaemia,0.65,0.54,0.57
+2003,Female,Chronic myeloid leukaemia,0.45,0.35,0.37
+2004,Female,Chronic myeloid leukaemia,0.44,0.38,0.39
+2005,Female,Chronic myeloid leukaemia,0.38,0.27,0.3
+2006,Female,Chronic myeloid leukaemia,0.3,0.23,0.25
+2007,Female,Chronic myeloid leukaemia,0.34,0.24,0.27
+2008,Female,Chronic myeloid leukaemia,0.29,0.19,0.21
+2009,Female,Chronic myeloid leukaemia,0.33,0.22,0.25
+2010,Female,Chronic myeloid leukaemia,0.24,0.17,0.19
+2011,Female,Chronic myeloid leukaemia,,,
+1968,Persons,Chronic myeloid leukaemia,,,
+1969,Persons,Chronic myeloid leukaemia,,,
+1970,Persons,Chronic myeloid leukaemia,,,
+1971,Persons,Chronic myeloid leukaemia,,,
+1972,Persons,Chronic myeloid leukaemia,,,
+1973,Persons,Chronic myeloid leukaemia,,,
+1974,Persons,Chronic myeloid leukaemia,,,
+1975,Persons,Chronic myeloid leukaemia,,,
+1976,Persons,Chronic myeloid leukaemia,,,
+1977,Persons,Chronic myeloid leukaemia,,,
+1978,Persons,Chronic myeloid leukaemia,,,
+1979,Persons,Chronic myeloid leukaemia,,,
+1980,Persons,Chronic myeloid leukaemia,,,
+1981,Persons,Chronic myeloid leukaemia,,,
+1982,Persons,Chronic myeloid leukaemia,0.74,0.7,0.72
+1983,Persons,Chronic myeloid leukaemia,0.85,0.76,0.79
+1984,Persons,Chronic myeloid leukaemia,0.63,0.63,0.62
+1985,Persons,Chronic myeloid leukaemia,0.83,0.79,0.8
+1986,Persons,Chronic myeloid leukaemia,0.64,0.61,0.61
+1987,Persons,Chronic myeloid leukaemia,0.62,0.61,0.61
+1988,Persons,Chronic myeloid leukaemia,0.7,0.61,0.65
+1989,Persons,Chronic myeloid leukaemia,0.7,0.63,0.64
+1990,Persons,Chronic myeloid leukaemia,0.76,0.72,0.73
+1991,Persons,Chronic myeloid leukaemia,0.85,0.78,0.81
+1992,Persons,Chronic myeloid leukaemia,0.76,0.73,0.73
+1993,Persons,Chronic myeloid leukaemia,0.71,0.64,0.66
+1994,Persons,Chronic myeloid leukaemia,0.64,0.59,0.61
+1995,Persons,Chronic myeloid leukaemia,0.6,0.55,0.56
+1996,Persons,Chronic myeloid leukaemia,0.67,0.58,0.6
+1997,Persons,Chronic myeloid leukaemia,0.45,0.44,0.45
+1998,Persons,Chronic myeloid leukaemia,0.57,0.54,0.54
+1999,Persons,Chronic myeloid leukaemia,0.48,0.44,0.46
+2000,Persons,Chronic myeloid leukaemia,0.56,0.52,0.53
+2001,Persons,Chronic myeloid leukaemia,0.51,0.42,0.44
+2002,Persons,Chronic myeloid leukaemia,0.55,0.45,0.48
+2003,Persons,Chronic myeloid leukaemia,0.47,0.37,0.4
+2004,Persons,Chronic myeloid leukaemia,0.47,0.38,0.41
+2005,Persons,Chronic myeloid leukaemia,0.38,0.28,0.31
+2006,Persons,Chronic myeloid leukaemia,0.45,0.34,0.37
+2007,Persons,Chronic myeloid leukaemia,0.34,0.24,0.27
+2008,Persons,Chronic myeloid leukaemia,0.35,0.23,0.26
+2009,Persons,Chronic myeloid leukaemia,0.35,0.22,0.26
+2010,Persons,Chronic myeloid leukaemia,0.26,0.17,0.19
+2011,Persons,Chronic myeloid leukaemia,,,
+1968,Male,Colon cancer,,,
+1969,Male,Colon cancer,,,
+1970,Male,Colon cancer,,,
+1971,Male,Colon cancer,,,
+1972,Male,Colon cancer,,,
+1973,Male,Colon cancer,,,
+1974,Male,Colon cancer,,,
+1975,Male,Colon cancer,,,
+1976,Male,Colon cancer,,,
+1977,Male,Colon cancer,,,
+1978,Male,Colon cancer,,,
+1979,Male,Colon cancer,,,
+1980,Male,Colon cancer,,,
+1981,Male,Colon cancer,,,
+1982,Male,Colon cancer,0.65,0.62,0.63
+1983,Male,Colon cancer,0.63,0.59,0.6
+1984,Male,Colon cancer,0.59,0.56,0.57
+1985,Male,Colon cancer,0.56,0.53,0.55
+1986,Male,Colon cancer,0.58,0.55,0.56
+1987,Male,Colon cancer,0.6,0.57,0.57
+1988,Male,Colon cancer,0.59,0.56,0.57
+1989,Male,Colon cancer,0.56,0.53,0.54
+1990,Male,Colon cancer,0.54,0.51,0.52
+1991,Male,Colon cancer,0.51,0.48,0.49
+1992,Male,Colon cancer,0.55,0.51,0.52
+1993,Male,Colon cancer,0.54,0.5,0.51
+1994,Male,Colon cancer,0.56,0.53,0.54
+1995,Male,Colon cancer,0.51,0.48,0.49
+1996,Male,Colon cancer,0.52,0.49,0.5
+1997,Male,Colon cancer,0.52,0.49,0.5
+1998,Male,Colon cancer,0.48,0.46,0.47
+1999,Male,Colon cancer,0.48,0.45,0.46
+2000,Male,Colon cancer,0.44,0.42,0.42
+2001,Male,Colon cancer,0.42,0.39,0.4
+2002,Male,Colon cancer,0.39,0.36,0.37
+2003,Male,Colon cancer,0.38,0.36,0.37
+2004,Male,Colon cancer,0.34,0.32,0.32
+2005,Male,Colon cancer,0.33,0.3,0.31
+2006,Male,Colon cancer,0.29,0.27,0.27
+2007,Male,Colon cancer,0.29,0.26,0.27
+2008,Male,Colon cancer,0.26,0.24,0.24
+2009,Male,Colon cancer,0.25,0.23,0.24
+2010,Male,Colon cancer,0.23,0.2,0.21
+2011,Male,Colon cancer,,,
+1968,Female,Colon cancer,,,
+1969,Female,Colon cancer,,,
+1970,Female,Colon cancer,,,
+1971,Female,Colon cancer,,,
+1972,Female,Colon cancer,,,
+1973,Female,Colon cancer,,,
+1974,Female,Colon cancer,,,
+1975,Female,Colon cancer,,,
+1976,Female,Colon cancer,,,
+1977,Female,Colon cancer,,,
+1978,Female,Colon cancer,,,
+1979,Female,Colon cancer,,,
+1980,Female,Colon cancer,,,
+1981,Female,Colon cancer,,,
+1982,Female,Colon cancer,0.59,0.54,0.56
+1983,Female,Colon cancer,0.6,0.57,0.58
+1984,Female,Colon cancer,0.56,0.54,0.54
+1985,Female,Colon cancer,0.56,0.52,0.54
+1986,Female,Colon cancer,0.56,0.53,0.54
+1987,Female,Colon cancer,0.57,0.53,0.55
+1988,Female,Colon cancer,0.57,0.53,0.54
+1989,Female,Colon cancer,0.54,0.51,0.52
+1990,Female,Colon cancer,0.53,0.5,0.51
+1991,Female,Colon cancer,0.48,0.45,0.46
+1992,Female,Colon cancer,0.48,0.45,0.46
+1993,Female,Colon cancer,0.5,0.46,0.48
+1994,Female,Colon cancer,0.51,0.48,0.49
+1995,Female,Colon cancer,0.48,0.46,0.47
+1996,Female,Colon cancer,0.49,0.46,0.47
+1997,Female,Colon cancer,0.46,0.44,0.44
+1998,Female,Colon cancer,0.45,0.42,0.43
+1999,Female,Colon cancer,0.4,0.37,0.38
+2000,Female,Colon cancer,0.41,0.38,0.39
+2001,Female,Colon cancer,0.38,0.35,0.36
+2002,Female,Colon cancer,0.4,0.37,0.38
+2003,Female,Colon cancer,0.35,0.32,0.33
+2004,Female,Colon cancer,0.31,0.28,0.29
+2005,Female,Colon cancer,0.29,0.26,0.27
+2006,Female,Colon cancer,0.25,0.22,0.23
+2007,Female,Colon cancer,0.26,0.23,0.24
+2008,Female,Colon cancer,0.24,0.22,0.23
+2009,Female,Colon cancer,0.23,0.21,0.22
+2010,Female,Colon cancer,0.2,0.17,0.18
+2011,Female,Colon cancer,,,
+1968,Persons,Colon cancer,,,
+1969,Persons,Colon cancer,,,
+1970,Persons,Colon cancer,,,
+1971,Persons,Colon cancer,,,
+1972,Persons,Colon cancer,,,
+1973,Persons,Colon cancer,,,
+1974,Persons,Colon cancer,,,
+1975,Persons,Colon cancer,,,
+1976,Persons,Colon cancer,,,
+1977,Persons,Colon cancer,,,
+1978,Persons,Colon cancer,,,
+1979,Persons,Colon cancer,,,
+1980,Persons,Colon cancer,,,
+1981,Persons,Colon cancer,,,
+1982,Persons,Colon cancer,0.62,0.58,0.59
+1983,Persons,Colon cancer,0.61,0.58,0.59
+1984,Persons,Colon cancer,0.57,0.55,0.56
+1985,Persons,Colon cancer,0.56,0.53,0.54
+1986,Persons,Colon cancer,0.57,0.54,0.55
+1987,Persons,Colon cancer,0.58,0.55,0.56
+1988,Persons,Colon cancer,0.57,0.54,0.55
+1989,Persons,Colon cancer,0.55,0.52,0.53
+1990,Persons,Colon cancer,0.54,0.5,0.51
+1991,Persons,Colon cancer,0.49,0.46,0.47
+1992,Persons,Colon cancer,0.51,0.48,0.49
+1993,Persons,Colon cancer,0.52,0.48,0.49
+1994,Persons,Colon cancer,0.54,0.51,0.52
+1995,Persons,Colon cancer,0.5,0.47,0.48
+1996,Persons,Colon cancer,0.5,0.48,0.48
+1997,Persons,Colon cancer,0.49,0.46,0.47
+1998,Persons,Colon cancer,0.47,0.44,0.45
+1999,Persons,Colon cancer,0.44,0.41,0.42
+2000,Persons,Colon cancer,0.43,0.4,0.41
+2001,Persons,Colon cancer,0.4,0.37,0.38
+2002,Persons,Colon cancer,0.39,0.36,0.37
+2003,Persons,Colon cancer,0.37,0.34,0.35
+2004,Persons,Colon cancer,0.32,0.3,0.31
+2005,Persons,Colon cancer,0.31,0.28,0.29
+2006,Persons,Colon cancer,0.27,0.24,0.25
+2007,Persons,Colon cancer,0.27,0.24,0.25
+2008,Persons,Colon cancer,0.25,0.23,0.24
+2009,Persons,Colon cancer,0.24,0.22,0.23
+2010,Persons,Colon cancer,0.21,0.19,0.19
+2011,Persons,Colon cancer,,,
+1968,Male,Head and neck excluding lip,,,
+1969,Male,Head and neck excluding lip,,,
+1970,Male,Head and neck excluding lip,,,
+1971,Male,Head and neck excluding lip,,,
+1972,Male,Head and neck excluding lip,,,
+1973,Male,Head and neck excluding lip,,,
+1974,Male,Head and neck excluding lip,,,
+1975,Male,Head and neck excluding lip,,,
+1976,Male,Head and neck excluding lip,,,
+1977,Male,Head and neck excluding lip,,,
+1978,Male,Head and neck excluding lip,,,
+1979,Male,Head and neck excluding lip,,,
+1980,Male,Head and neck excluding lip,,,
+1981,Male,Head and neck excluding lip,,,
+1982,Male,Head and neck excluding lip,0.43,0.39,0.41
+1983,Male,Head and neck excluding lip,0.41,0.39,0.4
+1984,Male,Head and neck excluding lip,0.47,0.44,0.45
+1985,Male,Head and neck excluding lip,0.5,0.46,0.47
+1986,Male,Head and neck excluding lip,0.42,0.4,0.4
+1987,Male,Head and neck excluding lip,0.45,0.43,0.43
+1988,Male,Head and neck excluding lip,0.44,0.41,0.42
+1989,Male,Head and neck excluding lip,0.43,0.41,0.41
+1990,Male,Head and neck excluding lip,0.45,0.43,0.44
+1991,Male,Head and neck excluding lip,0.46,0.43,0.44
+1992,Male,Head and neck excluding lip,0.41,0.4,0.4
+1993,Male,Head and neck excluding lip,0.42,0.4,0.4
+1994,Male,Head and neck excluding lip,0.44,0.41,0.42
+1995,Male,Head and neck excluding lip,0.41,0.38,0.39
+1996,Male,Head and neck excluding lip,0.46,0.43,0.44
+1997,Male,Head and neck excluding lip,0.39,0.37,0.38
+1998,Male,Head and neck excluding lip,0.39,0.37,0.37
+1999,Male,Head and neck excluding lip,0.39,0.36,0.37
+2000,Male,Head and neck excluding lip,0.39,0.36,0.37
+2001,Male,Head and neck excluding lip,0.43,0.4,0.41
+2002,Male,Head and neck excluding lip,0.41,0.36,0.37
+2003,Male,Head and neck excluding lip,0.37,0.34,0.35
+2004,Male,Head and neck excluding lip,0.37,0.34,0.35
+2005,Male,Head and neck excluding lip,0.35,0.33,0.33
+2006,Male,Head and neck excluding lip,0.32,0.29,0.3
+2007,Male,Head and neck excluding lip,0.32,0.29,0.3
+2008,Male,Head and neck excluding lip,0.34,0.3,0.31
+2009,Male,Head and neck excluding lip,0.34,0.3,0.31
+2010,Male,Head and neck excluding lip,0.34,0.3,0.31
+2011,Male,Head and neck excluding lip,,,
+1968,Female,Head and neck excluding lip,,,
+1969,Female,Head and neck excluding lip,,,
+1970,Female,Head and neck excluding lip,,,
+1971,Female,Head and neck excluding lip,,,
+1972,Female,Head and neck excluding lip,,,
+1973,Female,Head and neck excluding lip,,,
+1974,Female,Head and neck excluding lip,,,
+1975,Female,Head and neck excluding lip,,,
+1976,Female,Head and neck excluding lip,,,
+1977,Female,Head and neck excluding lip,,,
+1978,Female,Head and neck excluding lip,,,
+1979,Female,Head and neck excluding lip,,,
+1980,Female,Head and neck excluding lip,,,
+1981,Female,Head and neck excluding lip,,,
+1982,Female,Head and neck excluding lip,0.43,0.4,0.41
+1983,Female,Head and neck excluding lip,0.37,0.31,0.33
+1984,Female,Head and neck excluding lip,0.44,0.4,0.41
+1985,Female,Head and neck excluding lip,0.38,0.34,0.35
+1986,Female,Head and neck excluding lip,0.45,0.4,0.41
+1987,Female,Head and neck excluding lip,0.45,0.42,0.42
+1988,Female,Head and neck excluding lip,0.42,0.36,0.38
+1989,Female,Head and neck excluding lip,0.4,0.37,0.37
+1990,Female,Head and neck excluding lip,0.38,0.35,0.36
+1991,Female,Head and neck excluding lip,0.45,0.38,0.4
+1992,Female,Head and neck excluding lip,0.35,0.32,0.32
+1993,Female,Head and neck excluding lip,0.44,0.41,0.42
+1994,Female,Head and neck excluding lip,0.38,0.32,0.34
+1995,Female,Head and neck excluding lip,0.33,0.29,0.3
+1996,Female,Head and neck excluding lip,0.41,0.36,0.37
+1997,Female,Head and neck excluding lip,0.32,0.28,0.29
+1998,Female,Head and neck excluding lip,0.3,0.26,0.27
+1999,Female,Head and neck excluding lip,0.35,0.3,0.31
+2000,Female,Head and neck excluding lip,0.34,0.32,0.32
+2001,Female,Head and neck excluding lip,0.33,0.28,0.3
+2002,Female,Head and neck excluding lip,0.35,0.31,0.32
+2003,Female,Head and neck excluding lip,0.37,0.32,0.34
+2004,Female,Head and neck excluding lip,0.3,0.27,0.27
+2005,Female,Head and neck excluding lip,0.28,0.25,0.26
+2006,Female,Head and neck excluding lip,0.24,0.21,0.22
+2007,Female,Head and neck excluding lip,0.29,0.24,0.26
+2008,Female,Head and neck excluding lip,0.29,0.26,0.27
+2009,Female,Head and neck excluding lip,0.3,0.25,0.27
+2010,Female,Head and neck excluding lip,0.28,0.23,0.24
+2011,Female,Head and neck excluding lip,,,
+1968,Persons,Head and neck excluding lip,,,
+1969,Persons,Head and neck excluding lip,,,
+1970,Persons,Head and neck excluding lip,,,
+1971,Persons,Head and neck excluding lip,,,
+1972,Persons,Head and neck excluding lip,,,
+1973,Persons,Head and neck excluding lip,,,
+1974,Persons,Head and neck excluding lip,,,
+1975,Persons,Head and neck excluding lip,,,
+1976,Persons,Head and neck excluding lip,,,
+1977,Persons,Head and neck excluding lip,,,
+1978,Persons,Head and neck excluding lip,,,
+1979,Persons,Head and neck excluding lip,,,
+1980,Persons,Head and neck excluding lip,,,
+1981,Persons,Head and neck excluding lip,,,
+1982,Persons,Head and neck excluding lip,0.42,0.39,0.4
+1983,Persons,Head and neck excluding lip,0.39,0.37,0.38
+1984,Persons,Head and neck excluding lip,0.46,0.43,0.44
+1985,Persons,Head and neck excluding lip,0.45,0.42,0.43
+1986,Persons,Head and neck excluding lip,0.42,0.4,0.4
+1987,Persons,Head and neck excluding lip,0.44,0.42,0.43
+1988,Persons,Head and neck excluding lip,0.43,0.4,0.4
+1989,Persons,Head and neck excluding lip,0.42,0.39,0.4
+1990,Persons,Head and neck excluding lip,0.43,0.41,0.41
+1991,Persons,Head and neck excluding lip,0.45,0.42,0.43
+1992,Persons,Head and neck excluding lip,0.39,0.38,0.38
+1993,Persons,Head and neck excluding lip,0.42,0.4,0.41
+1994,Persons,Head and neck excluding lip,0.42,0.39,0.4
+1995,Persons,Head and neck excluding lip,0.38,0.36,0.36
+1996,Persons,Head and neck excluding lip,0.44,0.41,0.42
+1997,Persons,Head and neck excluding lip,0.37,0.35,0.35
+1998,Persons,Head and neck excluding lip,0.36,0.34,0.34
+1999,Persons,Head and neck excluding lip,0.38,0.34,0.35
+2000,Persons,Head and neck excluding lip,0.37,0.35,0.35
+2001,Persons,Head and neck excluding lip,0.4,0.37,0.38
+2002,Persons,Head and neck excluding lip,0.38,0.34,0.35
+2003,Persons,Head and neck excluding lip,0.37,0.33,0.34
+2004,Persons,Head and neck excluding lip,0.34,0.31,0.32
+2005,Persons,Head and neck excluding lip,0.33,0.3,0.31
+2006,Persons,Head and neck excluding lip,0.29,0.27,0.28
+2007,Persons,Head and neck excluding lip,0.31,0.28,0.29
+2008,Persons,Head and neck excluding lip,0.32,0.28,0.29
+2009,Persons,Head and neck excluding lip,0.32,0.29,0.3
+2010,Persons,Head and neck excluding lip,0.32,0.28,0.29
+2011,Persons,Head and neck excluding lip,,,
+1968,Male,Head and neck including lip,,,
+1969,Male,Head and neck including lip,,,
+1970,Male,Head and neck including lip,,,
+1971,Male,Head and neck including lip,,,
+1972,Male,Head and neck including lip,,,
+1973,Male,Head and neck including lip,,,
+1974,Male,Head and neck including lip,,,
+1975,Male,Head and neck including lip,,,
+1976,Male,Head and neck including lip,,,
+1977,Male,Head and neck including lip,,,
+1978,Male,Head and neck including lip,,,
+1979,Male,Head and neck including lip,,,
+1980,Male,Head and neck including lip,,,
+1981,Male,Head and neck including lip,,,
+1982,Male,Head and neck including lip,0.31,0.29,0.29
+1983,Male,Head and neck including lip,0.31,0.29,0.29
+1984,Male,Head and neck including lip,0.36,0.34,0.35
+1985,Male,Head and neck including lip,0.37,0.34,0.34
+1986,Male,Head and neck including lip,0.32,0.31,0.32
+1987,Male,Head and neck including lip,0.33,0.31,0.31
+1988,Male,Head and neck including lip,0.31,0.29,0.3
+1989,Male,Head and neck including lip,0.31,0.3,0.3
+1990,Male,Head and neck including lip,0.33,0.31,0.31
+1991,Male,Head and neck including lip,0.32,0.3,0.31
+1992,Male,Head and neck including lip,0.29,0.29,0.28
+1993,Male,Head and neck including lip,0.3,0.28,0.29
+1994,Male,Head and neck including lip,0.3,0.29,0.29
+1995,Male,Head and neck including lip,0.29,0.27,0.27
+1996,Male,Head and neck including lip,0.31,0.29,0.3
+1997,Male,Head and neck including lip,0.27,0.26,0.26
+1998,Male,Head and neck including lip,0.27,0.25,0.25
+1999,Male,Head and neck including lip,0.29,0.27,0.27
+2000,Male,Head and neck including lip,0.29,0.27,0.27
+2001,Male,Head and neck including lip,0.31,0.29,0.29
+2002,Male,Head and neck including lip,0.29,0.26,0.27
+2003,Male,Head and neck including lip,0.27,0.25,0.25
+2004,Male,Head and neck including lip,0.28,0.25,0.26
+2005,Male,Head and neck including lip,0.27,0.25,0.26
+2006,Male,Head and neck including lip,0.24,0.22,0.23
+2007,Male,Head and neck including lip,0.25,0.23,0.23
+2008,Male,Head and neck including lip,0.26,0.23,0.24
+2009,Male,Head and neck including lip,0.26,0.24,0.24
+2010,Male,Head and neck including lip,0.26,0.23,0.24
+2011,Male,Head and neck including lip,,,
+1968,Female,Head and neck including lip,,,
+1969,Female,Head and neck including lip,,,
+1970,Female,Head and neck including lip,,,
+1971,Female,Head and neck including lip,,,
+1972,Female,Head and neck including lip,,,
+1973,Female,Head and neck including lip,,,
+1974,Female,Head and neck including lip,,,
+1975,Female,Head and neck including lip,,,
+1976,Female,Head and neck including lip,,,
+1977,Female,Head and neck including lip,,,
+1978,Female,Head and neck including lip,,,
+1979,Female,Head and neck including lip,,,
+1980,Female,Head and neck including lip,,,
+1981,Female,Head and neck including lip,,,
+1982,Female,Head and neck including lip,0.35,0.33,0.33
+1983,Female,Head and neck including lip,0.3,0.26,0.27
+1984,Female,Head and neck including lip,0.37,0.34,0.34
+1985,Female,Head and neck including lip,0.31,0.28,0.29
+1986,Female,Head and neck including lip,0.36,0.32,0.33
+1987,Female,Head and neck including lip,0.34,0.32,0.33
+1988,Female,Head and neck including lip,0.31,0.28,0.29
+1989,Female,Head and neck including lip,0.3,0.29,0.29
+1990,Female,Head and neck including lip,0.28,0.26,0.27
+1991,Female,Head and neck including lip,0.32,0.29,0.3
+1992,Female,Head and neck including lip,0.24,0.22,0.22
+1993,Female,Head and neck including lip,0.31,0.3,0.3
+1994,Female,Head and neck including lip,0.28,0.24,0.25
+1995,Female,Head and neck including lip,0.24,0.22,0.22
+1996,Female,Head and neck including lip,0.27,0.24,0.25
+1997,Female,Head and neck including lip,0.22,0.2,0.2
+1998,Female,Head and neck including lip,0.21,0.19,0.2
+1999,Female,Head and neck including lip,0.26,0.23,0.23
+2000,Female,Head and neck including lip,0.26,0.24,0.24
+2001,Female,Head and neck including lip,0.25,0.21,0.22
+2002,Female,Head and neck including lip,0.24,0.21,0.22
+2003,Female,Head and neck including lip,0.26,0.24,0.24
+2004,Female,Head and neck including lip,0.22,0.2,0.21
+2005,Female,Head and neck including lip,0.22,0.2,0.2
+2006,Female,Head and neck including lip,0.19,0.17,0.17
+2007,Female,Head and neck including lip,0.23,0.19,0.2
+2008,Female,Head and neck including lip,0.22,0.2,0.21
+2009,Female,Head and neck including lip,0.24,0.2,0.21
+2010,Female,Head and neck including lip,0.22,0.19,0.2
+2011,Female,Head and neck including lip,,,
+1968,Persons,Head and neck including lip,,,
+1969,Persons,Head and neck including lip,,,
+1970,Persons,Head and neck including lip,,,
+1971,Persons,Head and neck including lip,,,
+1972,Persons,Head and neck including lip,,,
+1973,Persons,Head and neck including lip,,,
+1974,Persons,Head and neck including lip,,,
+1975,Persons,Head and neck including lip,,,
+1976,Persons,Head and neck including lip,,,
+1977,Persons,Head and neck including lip,,,
+1978,Persons,Head and neck including lip,,,
+1979,Persons,Head and neck including lip,,,
+1980,Persons,Head and neck including lip,,,
+1981,Persons,Head and neck including lip,,,
+1982,Persons,Head and neck including lip,0.32,0.29,0.3
+1983,Persons,Head and neck including lip,0.3,0.28,0.29
+1984,Persons,Head and neck including lip,0.36,0.34,0.34
+1985,Persons,Head and neck including lip,0.34,0.32,0.32
+1986,Persons,Head and neck including lip,0.33,0.31,0.32
+1987,Persons,Head and neck including lip,0.33,0.31,0.31
+1988,Persons,Head and neck including lip,0.31,0.29,0.29
+1989,Persons,Head and neck including lip,0.31,0.29,0.29
+1990,Persons,Head and neck including lip,0.31,0.3,0.3
+1991,Persons,Head and neck including lip,0.32,0.3,0.3
+1992,Persons,Head and neck including lip,0.28,0.27,0.27
+1993,Persons,Head and neck including lip,0.3,0.29,0.29
+1994,Persons,Head and neck including lip,0.3,0.28,0.28
+1995,Persons,Head and neck including lip,0.27,0.25,0.26
+1996,Persons,Head and neck including lip,0.3,0.28,0.28
+1997,Persons,Head and neck including lip,0.25,0.24,0.24
+1998,Persons,Head and neck including lip,0.25,0.24,0.24
+1999,Persons,Head and neck including lip,0.28,0.26,0.26
+2000,Persons,Head and neck including lip,0.28,0.26,0.26
+2001,Persons,Head and neck including lip,0.29,0.27,0.28
+2002,Persons,Head and neck including lip,0.27,0.24,0.25
+2003,Persons,Head and neck including lip,0.26,0.24,0.25
+2004,Persons,Head and neck including lip,0.26,0.24,0.24
+2005,Persons,Head and neck including lip,0.25,0.24,0.24
+2006,Persons,Head and neck including lip,0.22,0.21,0.21
+2007,Persons,Head and neck including lip,0.24,0.22,0.22
+2008,Persons,Head and neck including lip,0.25,0.22,0.23
+2009,Persons,Head and neck including lip,0.25,0.22,0.23
+2010,Persons,Head and neck including lip,0.24,0.21,0.22
+2011,Persons,Head and neck including lip,,,
+1968,Male,Hodgkin lymphoma,,,
+1969,Male,Hodgkin lymphoma,,,
+1970,Male,Hodgkin lymphoma,,,
+1971,Male,Hodgkin lymphoma,,,
+1972,Male,Hodgkin lymphoma,,,
+1973,Male,Hodgkin lymphoma,,,
+1974,Male,Hodgkin lymphoma,,,
+1975,Male,Hodgkin lymphoma,,,
+1976,Male,Hodgkin lymphoma,,,
+1977,Male,Hodgkin lymphoma,,,
+1978,Male,Hodgkin lymphoma,,,
+1979,Male,Hodgkin lymphoma,,,
+1980,Male,Hodgkin lymphoma,,,
+1981,Male,Hodgkin lymphoma,,,
+1982,Male,Hodgkin lymphoma,0.44,0.38,0.39
+1983,Male,Hodgkin lymphoma,0.27,0.24,0.24
+1984,Male,Hodgkin lymphoma,0.38,0.34,0.35
+1985,Male,Hodgkin lymphoma,0.4,0.31,0.33
+1986,Male,Hodgkin lymphoma,0.42,0.36,0.38
+1987,Male,Hodgkin lymphoma,0.36,0.33,0.33
+1988,Male,Hodgkin lymphoma,0.37,0.28,0.31
+1989,Male,Hodgkin lymphoma,0.38,0.33,0.34
+1990,Male,Hodgkin lymphoma,0.23,0.16,0.18
+1991,Male,Hodgkin lymphoma,0.3,0.25,0.26
+1992,Male,Hodgkin lymphoma,0.23,0.21,0.21
+1993,Male,Hodgkin lymphoma,0.35,0.27,0.29
+1994,Male,Hodgkin lymphoma,0.23,0.2,0.21
+1995,Male,Hodgkin lymphoma,0.14,0.11,0.12
+1996,Male,Hodgkin lymphoma,0.19,0.16,0.16
+1997,Male,Hodgkin lymphoma,0.27,0.19,0.21
+1998,Male,Hodgkin lymphoma,0.16,0.12,0.13
+1999,Male,Hodgkin lymphoma,0.15,0.12,0.12
+2000,Male,Hodgkin lymphoma,0.18,0.11,0.13
+2001,Male,Hodgkin lymphoma,0.1,0.07,0.07
+2002,Male,Hodgkin lymphoma,0.16,0.13,0.14
+2003,Male,Hodgkin lymphoma,0.14,0.1,0.11
+2004,Male,Hodgkin lymphoma,0.19,0.14,0.15
+2005,Male,Hodgkin lymphoma,0.13,0.08,0.09
+2006,Male,Hodgkin lymphoma,0.12,0.08,0.09
+2007,Male,Hodgkin lymphoma,0.17,0.12,0.13
+2008,Male,Hodgkin lymphoma,0.1,0.06,0.07
+2009,Male,Hodgkin lymphoma,0.11,0.08,0.08
+2010,Male,Hodgkin lymphoma,0.14,0.1,0.11
+2011,Male,Hodgkin lymphoma,,,
+1968,Female,Hodgkin lymphoma,,,
+1969,Female,Hodgkin lymphoma,,,
+1970,Female,Hodgkin lymphoma,,,
+1971,Female,Hodgkin lymphoma,,,
+1972,Female,Hodgkin lymphoma,,,
+1973,Female,Hodgkin lymphoma,,,
+1974,Female,Hodgkin lymphoma,,,
+1975,Female,Hodgkin lymphoma,,,
+1976,Female,Hodgkin lymphoma,,,
+1977,Female,Hodgkin lymphoma,,,
+1978,Female,Hodgkin lymphoma,,,
+1979,Female,Hodgkin lymphoma,,,
+1980,Female,Hodgkin lymphoma,,,
+1981,Female,Hodgkin lymphoma,,,
+1982,Female,Hodgkin lymphoma,0.4,0.32,0.34
+1983,Female,Hodgkin lymphoma,0.4,0.29,0.31
+1984,Female,Hodgkin lymphoma,0.4,0.32,0.34
+1985,Female,Hodgkin lymphoma,0.44,0.34,0.36
+1986,Female,Hodgkin lymphoma,0.26,0.23,0.24
+1987,Female,Hodgkin lymphoma,0.32,0.24,0.25
+1988,Female,Hodgkin lymphoma,0.31,0.28,0.28
+1989,Female,Hodgkin lymphoma,0.33,0.25,0.26
+1990,Female,Hodgkin lymphoma,0.22,0.15,0.17
+1991,Female,Hodgkin lymphoma,0.29,0.22,0.24
+1992,Female,Hodgkin lymphoma,0.24,0.19,0.2
+1993,Female,Hodgkin lymphoma,0.16,0.12,0.13
+1994,Female,Hodgkin lymphoma,0.18,0.13,0.14
+1995,Female,Hodgkin lymphoma,0.21,0.16,0.17
+1996,Female,Hodgkin lymphoma,0.2,0.13,0.15
+1997,Female,Hodgkin lymphoma,0.14,0.09,0.1
+1998,Female,Hodgkin lymphoma,0.11,0.1,0.1
+1999,Female,Hodgkin lymphoma,0.12,0.1,0.1
+2000,Female,Hodgkin lymphoma,0.15,0.1,0.11
+2001,Female,Hodgkin lymphoma,0.13,0.1,0.1
+2002,Female,Hodgkin lymphoma,0.14,0.08,0.1
+2003,Female,Hodgkin lymphoma,0.16,0.12,0.13
+2004,Female,Hodgkin lymphoma,0.1,0.07,0.08
+2005,Female,Hodgkin lymphoma,0.11,0.07,0.08
+2006,Female,Hodgkin lymphoma,0.08,0.07,0.07
+2007,Female,Hodgkin lymphoma,0.08,0.05,0.06
+2008,Female,Hodgkin lymphoma,0.14,0.09,0.11
+2009,Female,Hodgkin lymphoma,0.1,0.06,0.07
+2010,Female,Hodgkin lymphoma,0.15,0.09,0.11
+2011,Female,Hodgkin lymphoma,,,
+1968,Persons,Hodgkin lymphoma,,,
+1969,Persons,Hodgkin lymphoma,,,
+1970,Persons,Hodgkin lymphoma,,,
+1971,Persons,Hodgkin lymphoma,,,
+1972,Persons,Hodgkin lymphoma,,,
+1973,Persons,Hodgkin lymphoma,,,
+1974,Persons,Hodgkin lymphoma,,,
+1975,Persons,Hodgkin lymphoma,,,
+1976,Persons,Hodgkin lymphoma,,,
+1977,Persons,Hodgkin lymphoma,,,
+1978,Persons,Hodgkin lymphoma,,,
+1979,Persons,Hodgkin lymphoma,,,
+1980,Persons,Hodgkin lymphoma,,,
+1981,Persons,Hodgkin lymphoma,,,
+1982,Persons,Hodgkin lymphoma,0.42,0.35,0.37
+1983,Persons,Hodgkin lymphoma,0.33,0.26,0.28
+1984,Persons,Hodgkin lymphoma,0.39,0.33,0.35
+1985,Persons,Hodgkin lymphoma,0.41,0.32,0.34
+1986,Persons,Hodgkin lymphoma,0.35,0.3,0.32
+1987,Persons,Hodgkin lymphoma,0.35,0.29,0.3
+1988,Persons,Hodgkin lymphoma,0.33,0.27,0.29
+1989,Persons,Hodgkin lymphoma,0.36,0.29,0.31
+1990,Persons,Hodgkin lymphoma,0.22,0.16,0.17
+1991,Persons,Hodgkin lymphoma,0.3,0.24,0.25
+1992,Persons,Hodgkin lymphoma,0.24,0.2,0.21
+1993,Persons,Hodgkin lymphoma,0.25,0.2,0.21
+1994,Persons,Hodgkin lymphoma,0.21,0.17,0.18
+1995,Persons,Hodgkin lymphoma,0.17,0.14,0.14
+1996,Persons,Hodgkin lymphoma,0.2,0.15,0.16
+1997,Persons,Hodgkin lymphoma,0.2,0.14,0.15
+1998,Persons,Hodgkin lymphoma,0.13,0.11,0.12
+1999,Persons,Hodgkin lymphoma,0.13,0.11,0.11
+2000,Persons,Hodgkin lymphoma,0.16,0.1,0.12
+2001,Persons,Hodgkin lymphoma,0.12,0.08,0.09
+2002,Persons,Hodgkin lymphoma,0.15,0.11,0.12
+2003,Persons,Hodgkin lymphoma,0.15,0.11,0.12
+2004,Persons,Hodgkin lymphoma,0.14,0.11,0.12
+2005,Persons,Hodgkin lymphoma,0.12,0.08,0.09
+2006,Persons,Hodgkin lymphoma,0.1,0.07,0.08
+2007,Persons,Hodgkin lymphoma,0.13,0.09,0.09
+2008,Persons,Hodgkin lymphoma,0.11,0.08,0.09
+2009,Persons,Hodgkin lymphoma,0.11,0.07,0.08
+2010,Persons,Hodgkin lymphoma,0.14,0.1,0.11
+2011,Persons,Hodgkin lymphoma,,,
+1968,Male,Kidney cancer,,,
+1969,Male,Kidney cancer,,,
+1970,Male,Kidney cancer,,,
+1971,Male,Kidney cancer,,,
+1972,Male,Kidney cancer,,,
+1973,Male,Kidney cancer,,,
+1974,Male,Kidney cancer,,,
+1975,Male,Kidney cancer,,,
+1976,Male,Kidney cancer,,,
+1977,Male,Kidney cancer,,,
+1978,Male,Kidney cancer,,,
+1979,Male,Kidney cancer,,,
+1980,Male,Kidney cancer,,,
+1981,Male,Kidney cancer,,,
+1982,Male,Kidney cancer,0.57,0.54,0.55
+1983,Male,Kidney cancer,0.67,0.62,0.63
+1984,Male,Kidney cancer,0.64,0.57,0.59
+1985,Male,Kidney cancer,0.61,0.57,0.58
+1986,Male,Kidney cancer,0.59,0.52,0.55
+1987,Male,Kidney cancer,0.57,0.52,0.54
+1988,Male,Kidney cancer,0.57,0.53,0.54
+1989,Male,Kidney cancer,0.55,0.49,0.51
+1990,Male,Kidney cancer,0.53,0.48,0.5
+1991,Male,Kidney cancer,0.46,0.42,0.44
+1992,Male,Kidney cancer,0.46,0.42,0.43
+1993,Male,Kidney cancer,0.45,0.4,0.42
+1994,Male,Kidney cancer,0.48,0.44,0.46
+1995,Male,Kidney cancer,0.44,0.4,0.41
+1996,Male,Kidney cancer,0.45,0.4,0.41
+1997,Male,Kidney cancer,0.44,0.4,0.41
+1998,Male,Kidney cancer,0.41,0.36,0.38
+1999,Male,Kidney cancer,0.41,0.36,0.37
+2000,Male,Kidney cancer,0.39,0.34,0.36
+2001,Male,Kidney cancer,0.4,0.35,0.37
+2002,Male,Kidney cancer,0.41,0.36,0.37
+2003,Male,Kidney cancer,0.38,0.35,0.36
+2004,Male,Kidney cancer,0.37,0.31,0.33
+2005,Male,Kidney cancer,0.34,0.3,0.31
+2006,Male,Kidney cancer,0.34,0.29,0.3
+2007,Male,Kidney cancer,0.33,0.28,0.3
+2008,Male,Kidney cancer,0.32,0.26,0.28
+2009,Male,Kidney cancer,0.34,0.28,0.3
+2010,Male,Kidney cancer,0.34,0.29,0.3
+2011,Male,Kidney cancer,,,
+1968,Female,Kidney cancer,,,
+1969,Female,Kidney cancer,,,
+1970,Female,Kidney cancer,,,
+1971,Female,Kidney cancer,,,
+1972,Female,Kidney cancer,,,
+1973,Female,Kidney cancer,,,
+1974,Female,Kidney cancer,,,
+1975,Female,Kidney cancer,,,
+1976,Female,Kidney cancer,,,
+1977,Female,Kidney cancer,,,
+1978,Female,Kidney cancer,,,
+1979,Female,Kidney cancer,,,
+1980,Female,Kidney cancer,,,
+1981,Female,Kidney cancer,,,
+1982,Female,Kidney cancer,0.75,0.68,0.7
+1983,Female,Kidney cancer,0.76,0.68,0.71
+1984,Female,Kidney cancer,0.62,0.53,0.56
+1985,Female,Kidney cancer,0.58,0.52,0.55
+1986,Female,Kidney cancer,0.63,0.57,0.59
+1987,Female,Kidney cancer,0.61,0.54,0.56
+1988,Female,Kidney cancer,0.64,0.59,0.61
+1989,Female,Kidney cancer,0.57,0.49,0.52
+1990,Female,Kidney cancer,0.53,0.44,0.48
+1991,Female,Kidney cancer,0.61,0.52,0.56
+1992,Female,Kidney cancer,0.49,0.42,0.44
+1993,Female,Kidney cancer,0.56,0.48,0.51
+1994,Female,Kidney cancer,0.52,0.45,0.48
+1995,Female,Kidney cancer,0.53,0.45,0.48
+1996,Female,Kidney cancer,0.5,0.42,0.45
+1997,Female,Kidney cancer,0.46,0.37,0.4
+1998,Female,Kidney cancer,0.46,0.39,0.41
+1999,Female,Kidney cancer,0.42,0.33,0.36
+2000,Female,Kidney cancer,0.38,0.33,0.34
+2001,Female,Kidney cancer,0.43,0.35,0.37
+2002,Female,Kidney cancer,0.39,0.32,0.34
+2003,Female,Kidney cancer,0.39,0.31,0.34
+2004,Female,Kidney cancer,0.39,0.31,0.34
+2005,Female,Kidney cancer,0.41,0.33,0.36
+2006,Female,Kidney cancer,0.34,0.29,0.31
+2007,Female,Kidney cancer,0.34,0.27,0.29
+2008,Female,Kidney cancer,0.31,0.24,0.27
+2009,Female,Kidney cancer,0.33,0.26,0.28
+2010,Female,Kidney cancer,0.32,0.25,0.27
+2011,Female,Kidney cancer,,,
+1968,Persons,Kidney cancer,,,
+1969,Persons,Kidney cancer,,,
+1970,Persons,Kidney cancer,,,
+1971,Persons,Kidney cancer,,,
+1972,Persons,Kidney cancer,,,
+1973,Persons,Kidney cancer,,,
+1974,Persons,Kidney cancer,,,
+1975,Persons,Kidney cancer,,,
+1976,Persons,Kidney cancer,,,
+1977,Persons,Kidney cancer,,,
+1978,Persons,Kidney cancer,,,
+1979,Persons,Kidney cancer,,,
+1980,Persons,Kidney cancer,,,
+1981,Persons,Kidney cancer,,,
+1982,Persons,Kidney cancer,0.63,0.59,0.6
+1983,Persons,Kidney cancer,0.69,0.63,0.65
+1984,Persons,Kidney cancer,0.62,0.55,0.57
+1985,Persons,Kidney cancer,0.59,0.54,0.56
+1986,Persons,Kidney cancer,0.6,0.53,0.55
+1987,Persons,Kidney cancer,0.58,0.52,0.54
+1988,Persons,Kidney cancer,0.59,0.54,0.56
+1989,Persons,Kidney cancer,0.55,0.48,0.51
+1990,Persons,Kidney cancer,0.53,0.46,0.49
+1991,Persons,Kidney cancer,0.52,0.46,0.48
+1992,Persons,Kidney cancer,0.47,0.42,0.44
+1993,Persons,Kidney cancer,0.49,0.43,0.45
+1994,Persons,Kidney cancer,0.49,0.44,0.46
+1995,Persons,Kidney cancer,0.47,0.41,0.43
+1996,Persons,Kidney cancer,0.46,0.4,0.42
+1997,Persons,Kidney cancer,0.45,0.38,0.41
+1998,Persons,Kidney cancer,0.42,0.37,0.39
+1999,Persons,Kidney cancer,0.41,0.35,0.37
+2000,Persons,Kidney cancer,0.38,0.33,0.35
+2001,Persons,Kidney cancer,0.41,0.35,0.37
+2002,Persons,Kidney cancer,0.39,0.34,0.36
+2003,Persons,Kidney cancer,0.39,0.34,0.35
+2004,Persons,Kidney cancer,0.38,0.31,0.33
+2005,Persons,Kidney cancer,0.36,0.3,0.32
+2006,Persons,Kidney cancer,0.33,0.28,0.3
+2007,Persons,Kidney cancer,0.33,0.27,0.29
+2008,Persons,Kidney cancer,0.31,0.25,0.27
+2009,Persons,Kidney cancer,0.33,0.27,0.29
+2010,Persons,Kidney cancer,0.33,0.27,0.29
+2011,Persons,Kidney cancer,,,
+1968,Male,Laryngeal cancer,,,
+1969,Male,Laryngeal cancer,,,
+1970,Male,Laryngeal cancer,,,
+1971,Male,Laryngeal cancer,,,
+1972,Male,Laryngeal cancer,,,
+1973,Male,Laryngeal cancer,,,
+1974,Male,Laryngeal cancer,,,
+1975,Male,Laryngeal cancer,,,
+1976,Male,Laryngeal cancer,,,
+1977,Male,Laryngeal cancer,,,
+1978,Male,Laryngeal cancer,,,
+1979,Male,Laryngeal cancer,,,
+1980,Male,Laryngeal cancer,,,
+1981,Male,Laryngeal cancer,,,
+1982,Male,Laryngeal cancer,0.37,0.34,0.36
+1983,Male,Laryngeal cancer,0.36,0.34,0.34
+1984,Male,Laryngeal cancer,0.47,0.42,0.44
+1985,Male,Laryngeal cancer,0.45,0.42,0.43
+1986,Male,Laryngeal cancer,0.4,0.37,0.38
+1987,Male,Laryngeal cancer,0.42,0.42,0.42
+1988,Male,Laryngeal cancer,0.37,0.35,0.36
+1989,Male,Laryngeal cancer,0.42,0.4,0.4
+1990,Male,Laryngeal cancer,0.44,0.42,0.42
+1991,Male,Laryngeal cancer,0.46,0.42,0.43
+1992,Male,Laryngeal cancer,0.4,0.39,0.39
+1993,Male,Laryngeal cancer,0.44,0.39,0.41
+1994,Male,Laryngeal cancer,0.44,0.39,0.4
+1995,Male,Laryngeal cancer,0.4,0.38,0.39
+1996,Male,Laryngeal cancer,0.45,0.4,0.42
+1997,Male,Laryngeal cancer,0.45,0.41,0.42
+1998,Male,Laryngeal cancer,0.34,0.32,0.32
+1999,Male,Laryngeal cancer,0.46,0.4,0.42
+2000,Male,Laryngeal cancer,0.42,0.4,0.41
+2001,Male,Laryngeal cancer,0.44,0.39,0.41
+2002,Male,Laryngeal cancer,0.45,0.39,0.41
+2003,Male,Laryngeal cancer,0.4,0.36,0.38
+2004,Male,Laryngeal cancer,0.37,0.34,0.35
+2005,Male,Laryngeal cancer,0.37,0.34,0.35
+2006,Male,Laryngeal cancer,0.34,0.3,0.31
+2007,Male,Laryngeal cancer,0.39,0.34,0.36
+2008,Male,Laryngeal cancer,0.4,0.35,0.37
+2009,Male,Laryngeal cancer,0.37,0.35,0.35
+2010,Male,Laryngeal cancer,0.42,0.36,0.38
+2011,Male,Laryngeal cancer,,,
+1968,Female,Laryngeal cancer,,,
+1969,Female,Laryngeal cancer,,,
+1970,Female,Laryngeal cancer,,,
+1971,Female,Laryngeal cancer,,,
+1972,Female,Laryngeal cancer,,,
+1973,Female,Laryngeal cancer,,,
+1974,Female,Laryngeal cancer,,,
+1975,Female,Laryngeal cancer,,,
+1976,Female,Laryngeal cancer,,,
+1977,Female,Laryngeal cancer,,,
+1978,Female,Laryngeal cancer,,,
+1979,Female,Laryngeal cancer,,,
+1980,Female,Laryngeal cancer,,,
+1981,Female,Laryngeal cancer,,,
+1982,Female,Laryngeal cancer,0.38,0.34,0.35
+1983,Female,Laryngeal cancer,0.28,0.27,0.28
+1984,Female,Laryngeal cancer,0.47,0.42,0.44
+1985,Female,Laryngeal cancer,0.38,0.32,0.34
+1986,Female,Laryngeal cancer,0.67,0.53,0.58
+1987,Female,Laryngeal cancer,0.34,0.3,0.32
+1988,Female,Laryngeal cancer,0.4,0.36,0.37
+1989,Female,Laryngeal cancer,0.35,0.35,0.34
+1990,Female,Laryngeal cancer,0.34,0.33,0.33
+1991,Female,Laryngeal cancer,0.51,0.46,0.48
+1992,Female,Laryngeal cancer,0.35,0.33,0.33
+1993,Female,Laryngeal cancer,0.52,0.51,0.51
+1994,Female,Laryngeal cancer,0.53,0.39,0.45
+1995,Female,Laryngeal cancer,0.32,0.28,0.3
+1996,Female,Laryngeal cancer,0.46,0.35,0.4
+1997,Female,Laryngeal cancer,0.49,0.41,0.44
+1998,Female,Laryngeal cancer,0.23,0.2,0.21
+1999,Female,Laryngeal cancer,0.43,0.37,0.39
+2000,Female,Laryngeal cancer,0.52,0.49,0.5
+2001,Female,Laryngeal cancer,0.43,0.41,0.42
+2002,Female,Laryngeal cancer,0.58,0.61,0.58
+2003,Female,Laryngeal cancer,0.43,0.42,0.42
+2004,Female,Laryngeal cancer,0.38,0.32,0.34
+2005,Female,Laryngeal cancer,0.39,0.35,0.37
+2006,Female,Laryngeal cancer,0.33,0.29,0.31
+2007,Female,Laryngeal cancer,0.4,0.38,0.39
+2008,Female,Laryngeal cancer,0.42,0.38,0.39
+2009,Female,Laryngeal cancer,0.37,0.29,0.32
+2010,Female,Laryngeal cancer,0.39,0.34,0.35
+2011,Female,Laryngeal cancer,,,
+1968,Persons,Laryngeal cancer,,,
+1969,Persons,Laryngeal cancer,,,
+1970,Persons,Laryngeal cancer,,,
+1971,Persons,Laryngeal cancer,,,
+1972,Persons,Laryngeal cancer,,,
+1973,Persons,Laryngeal cancer,,,
+1974,Persons,Laryngeal cancer,,,
+1975,Persons,Laryngeal cancer,,,
+1976,Persons,Laryngeal cancer,,,
+1977,Persons,Laryngeal cancer,,,
+1978,Persons,Laryngeal cancer,,,
+1979,Persons,Laryngeal cancer,,,
+1980,Persons,Laryngeal cancer,,,
+1981,Persons,Laryngeal cancer,,,
+1982,Persons,Laryngeal cancer,0.37,0.33,0.35
+1983,Persons,Laryngeal cancer,0.34,0.32,0.33
+1984,Persons,Laryngeal cancer,0.45,0.4,0.42
+1985,Persons,Laryngeal cancer,0.43,0.4,0.41
+1986,Persons,Laryngeal cancer,0.41,0.38,0.39
+1987,Persons,Laryngeal cancer,0.41,0.4,0.4
+1988,Persons,Laryngeal cancer,0.36,0.34,0.35
+1989,Persons,Laryngeal cancer,0.4,0.39,0.39
+1990,Persons,Laryngeal cancer,0.42,0.4,0.41
+1991,Persons,Laryngeal cancer,0.45,0.42,0.43
+1992,Persons,Laryngeal cancer,0.39,0.38,0.38
+1993,Persons,Laryngeal cancer,0.43,0.39,0.4
+1994,Persons,Laryngeal cancer,0.43,0.38,0.4
+1995,Persons,Laryngeal cancer,0.38,0.36,0.37
+1996,Persons,Laryngeal cancer,0.44,0.38,0.41
+1997,Persons,Laryngeal cancer,0.44,0.4,0.41
+1998,Persons,Laryngeal cancer,0.32,0.3,0.31
+1999,Persons,Laryngeal cancer,0.44,0.39,0.4
+2000,Persons,Laryngeal cancer,0.43,0.41,0.42
+2001,Persons,Laryngeal cancer,0.43,0.39,0.4
+2002,Persons,Laryngeal cancer,0.45,0.4,0.41
+2003,Persons,Laryngeal cancer,0.4,0.36,0.38
+2004,Persons,Laryngeal cancer,0.36,0.33,0.34
+2005,Persons,Laryngeal cancer,0.36,0.34,0.35
+2006,Persons,Laryngeal cancer,0.33,0.29,0.3
+2007,Persons,Laryngeal cancer,0.38,0.34,0.35
+2008,Persons,Laryngeal cancer,0.39,0.35,0.36
+2009,Persons,Laryngeal cancer,0.36,0.34,0.34
+2010,Persons,Laryngeal cancer,0.4,0.35,0.37
+2011,Persons,Laryngeal cancer,,,
+1968,Male,Liver cancer,,,
+1969,Male,Liver cancer,,,
+1970,Male,Liver cancer,,,
+1971,Male,Liver cancer,,,
+1972,Male,Liver cancer,,,
+1973,Male,Liver cancer,,,
+1974,Male,Liver cancer,,,
+1975,Male,Liver cancer,,,
+1976,Male,Liver cancer,,,
+1977,Male,Liver cancer,,,
+1978,Male,Liver cancer,,,
+1979,Male,Liver cancer,,,
+1980,Male,Liver cancer,,,
+1981,Male,Liver cancer,,,
+1982,Male,Liver cancer,1.14,1.06,1.1
+1983,Male,Liver cancer,1.48,1.35,1.41
+1984,Male,Liver cancer,1.29,1.3,1.3
+1985,Male,Liver cancer,1.44,1.29,1.35
+1986,Male,Liver cancer,1.08,1.01,1.03
+1987,Male,Liver cancer,1.12,1.08,1.09
+1988,Male,Liver cancer,1.12,1.05,1.08
+1989,Male,Liver cancer,1.12,1.06,1.08
+1990,Male,Liver cancer,1.08,1.01,1.04
+1991,Male,Liver cancer,1.04,0.98,1.01
+1992,Male,Liver cancer,0.98,0.96,0.96
+1993,Male,Liver cancer,0.98,0.94,0.95
+1994,Male,Liver cancer,0.99,0.9,0.94
+1995,Male,Liver cancer,1.07,1.01,1.02
+1996,Male,Liver cancer,0.95,0.9,0.92
+1997,Male,Liver cancer,1.01,0.96,0.98
+1998,Male,Liver cancer,0.93,0.86,0.88
+1999,Male,Liver cancer,0.9,0.85,0.87
+2000,Male,Liver cancer,0.91,0.84,0.87
+2001,Male,Liver cancer,0.86,0.84,0.85
+2002,Male,Liver cancer,0.86,0.81,0.82
+2003,Male,Liver cancer,0.95,0.88,0.91
+2004,Male,Liver cancer,0.81,0.78,0.79
+2005,Male,Liver cancer,0.8,0.75,0.77
+2006,Male,Liver cancer,0.84,0.78,0.8
+2007,Male,Liver cancer,0.87,0.82,0.84
+2008,Male,Liver cancer,0.8,0.75,0.77
+2009,Male,Liver cancer,0.91,0.83,0.86
+2010,Male,Liver cancer,0.88,0.82,0.84
+2011,Male,Liver cancer,,,
+1968,Female,Liver cancer,,,
+1969,Female,Liver cancer,,,
+1970,Female,Liver cancer,,,
+1971,Female,Liver cancer,,,
+1972,Female,Liver cancer,,,
+1973,Female,Liver cancer,,,
+1974,Female,Liver cancer,,,
+1975,Female,Liver cancer,,,
+1976,Female,Liver cancer,,,
+1977,Female,Liver cancer,,,
+1978,Female,Liver cancer,,,
+1979,Female,Liver cancer,,,
+1980,Female,Liver cancer,,,
+1981,Female,Liver cancer,,,
+1982,Female,Liver cancer,1.61,1.47,1.51
+1983,Female,Liver cancer,2.03,1.98,2
+1984,Female,Liver cancer,2.01,1.75,1.85
+1985,Female,Liver cancer,1.47,1.27,1.33
+1986,Female,Liver cancer,1.17,1.08,1.1
+1987,Female,Liver cancer,1.42,1.28,1.33
+1988,Female,Liver cancer,1.77,1.72,1.72
+1989,Female,Liver cancer,1.44,1.26,1.34
+1990,Female,Liver cancer,1.29,1.16,1.2
+1991,Female,Liver cancer,1.36,1.27,1.3
+1992,Female,Liver cancer,1.28,1.16,1.22
+1993,Female,Liver cancer,1.11,1,1.03
+1994,Female,Liver cancer,1.33,1.21,1.27
+1995,Female,Liver cancer,1.33,1.22,1.25
+1996,Female,Liver cancer,1.25,1.12,1.17
+1997,Female,Liver cancer,1.3,1.24,1.26
+1998,Female,Liver cancer,1.25,1.11,1.16
+1999,Female,Liver cancer,1.2,1.12,1.15
+2000,Female,Liver cancer,1.06,0.97,1.01
+2001,Female,Liver cancer,0.92,0.86,0.88
+2002,Female,Liver cancer,1.19,1.07,1.12
+2003,Female,Liver cancer,1.01,0.95,0.97
+2004,Female,Liver cancer,1.05,1,1.03
+2005,Female,Liver cancer,0.96,0.9,0.92
+2006,Female,Liver cancer,0.99,0.93,0.94
+2007,Female,Liver cancer,1.16,1.1,1.12
+2008,Female,Liver cancer,1.08,0.95,1.01
+2009,Female,Liver cancer,1.09,1,1.03
+2010,Female,Liver cancer,1.13,1.05,1.08
+2011,Female,Liver cancer,,,
+1968,Persons,Liver cancer,,,
+1969,Persons,Liver cancer,,,
+1970,Persons,Liver cancer,,,
+1971,Persons,Liver cancer,,,
+1972,Persons,Liver cancer,,,
+1973,Persons,Liver cancer,,,
+1974,Persons,Liver cancer,,,
+1975,Persons,Liver cancer,,,
+1976,Persons,Liver cancer,,,
+1977,Persons,Liver cancer,,,
+1978,Persons,Liver cancer,,,
+1979,Persons,Liver cancer,,,
+1980,Persons,Liver cancer,,,
+1981,Persons,Liver cancer,,,
+1982,Persons,Liver cancer,1.27,1.16,1.21
+1983,Persons,Liver cancer,1.6,1.48,1.53
+1984,Persons,Liver cancer,1.52,1.44,1.47
+1985,Persons,Liver cancer,1.43,1.27,1.33
+1986,Persons,Liver cancer,1.09,1.02,1.04
+1987,Persons,Liver cancer,1.21,1.14,1.17
+1988,Persons,Liver cancer,1.26,1.2,1.22
+1989,Persons,Liver cancer,1.2,1.11,1.14
+1990,Persons,Liver cancer,1.12,1.04,1.07
+1991,Persons,Liver cancer,1.12,1.05,1.08
+1992,Persons,Liver cancer,1.05,1,1.01
+1993,Persons,Liver cancer,1.02,0.96,0.98
+1994,Persons,Liver cancer,1.07,0.97,1.01
+1995,Persons,Liver cancer,1.13,1.06,1.08
+1996,Persons,Liver cancer,1.02,0.95,0.97
+1997,Persons,Liver cancer,1.08,1.02,1.04
+1998,Persons,Liver cancer,1,0.91,0.95
+1999,Persons,Liver cancer,0.98,0.91,0.94
+2000,Persons,Liver cancer,0.94,0.87,0.89
+2001,Persons,Liver cancer,0.88,0.85,0.86
+2002,Persons,Liver cancer,0.94,0.87,0.89
+2003,Persons,Liver cancer,0.96,0.89,0.92
+2004,Persons,Liver cancer,0.88,0.84,0.86
+2005,Persons,Liver cancer,0.84,0.79,0.81
+2006,Persons,Liver cancer,0.87,0.81,0.83
+2007,Persons,Liver cancer,0.95,0.89,0.91
+2008,Persons,Liver cancer,0.87,0.8,0.83
+2009,Persons,Liver cancer,0.95,0.87,0.9
+2010,Persons,Liver cancer,0.94,0.87,0.9
+2011,Persons,Liver cancer,,,
+1968,Male,Lung cancer,,,
+1969,Male,Lung cancer,,,
+1970,Male,Lung cancer,,,
+1971,Male,Lung cancer,,,
+1972,Male,Lung cancer,,,
+1973,Male,Lung cancer,,,
+1974,Male,Lung cancer,,,
+1975,Male,Lung cancer,,,
+1976,Male,Lung cancer,,,
+1977,Male,Lung cancer,,,
+1978,Male,Lung cancer,,,
+1979,Male,Lung cancer,,,
+1980,Male,Lung cancer,,,
+1981,Male,Lung cancer,,,
+1982,Male,Lung cancer,0.93,0.89,0.91
+1983,Male,Lung cancer,0.91,0.89,0.9
+1984,Male,Lung cancer,0.91,0.88,0.89
+1985,Male,Lung cancer,0.92,0.89,0.91
+1986,Male,Lung cancer,0.91,0.88,0.89
+1987,Male,Lung cancer,0.88,0.86,0.86
+1988,Male,Lung cancer,0.95,0.92,0.93
+1989,Male,Lung cancer,0.95,0.91,0.93
+1990,Male,Lung cancer,0.87,0.85,0.86
+1991,Male,Lung cancer,0.9,0.86,0.88
+1992,Male,Lung cancer,0.92,0.89,0.9
+1993,Male,Lung cancer,0.9,0.88,0.89
+1994,Male,Lung cancer,0.91,0.88,0.89
+1995,Male,Lung cancer,0.92,0.88,0.9
+1996,Male,Lung cancer,0.9,0.87,0.88
+1997,Male,Lung cancer,0.85,0.82,0.83
+1998,Male,Lung cancer,0.88,0.85,0.86
+1999,Male,Lung cancer,0.87,0.84,0.85
+2000,Male,Lung cancer,0.86,0.83,0.84
+2001,Male,Lung cancer,0.86,0.84,0.84
+2002,Male,Lung cancer,0.87,0.84,0.85
+2003,Male,Lung cancer,0.84,0.82,0.83
+2004,Male,Lung cancer,0.81,0.78,0.79
+2005,Male,Lung cancer,0.81,0.78,0.79
+2006,Male,Lung cancer,0.77,0.75,0.76
+2007,Male,Lung cancer,0.8,0.77,0.78
+2008,Male,Lung cancer,0.82,0.79,0.8
+2009,Male,Lung cancer,0.79,0.76,0.77
+2010,Male,Lung cancer,0.79,0.76,0.77
+2011,Male,Lung cancer,,,
+1968,Female,Lung cancer,,,
+1969,Female,Lung cancer,,,
+1970,Female,Lung cancer,,,
+1971,Female,Lung cancer,,,
+1972,Female,Lung cancer,,,
+1973,Female,Lung cancer,,,
+1974,Female,Lung cancer,,,
+1975,Female,Lung cancer,,,
+1976,Female,Lung cancer,,,
+1977,Female,Lung cancer,,,
+1978,Female,Lung cancer,,,
+1979,Female,Lung cancer,,,
+1980,Female,Lung cancer,,,
+1981,Female,Lung cancer,,,
+1982,Female,Lung cancer,0.85,0.83,0.84
+1983,Female,Lung cancer,0.89,0.87,0.87
+1984,Female,Lung cancer,0.86,0.83,0.84
+1985,Female,Lung cancer,0.87,0.84,0.85
+1986,Female,Lung cancer,0.86,0.83,0.84
+1987,Female,Lung cancer,0.8,0.77,0.78
+1988,Female,Lung cancer,0.87,0.85,0.86
+1989,Female,Lung cancer,0.86,0.84,0.85
+1990,Female,Lung cancer,0.81,0.79,0.8
+1991,Female,Lung cancer,0.86,0.84,0.85
+1992,Female,Lung cancer,0.85,0.81,0.82
+1993,Female,Lung cancer,0.82,0.8,0.81
+1994,Female,Lung cancer,0.84,0.82,0.83
+1995,Female,Lung cancer,0.85,0.82,0.83
+1996,Female,Lung cancer,0.83,0.8,0.81
+1997,Female,Lung cancer,0.8,0.77,0.78
+1998,Female,Lung cancer,0.79,0.77,0.78
+1999,Female,Lung cancer,0.81,0.78,0.79
+2000,Female,Lung cancer,0.81,0.77,0.78
+2001,Female,Lung cancer,0.8,0.78,0.79
+2002,Female,Lung cancer,0.8,0.77,0.78
+2003,Female,Lung cancer,0.81,0.77,0.79
+2004,Female,Lung cancer,0.75,0.71,0.73
+2005,Female,Lung cancer,0.76,0.71,0.73
+2006,Female,Lung cancer,0.74,0.73,0.73
+2007,Female,Lung cancer,0.76,0.73,0.74
+2008,Female,Lung cancer,0.71,0.67,0.68
+2009,Female,Lung cancer,0.71,0.68,0.69
+2010,Female,Lung cancer,0.77,0.73,0.75
+2011,Female,Lung cancer,,,
+1968,Persons,Lung cancer,,,
+1969,Persons,Lung cancer,,,
+1970,Persons,Lung cancer,,,
+1971,Persons,Lung cancer,,,
+1972,Persons,Lung cancer,,,
+1973,Persons,Lung cancer,,,
+1974,Persons,Lung cancer,,,
+1975,Persons,Lung cancer,,,
+1976,Persons,Lung cancer,,,
+1977,Persons,Lung cancer,,,
+1978,Persons,Lung cancer,,,
+1979,Persons,Lung cancer,,,
+1980,Persons,Lung cancer,,,
+1981,Persons,Lung cancer,,,
+1982,Persons,Lung cancer,0.9,0.87,0.88
+1983,Persons,Lung cancer,0.9,0.88,0.89
+1984,Persons,Lung cancer,0.89,0.86,0.87
+1985,Persons,Lung cancer,0.91,0.88,0.89
+1986,Persons,Lung cancer,0.89,0.86,0.87
+1987,Persons,Lung cancer,0.86,0.83,0.84
+1988,Persons,Lung cancer,0.92,0.9,0.91
+1989,Persons,Lung cancer,0.91,0.89,0.9
+1990,Persons,Lung cancer,0.85,0.83,0.83
+1991,Persons,Lung cancer,0.88,0.85,0.86
+1992,Persons,Lung cancer,0.89,0.86,0.87
+1993,Persons,Lung cancer,0.87,0.85,0.86
+1994,Persons,Lung cancer,0.88,0.86,0.87
+1995,Persons,Lung cancer,0.89,0.86,0.87
+1996,Persons,Lung cancer,0.87,0.84,0.85
+1997,Persons,Lung cancer,0.83,0.8,0.81
+1998,Persons,Lung cancer,0.85,0.82,0.83
+1999,Persons,Lung cancer,0.84,0.82,0.83
+2000,Persons,Lung cancer,0.84,0.81,0.82
+2001,Persons,Lung cancer,0.84,0.81,0.82
+2002,Persons,Lung cancer,0.84,0.81,0.83
+2003,Persons,Lung cancer,0.82,0.8,0.81
+2004,Persons,Lung cancer,0.78,0.75,0.76
+2005,Persons,Lung cancer,0.79,0.75,0.77
+2006,Persons,Lung cancer,0.76,0.74,0.74
+2007,Persons,Lung cancer,0.78,0.76,0.77
+2008,Persons,Lung cancer,0.77,0.74,0.75
+2009,Persons,Lung cancer,0.76,0.73,0.74
+2010,Persons,Lung cancer,0.78,0.74,0.76
+2011,Persons,Lung cancer,,,
+1968,Male,Melanoma of the skin,,,
+1969,Male,Melanoma of the skin,,,
+1970,Male,Melanoma of the skin,,,
+1971,Male,Melanoma of the skin,,,
+1972,Male,Melanoma of the skin,,,
+1973,Male,Melanoma of the skin,,,
+1974,Male,Melanoma of the skin,,,
+1975,Male,Melanoma of the skin,,,
+1976,Male,Melanoma of the skin,,,
+1977,Male,Melanoma of the skin,,,
+1978,Male,Melanoma of the skin,,,
+1979,Male,Melanoma of the skin,,,
+1980,Male,Melanoma of the skin,,,
+1981,Male,Melanoma of the skin,,,
+1982,Male,Melanoma of the skin,0.23,0.22,0.22
+1983,Male,Melanoma of the skin,0.21,0.2,0.2
+1984,Male,Melanoma of the skin,0.21,0.2,0.2
+1985,Male,Melanoma of the skin,0.19,0.18,0.18
+1986,Male,Melanoma of the skin,0.19,0.17,0.18
+1987,Male,Melanoma of the skin,0.2,0.17,0.18
+1988,Male,Melanoma of the skin,0.16,0.15,0.15
+1989,Male,Melanoma of the skin,0.17,0.16,0.16
+1990,Male,Melanoma of the skin,0.17,0.16,0.16
+1991,Male,Melanoma of the skin,0.17,0.16,0.16
+1992,Male,Melanoma of the skin,0.16,0.14,0.14
+1993,Male,Melanoma of the skin,0.16,0.15,0.16
+1994,Male,Melanoma of the skin,0.17,0.15,0.15
+1995,Male,Melanoma of the skin,0.16,0.14,0.14
+1996,Male,Melanoma of the skin,0.14,0.13,0.13
+1997,Male,Melanoma of the skin,0.13,0.12,0.12
+1998,Male,Melanoma of the skin,0.15,0.13,0.13
+1999,Male,Melanoma of the skin,0.14,0.13,0.13
+2000,Male,Melanoma of the skin,0.13,0.11,0.12
+2001,Male,Melanoma of the skin,0.14,0.13,0.13
+2002,Male,Melanoma of the skin,0.14,0.12,0.12
+2003,Male,Melanoma of the skin,0.14,0.13,0.13
+2004,Male,Melanoma of the skin,0.15,0.13,0.14
+2005,Male,Melanoma of the skin,0.15,0.13,0.13
+2006,Male,Melanoma of the skin,0.14,0.12,0.12
+2007,Male,Melanoma of the skin,0.15,0.13,0.14
+2008,Male,Melanoma of the skin,0.15,0.13,0.14
+2009,Male,Melanoma of the skin,0.15,0.13,0.13
+2010,Male,Melanoma of the skin,0.15,0.13,0.14
+2011,Male,Melanoma of the skin,,,
+1968,Female,Melanoma of the skin,,,
+1969,Female,Melanoma of the skin,,,
+1970,Female,Melanoma of the skin,,,
+1971,Female,Melanoma of the skin,,,
+1972,Female,Melanoma of the skin,,,
+1973,Female,Melanoma of the skin,,,
+1974,Female,Melanoma of the skin,,,
+1975,Female,Melanoma of the skin,,,
+1976,Female,Melanoma of the skin,,,
+1977,Female,Melanoma of the skin,,,
+1978,Female,Melanoma of the skin,,,
+1979,Female,Melanoma of the skin,,,
+1980,Female,Melanoma of the skin,,,
+1981,Female,Melanoma of the skin,,,
+1982,Female,Melanoma of the skin,0.12,0.11,0.11
+1983,Female,Melanoma of the skin,0.14,0.12,0.12
+1984,Female,Melanoma of the skin,0.12,0.11,0.11
+1985,Female,Melanoma of the skin,0.12,0.11,0.11
+1986,Female,Melanoma of the skin,0.12,0.1,0.11
+1987,Female,Melanoma of the skin,0.11,0.09,0.1
+1988,Female,Melanoma of the skin,0.1,0.09,0.09
+1989,Female,Melanoma of the skin,0.11,0.09,0.1
+1990,Female,Melanoma of the skin,0.12,0.1,0.11
+1991,Female,Melanoma of the skin,0.11,0.09,0.1
+1992,Female,Melanoma of the skin,0.11,0.1,0.1
+1993,Female,Melanoma of the skin,0.09,0.07,0.08
+1994,Female,Melanoma of the skin,0.09,0.08,0.08
+1995,Female,Melanoma of the skin,0.1,0.09,0.09
+1996,Female,Melanoma of the skin,0.09,0.08,0.08
+1997,Female,Melanoma of the skin,0.08,0.08,0.08
+1998,Female,Melanoma of the skin,0.09,0.08,0.08
+1999,Female,Melanoma of the skin,0.1,0.08,0.09
+2000,Female,Melanoma of the skin,0.09,0.08,0.08
+2001,Female,Melanoma of the skin,0.1,0.08,0.08
+2002,Female,Melanoma of the skin,0.07,0.06,0.06
+2003,Female,Melanoma of the skin,0.09,0.08,0.08
+2004,Female,Melanoma of the skin,0.09,0.07,0.08
+2005,Female,Melanoma of the skin,0.08,0.07,0.07
+2006,Female,Melanoma of the skin,0.1,0.09,0.09
+2007,Female,Melanoma of the skin,0.09,0.08,0.08
+2008,Female,Melanoma of the skin,0.09,0.08,0.08
+2009,Female,Melanoma of the skin,0.09,0.08,0.08
+2010,Female,Melanoma of the skin,0.09,0.08,0.08
+2011,Female,Melanoma of the skin,,,
+1968,Persons,Melanoma of the skin,,,
+1969,Persons,Melanoma of the skin,,,
+1970,Persons,Melanoma of the skin,,,
+1971,Persons,Melanoma of the skin,,,
+1972,Persons,Melanoma of the skin,,,
+1973,Persons,Melanoma of the skin,,,
+1974,Persons,Melanoma of the skin,,,
+1975,Persons,Melanoma of the skin,,,
+1976,Persons,Melanoma of the skin,,,
+1977,Persons,Melanoma of the skin,,,
+1978,Persons,Melanoma of the skin,,,
+1979,Persons,Melanoma of the skin,,,
+1980,Persons,Melanoma of the skin,,,
+1981,Persons,Melanoma of the skin,,,
+1982,Persons,Melanoma of the skin,0.18,0.16,0.16
+1983,Persons,Melanoma of the skin,0.17,0.16,0.16
+1984,Persons,Melanoma of the skin,0.16,0.15,0.15
+1985,Persons,Melanoma of the skin,0.16,0.14,0.15
+1986,Persons,Melanoma of the skin,0.15,0.14,0.14
+1987,Persons,Melanoma of the skin,0.15,0.13,0.14
+1988,Persons,Melanoma of the skin,0.13,0.12,0.12
+1989,Persons,Melanoma of the skin,0.14,0.13,0.13
+1990,Persons,Melanoma of the skin,0.15,0.13,0.14
+1991,Persons,Melanoma of the skin,0.14,0.13,0.13
+1992,Persons,Melanoma of the skin,0.14,0.12,0.12
+1993,Persons,Melanoma of the skin,0.13,0.12,0.12
+1994,Persons,Melanoma of the skin,0.13,0.12,0.12
+1995,Persons,Melanoma of the skin,0.13,0.11,0.12
+1996,Persons,Melanoma of the skin,0.12,0.1,0.11
+1997,Persons,Melanoma of the skin,0.11,0.1,0.1
+1998,Persons,Melanoma of the skin,0.12,0.11,0.11
+1999,Persons,Melanoma of the skin,0.12,0.11,0.11
+2000,Persons,Melanoma of the skin,0.11,0.1,0.1
+2001,Persons,Melanoma of the skin,0.12,0.11,0.11
+2002,Persons,Melanoma of the skin,0.11,0.09,0.1
+2003,Persons,Melanoma of the skin,0.12,0.1,0.11
+2004,Persons,Melanoma of the skin,0.12,0.11,0.11
+2005,Persons,Melanoma of the skin,0.12,0.1,0.1
+2006,Persons,Melanoma of the skin,0.12,0.1,0.11
+2007,Persons,Melanoma of the skin,0.12,0.11,0.11
+2008,Persons,Melanoma of the skin,0.12,0.11,0.11
+2009,Persons,Melanoma of the skin,0.12,0.11,0.11
+2010,Persons,Melanoma of the skin,0.12,0.11,0.11
+2011,Persons,Melanoma of the skin,,,
+1968,Male,Mesothelioma,,,
+1969,Male,Mesothelioma,,,
+1970,Male,Mesothelioma,,,
+1971,Male,Mesothelioma,,,
+1972,Male,Mesothelioma,,,
+1973,Male,Mesothelioma,,,
+1974,Male,Mesothelioma,,,
+1975,Male,Mesothelioma,,,
+1976,Male,Mesothelioma,,,
+1977,Male,Mesothelioma,,,
+1978,Male,Mesothelioma,,,
+1979,Male,Mesothelioma,,,
+1980,Male,Mesothelioma,,,
+1981,Male,Mesothelioma,,,
+1982,Male,Mesothelioma,0,0,0
+1983,Male,Mesothelioma,0,0,0
+1984,Male,Mesothelioma,0,0,0
+1985,Male,Mesothelioma,0,0,0
+1986,Male,Mesothelioma,0,0,0
+1987,Male,Mesothelioma,0,0,0
+1988,Male,Mesothelioma,0,0,0
+1989,Male,Mesothelioma,0,0,0
+1990,Male,Mesothelioma,0,0,0
+1991,Male,Mesothelioma,0,0,0
+1992,Male,Mesothelioma,0,0,0
+1993,Male,Mesothelioma,0,0,0
+1994,Male,Mesothelioma,0,0,0
+1995,Male,Mesothelioma,0,0,0
+1996,Male,Mesothelioma,0,0,0
+1997,Male,Mesothelioma,0.91,0.9,0.9
+1998,Male,Mesothelioma,0.89,0.85,0.86
+1999,Male,Mesothelioma,0.84,0.84,0.84
+2000,Male,Mesothelioma,0.94,0.9,0.92
+2001,Male,Mesothelioma,0.93,0.94,0.93
+2002,Male,Mesothelioma,0.89,0.89,0.89
+2003,Male,Mesothelioma,0.8,0.77,0.78
+2004,Male,Mesothelioma,0.9,0.87,0.89
+2005,Male,Mesothelioma,0.89,0.86,0.88
+2006,Male,Mesothelioma,0.81,0.77,0.78
+2007,Male,Mesothelioma,0.88,0.88,0.88
+2008,Male,Mesothelioma,0.88,0.87,0.87
+2009,Male,Mesothelioma,0.87,0.86,0.87
+2010,Male,Mesothelioma,0.96,0.91,0.94
+2011,Male,Mesothelioma,,,
+1968,Female,Mesothelioma,,,
+1969,Female,Mesothelioma,,,
+1970,Female,Mesothelioma,,,
+1971,Female,Mesothelioma,,,
+1972,Female,Mesothelioma,,,
+1973,Female,Mesothelioma,,,
+1974,Female,Mesothelioma,,,
+1975,Female,Mesothelioma,,,
+1976,Female,Mesothelioma,,,
+1977,Female,Mesothelioma,,,
+1978,Female,Mesothelioma,,,
+1979,Female,Mesothelioma,,,
+1980,Female,Mesothelioma,,,
+1981,Female,Mesothelioma,,,
+1982,Female,Mesothelioma,0,0,0
+1983,Female,Mesothelioma,0,0,0
+1984,Female,Mesothelioma,0,0,0
+1985,Female,Mesothelioma,0,0,0
+1986,Female,Mesothelioma,0,0,0
+1987,Female,Mesothelioma,0,0,0
+1988,Female,Mesothelioma,0,0,0
+1989,Female,Mesothelioma,0,0,0
+1990,Female,Mesothelioma,0,0,0
+1991,Female,Mesothelioma,0,0,0
+1992,Female,Mesothelioma,0,0,0
+1993,Female,Mesothelioma,0,0,0
+1994,Female,Mesothelioma,0,0,0
+1995,Female,Mesothelioma,0,0,0
+1996,Female,Mesothelioma,0,0,0
+1997,Female,Mesothelioma,0.82,0.74,0.76
+1998,Female,Mesothelioma,0.71,0.66,0.68
+1999,Female,Mesothelioma,0.75,0.79,0.77
+2000,Female,Mesothelioma,0.8,0.76,0.78
+2001,Female,Mesothelioma,0.78,0.75,0.75
+2002,Female,Mesothelioma,0.79,0.79,0.79
+2003,Female,Mesothelioma,0.75,0.72,0.74
+2004,Female,Mesothelioma,0.91,0.83,0.86
+2005,Female,Mesothelioma,0.82,0.8,0.8
+2006,Female,Mesothelioma,0.84,0.81,0.81
+2007,Female,Mesothelioma,0.82,0.78,0.79
+2008,Female,Mesothelioma,1.01,1.04,1.02
+2009,Female,Mesothelioma,0.86,0.86,0.86
+2010,Female,Mesothelioma,0.93,0.9,0.9
+2011,Female,Mesothelioma,,,
+1968,Persons,Mesothelioma,,,
+1969,Persons,Mesothelioma,,,
+1970,Persons,Mesothelioma,,,
+1971,Persons,Mesothelioma,,,
+1972,Persons,Mesothelioma,,,
+1973,Persons,Mesothelioma,,,
+1974,Persons,Mesothelioma,,,
+1975,Persons,Mesothelioma,,,
+1976,Persons,Mesothelioma,,,
+1977,Persons,Mesothelioma,,,
+1978,Persons,Mesothelioma,,,
+1979,Persons,Mesothelioma,,,
+1980,Persons,Mesothelioma,,,
+1981,Persons,Mesothelioma,,,
+1982,Persons,Mesothelioma,0,0,0
+1983,Persons,Mesothelioma,0,0,0
+1984,Persons,Mesothelioma,0,0,0
+1985,Persons,Mesothelioma,0,0,0
+1986,Persons,Mesothelioma,0,0,0
+1987,Persons,Mesothelioma,0,0,0
+1988,Persons,Mesothelioma,0,0,0
+1989,Persons,Mesothelioma,0,0,0
+1990,Persons,Mesothelioma,0,0,0
+1991,Persons,Mesothelioma,0,0,0
+1992,Persons,Mesothelioma,0,0,0
+1993,Persons,Mesothelioma,0,0,0
+1994,Persons,Mesothelioma,0,0,0
+1995,Persons,Mesothelioma,0,0,0
+1996,Persons,Mesothelioma,0,0,0
+1997,Persons,Mesothelioma,0.89,0.87,0.88
+1998,Persons,Mesothelioma,0.85,0.81,0.83
+1999,Persons,Mesothelioma,0.82,0.83,0.83
+2000,Persons,Mesothelioma,0.91,0.87,0.89
+2001,Persons,Mesothelioma,0.9,0.91,0.9
+2002,Persons,Mesothelioma,0.87,0.87,0.87
+2003,Persons,Mesothelioma,0.78,0.75,0.76
+2004,Persons,Mesothelioma,0.9,0.86,0.88
+2005,Persons,Mesothelioma,0.88,0.84,0.86
+2006,Persons,Mesothelioma,0.81,0.77,0.78
+2007,Persons,Mesothelioma,0.87,0.86,0.86
+2008,Persons,Mesothelioma,0.9,0.89,0.89
+2009,Persons,Mesothelioma,0.87,0.86,0.86
+2010,Persons,Mesothelioma,0.95,0.9,0.92
+2011,Persons,Mesothelioma,,,
+1968,Male,Myeloma,,,
+1969,Male,Myeloma,,,
+1970,Male,Myeloma,,,
+1971,Male,Myeloma,,,
+1972,Male,Myeloma,,,
+1973,Male,Myeloma,,,
+1974,Male,Myeloma,,,
+1975,Male,Myeloma,,,
+1976,Male,Myeloma,,,
+1977,Male,Myeloma,,,
+1978,Male,Myeloma,,,
+1979,Male,Myeloma,,,
+1980,Male,Myeloma,,,
+1981,Male,Myeloma,,,
+1982,Male,Myeloma,0.65,0.57,0.6
+1983,Male,Myeloma,0.75,0.68,0.71
+1984,Male,Myeloma,0.79,0.73,0.75
+1985,Male,Myeloma,0.76,0.75,0.75
+1986,Male,Myeloma,0.81,0.75,0.77
+1987,Male,Myeloma,0.68,0.67,0.68
+1988,Male,Myeloma,0.65,0.62,0.63
+1989,Male,Myeloma,0.76,0.69,0.72
+1990,Male,Myeloma,0.75,0.7,0.72
+1991,Male,Myeloma,0.73,0.64,0.68
+1992,Male,Myeloma,0.7,0.64,0.66
+1993,Male,Myeloma,0.7,0.63,0.65
+1994,Male,Myeloma,0.68,0.65,0.66
+1995,Male,Myeloma,0.67,0.63,0.64
+1996,Male,Myeloma,0.67,0.63,0.64
+1997,Male,Myeloma,0.65,0.61,0.62
+1998,Male,Myeloma,0.57,0.53,0.54
+1999,Male,Myeloma,0.6,0.54,0.56
+2000,Male,Myeloma,0.61,0.57,0.59
+2001,Male,Myeloma,0.54,0.48,0.5
+2002,Male,Myeloma,0.62,0.56,0.58
+2003,Male,Myeloma,0.62,0.57,0.59
+2004,Male,Myeloma,0.64,0.57,0.59
+2005,Male,Myeloma,0.6,0.53,0.56
+2006,Male,Myeloma,0.57,0.51,0.53
+2007,Male,Myeloma,0.52,0.48,0.5
+2008,Male,Myeloma,0.61,0.54,0.57
+2009,Male,Myeloma,0.52,0.46,0.48
+2010,Male,Myeloma,0.59,0.51,0.54
+2011,Male,Myeloma,,,
+1968,Female,Myeloma,,,
+1969,Female,Myeloma,,,
+1970,Female,Myeloma,,,
+1971,Female,Myeloma,,,
+1972,Female,Myeloma,,,
+1973,Female,Myeloma,,,
+1974,Female,Myeloma,,,
+1975,Female,Myeloma,,,
+1976,Female,Myeloma,,,
+1977,Female,Myeloma,,,
+1978,Female,Myeloma,,,
+1979,Female,Myeloma,,,
+1980,Female,Myeloma,,,
+1981,Female,Myeloma,,,
+1982,Female,Myeloma,0.65,0.61,0.62
+1983,Female,Myeloma,0.64,0.55,0.59
+1984,Female,Myeloma,0.67,0.65,0.66
+1985,Female,Myeloma,0.66,0.62,0.63
+1986,Female,Myeloma,0.73,0.67,0.69
+1987,Female,Myeloma,0.73,0.67,0.69
+1988,Female,Myeloma,0.86,0.81,0.83
+1989,Female,Myeloma,0.62,0.57,0.58
+1990,Female,Myeloma,0.66,0.6,0.62
+1991,Female,Myeloma,0.72,0.66,0.68
+1992,Female,Myeloma,0.74,0.67,0.7
+1993,Female,Myeloma,0.72,0.65,0.67
+1994,Female,Myeloma,0.83,0.82,0.82
+1995,Female,Myeloma,0.56,0.51,0.53
+1996,Female,Myeloma,0.63,0.61,0.61
+1997,Female,Myeloma,0.62,0.56,0.58
+1998,Female,Myeloma,0.59,0.57,0.57
+1999,Female,Myeloma,0.54,0.45,0.49
+2000,Female,Myeloma,0.61,0.57,0.58
+2001,Female,Myeloma,0.63,0.56,0.58
+2002,Female,Myeloma,0.62,0.55,0.58
+2003,Female,Myeloma,0.61,0.55,0.57
+2004,Female,Myeloma,0.65,0.58,0.6
+2005,Female,Myeloma,0.51,0.47,0.48
+2006,Female,Myeloma,0.57,0.49,0.52
+2007,Female,Myeloma,0.58,0.5,0.53
+2008,Female,Myeloma,0.64,0.56,0.59
+2009,Female,Myeloma,0.48,0.44,0.45
+2010,Female,Myeloma,0.53,0.47,0.49
+2011,Female,Myeloma,,,
+1968,Persons,Myeloma,,,
+1969,Persons,Myeloma,,,
+1970,Persons,Myeloma,,,
+1971,Persons,Myeloma,,,
+1972,Persons,Myeloma,,,
+1973,Persons,Myeloma,,,
+1974,Persons,Myeloma,,,
+1975,Persons,Myeloma,,,
+1976,Persons,Myeloma,,,
+1977,Persons,Myeloma,,,
+1978,Persons,Myeloma,,,
+1979,Persons,Myeloma,,,
+1980,Persons,Myeloma,,,
+1981,Persons,Myeloma,,,
+1982,Persons,Myeloma,0.64,0.58,0.6
+1983,Persons,Myeloma,0.69,0.62,0.64
+1984,Persons,Myeloma,0.71,0.68,0.69
+1985,Persons,Myeloma,0.71,0.69,0.7
+1986,Persons,Myeloma,0.76,0.71,0.73
+1987,Persons,Myeloma,0.71,0.68,0.69
+1988,Persons,Myeloma,0.74,0.7,0.71
+1989,Persons,Myeloma,0.68,0.63,0.65
+1990,Persons,Myeloma,0.7,0.65,0.67
+1991,Persons,Myeloma,0.72,0.65,0.67
+1992,Persons,Myeloma,0.71,0.65,0.68
+1993,Persons,Myeloma,0.7,0.63,0.65
+1994,Persons,Myeloma,0.74,0.71,0.72
+1995,Persons,Myeloma,0.61,0.57,0.59
+1996,Persons,Myeloma,0.64,0.62,0.62
+1997,Persons,Myeloma,0.64,0.58,0.6
+1998,Persons,Myeloma,0.58,0.55,0.55
+1999,Persons,Myeloma,0.57,0.5,0.53
+2000,Persons,Myeloma,0.61,0.57,0.58
+2001,Persons,Myeloma,0.57,0.51,0.53
+2002,Persons,Myeloma,0.61,0.55,0.57
+2003,Persons,Myeloma,0.61,0.56,0.58
+2004,Persons,Myeloma,0.64,0.57,0.59
+2005,Persons,Myeloma,0.55,0.5,0.52
+2006,Persons,Myeloma,0.57,0.5,0.52
+2007,Persons,Myeloma,0.55,0.49,0.51
+2008,Persons,Myeloma,0.62,0.54,0.57
+2009,Persons,Myeloma,0.5,0.45,0.47
+2010,Persons,Myeloma,0.56,0.49,0.52
+2011,Persons,Myeloma,,,
+1968,Male,Non-Hodgkin lymphoma,,,
+1969,Male,Non-Hodgkin lymphoma,,,
+1970,Male,Non-Hodgkin lymphoma,,,
+1971,Male,Non-Hodgkin lymphoma,,,
+1972,Male,Non-Hodgkin lymphoma,,,
+1973,Male,Non-Hodgkin lymphoma,,,
+1974,Male,Non-Hodgkin lymphoma,,,
+1975,Male,Non-Hodgkin lymphoma,,,
+1976,Male,Non-Hodgkin lymphoma,,,
+1977,Male,Non-Hodgkin lymphoma,,,
+1978,Male,Non-Hodgkin lymphoma,,,
+1979,Male,Non-Hodgkin lymphoma,,,
+1980,Male,Non-Hodgkin lymphoma,,,
+1981,Male,Non-Hodgkin lymphoma,,,
+1982,Male,Non-Hodgkin lymphoma,0.54,0.52,0.53
+1983,Male,Non-Hodgkin lymphoma,0.59,0.53,0.54
+1984,Male,Non-Hodgkin lymphoma,0.49,0.46,0.47
+1985,Male,Non-Hodgkin lymphoma,0.49,0.46,0.47
+1986,Male,Non-Hodgkin lymphoma,0.58,0.53,0.54
+1987,Male,Non-Hodgkin lymphoma,0.48,0.45,0.46
+1988,Male,Non-Hodgkin lymphoma,0.55,0.49,0.51
+1989,Male,Non-Hodgkin lymphoma,0.57,0.51,0.53
+1990,Male,Non-Hodgkin lymphoma,0.51,0.46,0.48
+1991,Male,Non-Hodgkin lymphoma,0.49,0.46,0.47
+1992,Male,Non-Hodgkin lymphoma,0.49,0.44,0.45
+1993,Male,Non-Hodgkin lymphoma,0.5,0.45,0.46
+1994,Male,Non-Hodgkin lymphoma,0.55,0.5,0.52
+1995,Male,Non-Hodgkin lymphoma,0.51,0.45,0.47
+1996,Male,Non-Hodgkin lymphoma,0.44,0.39,0.4
+1997,Male,Non-Hodgkin lymphoma,0.51,0.45,0.47
+1998,Male,Non-Hodgkin lymphoma,0.47,0.41,0.43
+1999,Male,Non-Hodgkin lymphoma,0.46,0.41,0.43
+2000,Male,Non-Hodgkin lymphoma,0.48,0.41,0.44
+2001,Male,Non-Hodgkin lymphoma,0.43,0.37,0.39
+2002,Male,Non-Hodgkin lymphoma,0.43,0.37,0.39
+2003,Male,Non-Hodgkin lymphoma,0.4,0.35,0.36
+2004,Male,Non-Hodgkin lymphoma,0.37,0.31,0.33
+2005,Male,Non-Hodgkin lymphoma,0.36,0.3,0.32
+2006,Male,Non-Hodgkin lymphoma,0.36,0.3,0.32
+2007,Male,Non-Hodgkin lymphoma,0.35,0.29,0.31
+2008,Male,Non-Hodgkin lymphoma,0.35,0.29,0.31
+2009,Male,Non-Hodgkin lymphoma,0.31,0.25,0.27
+2010,Male,Non-Hodgkin lymphoma,0.32,0.26,0.28
+2011,Male,Non-Hodgkin lymphoma,,,
+1968,Female,Non-Hodgkin lymphoma,,,
+1969,Female,Non-Hodgkin lymphoma,,,
+1970,Female,Non-Hodgkin lymphoma,,,
+1971,Female,Non-Hodgkin lymphoma,,,
+1972,Female,Non-Hodgkin lymphoma,,,
+1973,Female,Non-Hodgkin lymphoma,,,
+1974,Female,Non-Hodgkin lymphoma,,,
+1975,Female,Non-Hodgkin lymphoma,,,
+1976,Female,Non-Hodgkin lymphoma,,,
+1977,Female,Non-Hodgkin lymphoma,,,
+1978,Female,Non-Hodgkin lymphoma,,,
+1979,Female,Non-Hodgkin lymphoma,,,
+1980,Female,Non-Hodgkin lymphoma,,,
+1981,Female,Non-Hodgkin lymphoma,,,
+1982,Female,Non-Hodgkin lymphoma,0.48,0.44,0.46
+1983,Female,Non-Hodgkin lymphoma,0.52,0.47,0.49
+1984,Female,Non-Hodgkin lymphoma,0.46,0.42,0.44
+1985,Female,Non-Hodgkin lymphoma,0.55,0.49,0.51
+1986,Female,Non-Hodgkin lymphoma,0.55,0.49,0.51
+1987,Female,Non-Hodgkin lymphoma,0.48,0.42,0.44
+1988,Female,Non-Hodgkin lymphoma,0.51,0.45,0.47
+1989,Female,Non-Hodgkin lymphoma,0.48,0.44,0.45
+1990,Female,Non-Hodgkin lymphoma,0.52,0.45,0.47
+1991,Female,Non-Hodgkin lymphoma,0.5,0.44,0.46
+1992,Female,Non-Hodgkin lymphoma,0.49,0.42,0.44
+1993,Female,Non-Hodgkin lymphoma,0.51,0.46,0.48
+1994,Female,Non-Hodgkin lymphoma,0.48,0.42,0.44
+1995,Female,Non-Hodgkin lymphoma,0.49,0.44,0.46
+1996,Female,Non-Hodgkin lymphoma,0.48,0.42,0.44
+1997,Female,Non-Hodgkin lymphoma,0.49,0.44,0.45
+1998,Female,Non-Hodgkin lymphoma,0.5,0.45,0.46
+1999,Female,Non-Hodgkin lymphoma,0.45,0.4,0.42
+2000,Female,Non-Hodgkin lymphoma,0.44,0.38,0.4
+2001,Female,Non-Hodgkin lymphoma,0.43,0.37,0.38
+2002,Female,Non-Hodgkin lymphoma,0.4,0.35,0.36
+2003,Female,Non-Hodgkin lymphoma,0.37,0.32,0.34
+2004,Female,Non-Hodgkin lymphoma,0.4,0.33,0.35
+2005,Female,Non-Hodgkin lymphoma,0.33,0.28,0.3
+2006,Female,Non-Hodgkin lymphoma,0.34,0.26,0.29
+2007,Female,Non-Hodgkin lymphoma,0.3,0.24,0.26
+2008,Female,Non-Hodgkin lymphoma,0.3,0.24,0.26
+2009,Female,Non-Hodgkin lymphoma,0.29,0.22,0.25
+2010,Female,Non-Hodgkin lymphoma,0.27,0.21,0.23
+2011,Female,Non-Hodgkin lymphoma,,,
+1968,Persons,Non-Hodgkin lymphoma,,,
+1969,Persons,Non-Hodgkin lymphoma,,,
+1970,Persons,Non-Hodgkin lymphoma,,,
+1971,Persons,Non-Hodgkin lymphoma,,,
+1972,Persons,Non-Hodgkin lymphoma,,,
+1973,Persons,Non-Hodgkin lymphoma,,,
+1974,Persons,Non-Hodgkin lymphoma,,,
+1975,Persons,Non-Hodgkin lymphoma,,,
+1976,Persons,Non-Hodgkin lymphoma,,,
+1977,Persons,Non-Hodgkin lymphoma,,,
+1978,Persons,Non-Hodgkin lymphoma,,,
+1979,Persons,Non-Hodgkin lymphoma,,,
+1980,Persons,Non-Hodgkin lymphoma,,,
+1981,Persons,Non-Hodgkin lymphoma,,,
+1982,Persons,Non-Hodgkin lymphoma,0.51,0.48,0.49
+1983,Persons,Non-Hodgkin lymphoma,0.54,0.5,0.51
+1984,Persons,Non-Hodgkin lymphoma,0.48,0.44,0.45
+1985,Persons,Non-Hodgkin lymphoma,0.52,0.47,0.49
+1986,Persons,Non-Hodgkin lymphoma,0.56,0.51,0.53
+1987,Persons,Non-Hodgkin lymphoma,0.49,0.44,0.45
+1988,Persons,Non-Hodgkin lymphoma,0.53,0.47,0.49
+1989,Persons,Non-Hodgkin lymphoma,0.52,0.47,0.49
+1990,Persons,Non-Hodgkin lymphoma,0.51,0.46,0.47
+1991,Persons,Non-Hodgkin lymphoma,0.5,0.45,0.47
+1992,Persons,Non-Hodgkin lymphoma,0.49,0.43,0.45
+1993,Persons,Non-Hodgkin lymphoma,0.5,0.45,0.47
+1994,Persons,Non-Hodgkin lymphoma,0.52,0.46,0.48
+1995,Persons,Non-Hodgkin lymphoma,0.5,0.44,0.46
+1996,Persons,Non-Hodgkin lymphoma,0.45,0.4,0.42
+1997,Persons,Non-Hodgkin lymphoma,0.5,0.44,0.46
+1998,Persons,Non-Hodgkin lymphoma,0.48,0.42,0.44
+1999,Persons,Non-Hodgkin lymphoma,0.45,0.41,0.42
+2000,Persons,Non-Hodgkin lymphoma,0.46,0.4,0.41
+2001,Persons,Non-Hodgkin lymphoma,0.43,0.37,0.38
+2002,Persons,Non-Hodgkin lymphoma,0.41,0.35,0.37
+2003,Persons,Non-Hodgkin lymphoma,0.39,0.33,0.35
+2004,Persons,Non-Hodgkin lymphoma,0.38,0.32,0.34
+2005,Persons,Non-Hodgkin lymphoma,0.34,0.29,0.31
+2006,Persons,Non-Hodgkin lymphoma,0.35,0.28,0.31
+2007,Persons,Non-Hodgkin lymphoma,0.33,0.27,0.29
+2008,Persons,Non-Hodgkin lymphoma,0.33,0.27,0.28
+2009,Persons,Non-Hodgkin lymphoma,0.3,0.24,0.26
+2010,Persons,Non-Hodgkin lymphoma,0.29,0.24,0.25
+2011,Persons,Non-Hodgkin lymphoma,,,
+1968,Male,"Non-melanoma skin cancer, all types",,,
+1969,Male,"Non-melanoma skin cancer, all types",,,
+1970,Male,"Non-melanoma skin cancer, all types",,,
+1971,Male,"Non-melanoma skin cancer, all types",,,
+1972,Male,"Non-melanoma skin cancer, all types",,,
+1973,Male,"Non-melanoma skin cancer, all types",,,
+1974,Male,"Non-melanoma skin cancer, all types",,,
+1975,Male,"Non-melanoma skin cancer, all types",,,
+1976,Male,"Non-melanoma skin cancer, all types",,,
+1977,Male,"Non-melanoma skin cancer, all types",,,
+1978,Male,"Non-melanoma skin cancer, all types",,,
+1979,Male,"Non-melanoma skin cancer, all types",,,
+1980,Male,"Non-melanoma skin cancer, all types",,,
+1981,Male,"Non-melanoma skin cancer, all types",,,
+1982,Male,"Non-melanoma skin cancer, all types",,,
+1983,Male,"Non-melanoma skin cancer, all types",,,
+1984,Male,"Non-melanoma skin cancer, all types",,,
+1985,Male,"Non-melanoma skin cancer, all types",,,
+1986,Male,"Non-melanoma skin cancer, all types",,,
+1987,Male,"Non-melanoma skin cancer, all types",,,
+1988,Male,"Non-melanoma skin cancer, all types",,,
+1989,Male,"Non-melanoma skin cancer, all types",,,
+1990,Male,"Non-melanoma skin cancer, all types",,,
+1991,Male,"Non-melanoma skin cancer, all types",,,
+1992,Male,"Non-melanoma skin cancer, all types",,,
+1993,Male,"Non-melanoma skin cancer, all types",,,
+1994,Male,"Non-melanoma skin cancer, all types",,,
+1995,Male,"Non-melanoma skin cancer, all types",,,
+1996,Male,"Non-melanoma skin cancer, all types",,,
+1997,Male,"Non-melanoma skin cancer, all types",,,
+1998,Male,"Non-melanoma skin cancer, all types",,,
+1999,Male,"Non-melanoma skin cancer, all types",,,
+2000,Male,"Non-melanoma skin cancer, all types",,,
+2001,Male,"Non-melanoma skin cancer, all types",,,
+2002,Male,"Non-melanoma skin cancer, all types",,,
+2003,Male,"Non-melanoma skin cancer, all types",,,
+2004,Male,"Non-melanoma skin cancer, all types",,,
+2005,Male,"Non-melanoma skin cancer, all types",,,
+2006,Male,"Non-melanoma skin cancer, all types",,,
+2007,Male,"Non-melanoma skin cancer, all types",,,
+2008,Male,"Non-melanoma skin cancer, all types",,,
+2009,Male,"Non-melanoma skin cancer, all types",,,
+2010,Male,"Non-melanoma skin cancer, all types",,,
+2011,Male,"Non-melanoma skin cancer, all types",,,
+1968,Female,"Non-melanoma skin cancer, all types",,,
+1969,Female,"Non-melanoma skin cancer, all types",,,
+1970,Female,"Non-melanoma skin cancer, all types",,,
+1971,Female,"Non-melanoma skin cancer, all types",,,
+1972,Female,"Non-melanoma skin cancer, all types",,,
+1973,Female,"Non-melanoma skin cancer, all types",,,
+1974,Female,"Non-melanoma skin cancer, all types",,,
+1975,Female,"Non-melanoma skin cancer, all types",,,
+1976,Female,"Non-melanoma skin cancer, all types",,,
+1977,Female,"Non-melanoma skin cancer, all types",,,
+1978,Female,"Non-melanoma skin cancer, all types",,,
+1979,Female,"Non-melanoma skin cancer, all types",,,
+1980,Female,"Non-melanoma skin cancer, all types",,,
+1981,Female,"Non-melanoma skin cancer, all types",,,
+1982,Female,"Non-melanoma skin cancer, all types",,,
+1983,Female,"Non-melanoma skin cancer, all types",,,
+1984,Female,"Non-melanoma skin cancer, all types",,,
+1985,Female,"Non-melanoma skin cancer, all types",,,
+1986,Female,"Non-melanoma skin cancer, all types",,,
+1987,Female,"Non-melanoma skin cancer, all types",,,
+1988,Female,"Non-melanoma skin cancer, all types",,,
+1989,Female,"Non-melanoma skin cancer, all types",,,
+1990,Female,"Non-melanoma skin cancer, all types",,,
+1991,Female,"Non-melanoma skin cancer, all types",,,
+1992,Female,"Non-melanoma skin cancer, all types",,,
+1993,Female,"Non-melanoma skin cancer, all types",,,
+1994,Female,"Non-melanoma skin cancer, all types",,,
+1995,Female,"Non-melanoma skin cancer, all types",,,
+1996,Female,"Non-melanoma skin cancer, all types",,,
+1997,Female,"Non-melanoma skin cancer, all types",,,
+1998,Female,"Non-melanoma skin cancer, all types",,,
+1999,Female,"Non-melanoma skin cancer, all types",,,
+2000,Female,"Non-melanoma skin cancer, all types",,,
+2001,Female,"Non-melanoma skin cancer, all types",,,
+2002,Female,"Non-melanoma skin cancer, all types",,,
+2003,Female,"Non-melanoma skin cancer, all types",,,
+2004,Female,"Non-melanoma skin cancer, all types",,,
+2005,Female,"Non-melanoma skin cancer, all types",,,
+2006,Female,"Non-melanoma skin cancer, all types",,,
+2007,Female,"Non-melanoma skin cancer, all types",,,
+2008,Female,"Non-melanoma skin cancer, all types",,,
+2009,Female,"Non-melanoma skin cancer, all types",,,
+2010,Female,"Non-melanoma skin cancer, all types",,,
+2011,Female,"Non-melanoma skin cancer, all types",,,
+1968,Persons,"Non-melanoma skin cancer, all types",,,
+1969,Persons,"Non-melanoma skin cancer, all types",,,
+1970,Persons,"Non-melanoma skin cancer, all types",,,
+1971,Persons,"Non-melanoma skin cancer, all types",,,
+1972,Persons,"Non-melanoma skin cancer, all types",,,
+1973,Persons,"Non-melanoma skin cancer, all types",,,
+1974,Persons,"Non-melanoma skin cancer, all types",,,
+1975,Persons,"Non-melanoma skin cancer, all types",,,
+1976,Persons,"Non-melanoma skin cancer, all types",,,
+1977,Persons,"Non-melanoma skin cancer, all types",,,
+1978,Persons,"Non-melanoma skin cancer, all types",,,
+1979,Persons,"Non-melanoma skin cancer, all types",,,
+1980,Persons,"Non-melanoma skin cancer, all types",,,
+1981,Persons,"Non-melanoma skin cancer, all types",,,
+1982,Persons,"Non-melanoma skin cancer, all types",,,
+1983,Persons,"Non-melanoma skin cancer, all types",,,
+1984,Persons,"Non-melanoma skin cancer, all types",,,
+1985,Persons,"Non-melanoma skin cancer, all types",,,
+1986,Persons,"Non-melanoma skin cancer, all types",,,
+1987,Persons,"Non-melanoma skin cancer, all types",,,
+1988,Persons,"Non-melanoma skin cancer, all types",,,
+1989,Persons,"Non-melanoma skin cancer, all types",,,
+1990,Persons,"Non-melanoma skin cancer, all types",,,
+1991,Persons,"Non-melanoma skin cancer, all types",,,
+1992,Persons,"Non-melanoma skin cancer, all types",,,
+1993,Persons,"Non-melanoma skin cancer, all types",,,
+1994,Persons,"Non-melanoma skin cancer, all types",,,
+1995,Persons,"Non-melanoma skin cancer, all types",,,
+1996,Persons,"Non-melanoma skin cancer, all types",,,
+1997,Persons,"Non-melanoma skin cancer, all types",,,
+1998,Persons,"Non-melanoma skin cancer, all types",,,
+1999,Persons,"Non-melanoma skin cancer, all types",,,
+2000,Persons,"Non-melanoma skin cancer, all types",,,
+2001,Persons,"Non-melanoma skin cancer, all types",,,
+2002,Persons,"Non-melanoma skin cancer, all types",,,
+2003,Persons,"Non-melanoma skin cancer, all types",,,
+2004,Persons,"Non-melanoma skin cancer, all types",,,
+2005,Persons,"Non-melanoma skin cancer, all types",,,
+2006,Persons,"Non-melanoma skin cancer, all types",,,
+2007,Persons,"Non-melanoma skin cancer, all types",,,
+2008,Persons,"Non-melanoma skin cancer, all types",,,
+2009,Persons,"Non-melanoma skin cancer, all types",,,
+2010,Persons,"Non-melanoma skin cancer, all types",,,
+2011,Persons,"Non-melanoma skin cancer, all types",,,
+1968,Male,"Non-melanoma skin cancer, rare types",,,
+1969,Male,"Non-melanoma skin cancer, rare types",,,
+1970,Male,"Non-melanoma skin cancer, rare types",,,
+1971,Male,"Non-melanoma skin cancer, rare types",,,
+1972,Male,"Non-melanoma skin cancer, rare types",,,
+1973,Male,"Non-melanoma skin cancer, rare types",,,
+1974,Male,"Non-melanoma skin cancer, rare types",,,
+1975,Male,"Non-melanoma skin cancer, rare types",,,
+1976,Male,"Non-melanoma skin cancer, rare types",,,
+1977,Male,"Non-melanoma skin cancer, rare types",,,
+1978,Male,"Non-melanoma skin cancer, rare types",,,
+1979,Male,"Non-melanoma skin cancer, rare types",,,
+1980,Male,"Non-melanoma skin cancer, rare types",,,
+1981,Male,"Non-melanoma skin cancer, rare types",,,
+1982,Male,"Non-melanoma skin cancer, rare types",,,
+1983,Male,"Non-melanoma skin cancer, rare types",,,
+1984,Male,"Non-melanoma skin cancer, rare types",,,
+1985,Male,"Non-melanoma skin cancer, rare types",,,
+1986,Male,"Non-melanoma skin cancer, rare types",,,
+1987,Male,"Non-melanoma skin cancer, rare types",,,
+1988,Male,"Non-melanoma skin cancer, rare types",,,
+1989,Male,"Non-melanoma skin cancer, rare types",,,
+1990,Male,"Non-melanoma skin cancer, rare types",,,
+1991,Male,"Non-melanoma skin cancer, rare types",,,
+1992,Male,"Non-melanoma skin cancer, rare types",,,
+1993,Male,"Non-melanoma skin cancer, rare types",,,
+1994,Male,"Non-melanoma skin cancer, rare types",,,
+1995,Male,"Non-melanoma skin cancer, rare types",,,
+1996,Male,"Non-melanoma skin cancer, rare types",,,
+1997,Male,"Non-melanoma skin cancer, rare types",,,
+1998,Male,"Non-melanoma skin cancer, rare types",,,
+1999,Male,"Non-melanoma skin cancer, rare types",,,
+2000,Male,"Non-melanoma skin cancer, rare types",,,
+2001,Male,"Non-melanoma skin cancer, rare types",,,
+2002,Male,"Non-melanoma skin cancer, rare types",,,
+2003,Male,"Non-melanoma skin cancer, rare types",,,
+2004,Male,"Non-melanoma skin cancer, rare types",,,
+2005,Male,"Non-melanoma skin cancer, rare types",,,
+2006,Male,"Non-melanoma skin cancer, rare types",,,
+2007,Male,"Non-melanoma skin cancer, rare types",,,
+2008,Male,"Non-melanoma skin cancer, rare types",,,
+2009,Male,"Non-melanoma skin cancer, rare types",,,
+2010,Male,"Non-melanoma skin cancer, rare types",,,
+2011,Male,"Non-melanoma skin cancer, rare types",,,
+1968,Female,"Non-melanoma skin cancer, rare types",,,
+1969,Female,"Non-melanoma skin cancer, rare types",,,
+1970,Female,"Non-melanoma skin cancer, rare types",,,
+1971,Female,"Non-melanoma skin cancer, rare types",,,
+1972,Female,"Non-melanoma skin cancer, rare types",,,
+1973,Female,"Non-melanoma skin cancer, rare types",,,
+1974,Female,"Non-melanoma skin cancer, rare types",,,
+1975,Female,"Non-melanoma skin cancer, rare types",,,
+1976,Female,"Non-melanoma skin cancer, rare types",,,
+1977,Female,"Non-melanoma skin cancer, rare types",,,
+1978,Female,"Non-melanoma skin cancer, rare types",,,
+1979,Female,"Non-melanoma skin cancer, rare types",,,
+1980,Female,"Non-melanoma skin cancer, rare types",,,
+1981,Female,"Non-melanoma skin cancer, rare types",,,
+1982,Female,"Non-melanoma skin cancer, rare types",,,
+1983,Female,"Non-melanoma skin cancer, rare types",,,
+1984,Female,"Non-melanoma skin cancer, rare types",,,
+1985,Female,"Non-melanoma skin cancer, rare types",,,
+1986,Female,"Non-melanoma skin cancer, rare types",,,
+1987,Female,"Non-melanoma skin cancer, rare types",,,
+1988,Female,"Non-melanoma skin cancer, rare types",,,
+1989,Female,"Non-melanoma skin cancer, rare types",,,
+1990,Female,"Non-melanoma skin cancer, rare types",,,
+1991,Female,"Non-melanoma skin cancer, rare types",,,
+1992,Female,"Non-melanoma skin cancer, rare types",,,
+1993,Female,"Non-melanoma skin cancer, rare types",,,
+1994,Female,"Non-melanoma skin cancer, rare types",,,
+1995,Female,"Non-melanoma skin cancer, rare types",,,
+1996,Female,"Non-melanoma skin cancer, rare types",,,
+1997,Female,"Non-melanoma skin cancer, rare types",,,
+1998,Female,"Non-melanoma skin cancer, rare types",,,
+1999,Female,"Non-melanoma skin cancer, rare types",,,
+2000,Female,"Non-melanoma skin cancer, rare types",,,
+2001,Female,"Non-melanoma skin cancer, rare types",,,
+2002,Female,"Non-melanoma skin cancer, rare types",,,
+2003,Female,"Non-melanoma skin cancer, rare types",,,
+2004,Female,"Non-melanoma skin cancer, rare types",,,
+2005,Female,"Non-melanoma skin cancer, rare types",,,
+2006,Female,"Non-melanoma skin cancer, rare types",,,
+2007,Female,"Non-melanoma skin cancer, rare types",,,
+2008,Female,"Non-melanoma skin cancer, rare types",,,
+2009,Female,"Non-melanoma skin cancer, rare types",,,
+2010,Female,"Non-melanoma skin cancer, rare types",,,
+2011,Female,"Non-melanoma skin cancer, rare types",,,
+1968,Persons,"Non-melanoma skin cancer, rare types",,,
+1969,Persons,"Non-melanoma skin cancer, rare types",,,
+1970,Persons,"Non-melanoma skin cancer, rare types",,,
+1971,Persons,"Non-melanoma skin cancer, rare types",,,
+1972,Persons,"Non-melanoma skin cancer, rare types",,,
+1973,Persons,"Non-melanoma skin cancer, rare types",,,
+1974,Persons,"Non-melanoma skin cancer, rare types",,,
+1975,Persons,"Non-melanoma skin cancer, rare types",,,
+1976,Persons,"Non-melanoma skin cancer, rare types",,,
+1977,Persons,"Non-melanoma skin cancer, rare types",,,
+1978,Persons,"Non-melanoma skin cancer, rare types",,,
+1979,Persons,"Non-melanoma skin cancer, rare types",,,
+1980,Persons,"Non-melanoma skin cancer, rare types",,,
+1981,Persons,"Non-melanoma skin cancer, rare types",,,
+1982,Persons,"Non-melanoma skin cancer, rare types",,,
+1983,Persons,"Non-melanoma skin cancer, rare types",,,
+1984,Persons,"Non-melanoma skin cancer, rare types",,,
+1985,Persons,"Non-melanoma skin cancer, rare types",,,
+1986,Persons,"Non-melanoma skin cancer, rare types",,,
+1987,Persons,"Non-melanoma skin cancer, rare types",,,
+1988,Persons,"Non-melanoma skin cancer, rare types",,,
+1989,Persons,"Non-melanoma skin cancer, rare types",,,
+1990,Persons,"Non-melanoma skin cancer, rare types",,,
+1991,Persons,"Non-melanoma skin cancer, rare types",,,
+1992,Persons,"Non-melanoma skin cancer, rare types",,,
+1993,Persons,"Non-melanoma skin cancer, rare types",,,
+1994,Persons,"Non-melanoma skin cancer, rare types",,,
+1995,Persons,"Non-melanoma skin cancer, rare types",,,
+1996,Persons,"Non-melanoma skin cancer, rare types",,,
+1997,Persons,"Non-melanoma skin cancer, rare types",,,
+1998,Persons,"Non-melanoma skin cancer, rare types",,,
+1999,Persons,"Non-melanoma skin cancer, rare types",,,
+2000,Persons,"Non-melanoma skin cancer, rare types",,,
+2001,Persons,"Non-melanoma skin cancer, rare types",,,
+2002,Persons,"Non-melanoma skin cancer, rare types",,,
+2003,Persons,"Non-melanoma skin cancer, rare types",,,
+2004,Persons,"Non-melanoma skin cancer, rare types",,,
+2005,Persons,"Non-melanoma skin cancer, rare types",,,
+2006,Persons,"Non-melanoma skin cancer, rare types",,,
+2007,Persons,"Non-melanoma skin cancer, rare types",,,
+2008,Persons,"Non-melanoma skin cancer, rare types",,,
+2009,Persons,"Non-melanoma skin cancer, rare types",,,
+2010,Persons,"Non-melanoma skin cancer, rare types",,,
+2011,Persons,"Non-melanoma skin cancer, rare types",,,
+1968,Male,Oesophageal cancer,,,
+1969,Male,Oesophageal cancer,,,
+1970,Male,Oesophageal cancer,,,
+1971,Male,Oesophageal cancer,,,
+1972,Male,Oesophageal cancer,,,
+1973,Male,Oesophageal cancer,,,
+1974,Male,Oesophageal cancer,,,
+1975,Male,Oesophageal cancer,,,
+1976,Male,Oesophageal cancer,,,
+1977,Male,Oesophageal cancer,,,
+1978,Male,Oesophageal cancer,,,
+1979,Male,Oesophageal cancer,,,
+1980,Male,Oesophageal cancer,,,
+1981,Male,Oesophageal cancer,,,
+1982,Male,Oesophageal cancer,1.11,1.06,1.08
+1983,Male,Oesophageal cancer,1.02,0.99,1
+1984,Male,Oesophageal cancer,1.03,1,1.01
+1985,Male,Oesophageal cancer,1.15,1.1,1.12
+1986,Male,Oesophageal cancer,1.04,1.02,1.02
+1987,Male,Oesophageal cancer,0.97,0.95,0.95
+1988,Male,Oesophageal cancer,1.04,1.03,1.02
+1989,Male,Oesophageal cancer,1.09,1.05,1.07
+1990,Male,Oesophageal cancer,1.02,0.98,1
+1991,Male,Oesophageal cancer,0.99,0.97,0.97
+1992,Male,Oesophageal cancer,1.03,1.02,1.03
+1993,Male,Oesophageal cancer,1.01,0.96,0.98
+1994,Male,Oesophageal cancer,0.95,0.93,0.93
+1995,Male,Oesophageal cancer,1.06,1.02,1.04
+1996,Male,Oesophageal cancer,0.98,0.94,0.95
+1997,Male,Oesophageal cancer,1.06,1.05,1.05
+1998,Male,Oesophageal cancer,1.04,1.02,1.02
+1999,Male,Oesophageal cancer,0.92,0.89,0.9
+2000,Male,Oesophageal cancer,0.97,0.93,0.94
+2001,Male,Oesophageal cancer,1,0.94,0.97
+2002,Male,Oesophageal cancer,0.97,0.92,0.94
+2003,Male,Oesophageal cancer,1.01,0.99,0.99
+2004,Male,Oesophageal cancer,0.95,0.92,0.94
+2005,Male,Oesophageal cancer,0.99,0.97,0.98
+2006,Male,Oesophageal cancer,0.94,0.93,0.93
+2007,Male,Oesophageal cancer,0.91,0.9,0.9
+2008,Male,Oesophageal cancer,0.93,0.88,0.9
+2009,Male,Oesophageal cancer,0.93,0.88,0.9
+2010,Male,Oesophageal cancer,0.86,0.85,0.85
+2011,Male,Oesophageal cancer,,,
+1968,Female,Oesophageal cancer,,,
+1969,Female,Oesophageal cancer,,,
+1970,Female,Oesophageal cancer,,,
+1971,Female,Oesophageal cancer,,,
+1972,Female,Oesophageal cancer,,,
+1973,Female,Oesophageal cancer,,,
+1974,Female,Oesophageal cancer,,,
+1975,Female,Oesophageal cancer,,,
+1976,Female,Oesophageal cancer,,,
+1977,Female,Oesophageal cancer,,,
+1978,Female,Oesophageal cancer,,,
+1979,Female,Oesophageal cancer,,,
+1980,Female,Oesophageal cancer,,,
+1981,Female,Oesophageal cancer,,,
+1982,Female,Oesophageal cancer,0.88,0.83,0.85
+1983,Female,Oesophageal cancer,0.91,0.93,0.91
+1984,Female,Oesophageal cancer,0.8,0.74,0.76
+1985,Female,Oesophageal cancer,0.9,0.9,0.9
+1986,Female,Oesophageal cancer,0.9,0.83,0.85
+1987,Female,Oesophageal cancer,0.85,0.81,0.82
+1988,Female,Oesophageal cancer,0.83,0.79,0.82
+1989,Female,Oesophageal cancer,1.04,1.01,1.01
+1990,Female,Oesophageal cancer,0.75,0.73,0.74
+1991,Female,Oesophageal cancer,0.89,0.82,0.85
+1992,Female,Oesophageal cancer,0.8,0.76,0.77
+1993,Female,Oesophageal cancer,0.78,0.76,0.76
+1994,Female,Oesophageal cancer,0.88,0.82,0.84
+1995,Female,Oesophageal cancer,0.82,0.76,0.78
+1996,Female,Oesophageal cancer,0.91,0.88,0.89
+1997,Female,Oesophageal cancer,0.81,0.76,0.78
+1998,Female,Oesophageal cancer,0.86,0.79,0.82
+1999,Female,Oesophageal cancer,0.78,0.72,0.74
+2000,Female,Oesophageal cancer,0.77,0.72,0.74
+2001,Female,Oesophageal cancer,0.89,0.82,0.85
+2002,Female,Oesophageal cancer,0.86,0.83,0.84
+2003,Female,Oesophageal cancer,0.9,0.86,0.88
+2004,Female,Oesophageal cancer,0.78,0.75,0.75
+2005,Female,Oesophageal cancer,1.02,0.97,0.99
+2006,Female,Oesophageal cancer,0.92,0.88,0.89
+2007,Female,Oesophageal cancer,0.79,0.73,0.76
+2008,Female,Oesophageal cancer,0.93,0.87,0.89
+2009,Female,Oesophageal cancer,0.89,0.85,0.86
+2010,Female,Oesophageal cancer,0.76,0.7,0.72
+2011,Female,Oesophageal cancer,,,
+1968,Persons,Oesophageal cancer,,,
+1969,Persons,Oesophageal cancer,,,
+1970,Persons,Oesophageal cancer,,,
+1971,Persons,Oesophageal cancer,,,
+1972,Persons,Oesophageal cancer,,,
+1973,Persons,Oesophageal cancer,,,
+1974,Persons,Oesophageal cancer,,,
+1975,Persons,Oesophageal cancer,,,
+1976,Persons,Oesophageal cancer,,,
+1977,Persons,Oesophageal cancer,,,
+1978,Persons,Oesophageal cancer,,,
+1979,Persons,Oesophageal cancer,,,
+1980,Persons,Oesophageal cancer,,,
+1981,Persons,Oesophageal cancer,,,
+1982,Persons,Oesophageal cancer,1.01,0.97,0.98
+1983,Persons,Oesophageal cancer,0.97,0.96,0.96
+1984,Persons,Oesophageal cancer,0.94,0.9,0.91
+1985,Persons,Oesophageal cancer,1.03,1.01,1.02
+1986,Persons,Oesophageal cancer,0.98,0.94,0.96
+1987,Persons,Oesophageal cancer,0.92,0.89,0.9
+1988,Persons,Oesophageal cancer,0.94,0.93,0.93
+1989,Persons,Oesophageal cancer,1.07,1.04,1.05
+1990,Persons,Oesophageal cancer,0.91,0.89,0.9
+1991,Persons,Oesophageal cancer,0.95,0.92,0.93
+1992,Persons,Oesophageal cancer,0.95,0.94,0.94
+1993,Persons,Oesophageal cancer,0.91,0.89,0.89
+1994,Persons,Oesophageal cancer,0.92,0.89,0.9
+1995,Persons,Oesophageal cancer,0.96,0.93,0.95
+1996,Persons,Oesophageal cancer,0.94,0.91,0.92
+1997,Persons,Oesophageal cancer,0.97,0.96,0.96
+1998,Persons,Oesophageal cancer,0.97,0.94,0.95
+1999,Persons,Oesophageal cancer,0.87,0.83,0.85
+2000,Persons,Oesophageal cancer,0.9,0.86,0.87
+2001,Persons,Oesophageal cancer,0.96,0.9,0.92
+2002,Persons,Oesophageal cancer,0.92,0.89,0.9
+2003,Persons,Oesophageal cancer,0.97,0.95,0.96
+2004,Persons,Oesophageal cancer,0.89,0.87,0.88
+2005,Persons,Oesophageal cancer,1,0.97,0.98
+2006,Persons,Oesophageal cancer,0.94,0.92,0.92
+2007,Persons,Oesophageal cancer,0.87,0.85,0.86
+2008,Persons,Oesophageal cancer,0.92,0.87,0.89
+2009,Persons,Oesophageal cancer,0.91,0.86,0.88
+2010,Persons,Oesophageal cancer,0.84,0.82,0.82
+2011,Persons,Oesophageal cancer,,,
+1968,Male,Ovarian cancer,,,
+1969,Male,Ovarian cancer,,,
+1970,Male,Ovarian cancer,,,
+1971,Male,Ovarian cancer,,,
+1972,Male,Ovarian cancer,,,
+1973,Male,Ovarian cancer,,,
+1974,Male,Ovarian cancer,,,
+1975,Male,Ovarian cancer,,,
+1976,Male,Ovarian cancer,,,
+1977,Male,Ovarian cancer,,,
+1978,Male,Ovarian cancer,,,
+1979,Male,Ovarian cancer,,,
+1980,Male,Ovarian cancer,,,
+1981,Male,Ovarian cancer,,,
+1982,Male,Ovarian cancer,,,
+1983,Male,Ovarian cancer,,,
+1984,Male,Ovarian cancer,,,
+1985,Male,Ovarian cancer,,,
+1986,Male,Ovarian cancer,,,
+1987,Male,Ovarian cancer,,,
+1988,Male,Ovarian cancer,,,
+1989,Male,Ovarian cancer,,,
+1990,Male,Ovarian cancer,,,
+1991,Male,Ovarian cancer,,,
+1992,Male,Ovarian cancer,,,
+1993,Male,Ovarian cancer,,,
+1994,Male,Ovarian cancer,,,
+1995,Male,Ovarian cancer,,,
+1996,Male,Ovarian cancer,,,
+1997,Male,Ovarian cancer,,,
+1998,Male,Ovarian cancer,,,
+1999,Male,Ovarian cancer,,,
+2000,Male,Ovarian cancer,,,
+2001,Male,Ovarian cancer,,,
+2002,Male,Ovarian cancer,,,
+2003,Male,Ovarian cancer,,,
+2004,Male,Ovarian cancer,,,
+2005,Male,Ovarian cancer,,,
+2006,Male,Ovarian cancer,,,
+2007,Male,Ovarian cancer,,,
+2008,Male,Ovarian cancer,,,
+2009,Male,Ovarian cancer,,,
+2010,Male,Ovarian cancer,,,
+2011,Male,Ovarian cancer,,,
+1968,Female,Ovarian cancer,,,
+1969,Female,Ovarian cancer,,,
+1970,Female,Ovarian cancer,,,
+1971,Female,Ovarian cancer,,,
+1972,Female,Ovarian cancer,,,
+1973,Female,Ovarian cancer,,,
+1974,Female,Ovarian cancer,,,
+1975,Female,Ovarian cancer,,,
+1976,Female,Ovarian cancer,,,
+1977,Female,Ovarian cancer,,,
+1978,Female,Ovarian cancer,,,
+1979,Female,Ovarian cancer,,,
+1980,Female,Ovarian cancer,,,
+1981,Female,Ovarian cancer,,,
+1982,Female,Ovarian cancer,0.71,0.66,0.67
+1983,Female,Ovarian cancer,0.7,0.66,0.67
+1984,Female,Ovarian cancer,0.72,0.67,0.69
+1985,Female,Ovarian cancer,0.63,0.6,0.6
+1986,Female,Ovarian cancer,0.73,0.68,0.69
+1987,Female,Ovarian cancer,0.69,0.65,0.66
+1988,Female,Ovarian cancer,0.67,0.62,0.63
+1989,Female,Ovarian cancer,0.63,0.58,0.59
+1990,Female,Ovarian cancer,0.71,0.66,0.67
+1991,Female,Ovarian cancer,0.69,0.64,0.65
+1992,Female,Ovarian cancer,0.63,0.58,0.59
+1993,Female,Ovarian cancer,0.64,0.58,0.59
+1994,Female,Ovarian cancer,0.68,0.63,0.64
+1995,Female,Ovarian cancer,0.65,0.6,0.61
+1996,Female,Ovarian cancer,0.72,0.66,0.68
+1997,Female,Ovarian cancer,0.67,0.61,0.63
+1998,Female,Ovarian cancer,0.65,0.59,0.6
+1999,Female,Ovarian cancer,0.62,0.55,0.57
+2000,Female,Ovarian cancer,0.67,0.61,0.62
+2001,Female,Ovarian cancer,0.72,0.64,0.67
+2002,Female,Ovarian cancer,0.66,0.6,0.62
+2003,Female,Ovarian cancer,0.66,0.59,0.61
+2004,Female,Ovarian cancer,0.65,0.6,0.61
+2005,Female,Ovarian cancer,0.68,0.6,0.63
+2006,Female,Ovarian cancer,0.61,0.54,0.56
+2007,Female,Ovarian cancer,0.63,0.57,0.58
+2008,Female,Ovarian cancer,0.66,0.58,0.6
+2009,Female,Ovarian cancer,0.64,0.58,0.59
+2010,Female,Ovarian cancer,0.67,0.61,0.62
+2011,Female,Ovarian cancer,,,
+1968,Persons,Ovarian cancer,,,
+1969,Persons,Ovarian cancer,,,
+1970,Persons,Ovarian cancer,,,
+1971,Persons,Ovarian cancer,,,
+1972,Persons,Ovarian cancer,,,
+1973,Persons,Ovarian cancer,,,
+1974,Persons,Ovarian cancer,,,
+1975,Persons,Ovarian cancer,,,
+1976,Persons,Ovarian cancer,,,
+1977,Persons,Ovarian cancer,,,
+1978,Persons,Ovarian cancer,,,
+1979,Persons,Ovarian cancer,,,
+1980,Persons,Ovarian cancer,,,
+1981,Persons,Ovarian cancer,,,
+1982,Persons,Ovarian cancer,,,
+1983,Persons,Ovarian cancer,,,
+1984,Persons,Ovarian cancer,,,
+1985,Persons,Ovarian cancer,,,
+1986,Persons,Ovarian cancer,,,
+1987,Persons,Ovarian cancer,,,
+1988,Persons,Ovarian cancer,,,
+1989,Persons,Ovarian cancer,,,
+1990,Persons,Ovarian cancer,,,
+1991,Persons,Ovarian cancer,,,
+1992,Persons,Ovarian cancer,,,
+1993,Persons,Ovarian cancer,,,
+1994,Persons,Ovarian cancer,,,
+1995,Persons,Ovarian cancer,,,
+1996,Persons,Ovarian cancer,,,
+1997,Persons,Ovarian cancer,,,
+1998,Persons,Ovarian cancer,,,
+1999,Persons,Ovarian cancer,,,
+2000,Persons,Ovarian cancer,,,
+2001,Persons,Ovarian cancer,,,
+2002,Persons,Ovarian cancer,,,
+2003,Persons,Ovarian cancer,,,
+2004,Persons,Ovarian cancer,,,
+2005,Persons,Ovarian cancer,,,
+2006,Persons,Ovarian cancer,,,
+2007,Persons,Ovarian cancer,,,
+2008,Persons,Ovarian cancer,,,
+2009,Persons,Ovarian cancer,,,
+2010,Persons,Ovarian cancer,,,
+2011,Persons,Ovarian cancer,,,
+1968,Male,Pancreatic cancer,,,
+1969,Male,Pancreatic cancer,,,
+1970,Male,Pancreatic cancer,,,
+1971,Male,Pancreatic cancer,,,
+1972,Male,Pancreatic cancer,,,
+1973,Male,Pancreatic cancer,,,
+1974,Male,Pancreatic cancer,,,
+1975,Male,Pancreatic cancer,,,
+1976,Male,Pancreatic cancer,,,
+1977,Male,Pancreatic cancer,,,
+1978,Male,Pancreatic cancer,,,
+1979,Male,Pancreatic cancer,,,
+1980,Male,Pancreatic cancer,,,
+1981,Male,Pancreatic cancer,,,
+1982,Male,Pancreatic cancer,0.97,0.96,0.97
+1983,Male,Pancreatic cancer,1.04,1.02,1.02
+1984,Male,Pancreatic cancer,1.01,1,1.01
+1985,Male,Pancreatic cancer,1,0.99,0.99
+1986,Male,Pancreatic cancer,0.99,0.97,0.97
+1987,Male,Pancreatic cancer,1,0.99,0.99
+1988,Male,Pancreatic cancer,0.99,0.97,0.98
+1989,Male,Pancreatic cancer,1.02,0.99,1
+1990,Male,Pancreatic cancer,0.96,0.95,0.96
+1991,Male,Pancreatic cancer,0.98,0.97,0.97
+1992,Male,Pancreatic cancer,0.96,0.96,0.96
+1993,Male,Pancreatic cancer,0.98,0.98,0.98
+1994,Male,Pancreatic cancer,0.95,0.92,0.93
+1995,Male,Pancreatic cancer,0.97,0.98,0.98
+1996,Male,Pancreatic cancer,0.93,0.9,0.91
+1997,Male,Pancreatic cancer,0.92,0.89,0.9
+1998,Male,Pancreatic cancer,0.93,0.91,0.92
+1999,Male,Pancreatic cancer,0.95,0.91,0.92
+2000,Male,Pancreatic cancer,0.93,0.91,0.92
+2001,Male,Pancreatic cancer,0.98,0.95,0.96
+2002,Male,Pancreatic cancer,1.01,0.99,1
+2003,Male,Pancreatic cancer,0.87,0.86,0.86
+2004,Male,Pancreatic cancer,1,0.98,0.99
+2005,Male,Pancreatic cancer,0.83,0.83,0.83
+2006,Male,Pancreatic cancer,0.89,0.85,0.87
+2007,Male,Pancreatic cancer,0.89,0.88,0.88
+2008,Male,Pancreatic cancer,0.92,0.91,0.91
+2009,Male,Pancreatic cancer,0.87,0.84,0.85
+2010,Male,Pancreatic cancer,0.87,0.85,0.86
+2011,Male,Pancreatic cancer,,,
+1968,Female,Pancreatic cancer,,,
+1969,Female,Pancreatic cancer,,,
+1970,Female,Pancreatic cancer,,,
+1971,Female,Pancreatic cancer,,,
+1972,Female,Pancreatic cancer,,,
+1973,Female,Pancreatic cancer,,,
+1974,Female,Pancreatic cancer,,,
+1975,Female,Pancreatic cancer,,,
+1976,Female,Pancreatic cancer,,,
+1977,Female,Pancreatic cancer,,,
+1978,Female,Pancreatic cancer,,,
+1979,Female,Pancreatic cancer,,,
+1980,Female,Pancreatic cancer,,,
+1981,Female,Pancreatic cancer,,,
+1982,Female,Pancreatic cancer,0.99,0.99,0.99
+1983,Female,Pancreatic cancer,0.93,0.92,0.92
+1984,Female,Pancreatic cancer,0.96,0.93,0.94
+1985,Female,Pancreatic cancer,0.99,0.97,0.98
+1986,Female,Pancreatic cancer,0.92,0.88,0.9
+1987,Female,Pancreatic cancer,1.03,1.04,1.03
+1988,Female,Pancreatic cancer,0.91,0.88,0.89
+1989,Female,Pancreatic cancer,1.04,1.01,1.02
+1990,Female,Pancreatic cancer,1,1.01,1
+1991,Female,Pancreatic cancer,0.94,0.9,0.91
+1992,Female,Pancreatic cancer,0.97,0.97,0.96
+1993,Female,Pancreatic cancer,0.95,0.94,0.94
+1994,Female,Pancreatic cancer,0.93,0.9,0.91
+1995,Female,Pancreatic cancer,0.94,0.94,0.93
+1996,Female,Pancreatic cancer,0.99,0.95,0.96
+1997,Female,Pancreatic cancer,0.95,0.92,0.93
+1998,Female,Pancreatic cancer,0.88,0.87,0.87
+1999,Female,Pancreatic cancer,0.93,0.93,0.93
+2000,Female,Pancreatic cancer,0.92,0.9,0.91
+2001,Female,Pancreatic cancer,0.93,0.89,0.9
+2002,Female,Pancreatic cancer,0.93,0.9,0.91
+2003,Female,Pancreatic cancer,0.93,0.91,0.92
+2004,Female,Pancreatic cancer,0.89,0.84,0.86
+2005,Female,Pancreatic cancer,0.98,0.97,0.97
+2006,Female,Pancreatic cancer,0.91,0.87,0.89
+2007,Female,Pancreatic cancer,0.84,0.83,0.83
+2008,Female,Pancreatic cancer,0.91,0.88,0.89
+2009,Female,Pancreatic cancer,0.85,0.81,0.83
+2010,Female,Pancreatic cancer,0.95,0.91,0.93
+2011,Female,Pancreatic cancer,,,
+1968,Persons,Pancreatic cancer,,,
+1969,Persons,Pancreatic cancer,,,
+1970,Persons,Pancreatic cancer,,,
+1971,Persons,Pancreatic cancer,,,
+1972,Persons,Pancreatic cancer,,,
+1973,Persons,Pancreatic cancer,,,
+1974,Persons,Pancreatic cancer,,,
+1975,Persons,Pancreatic cancer,,,
+1976,Persons,Pancreatic cancer,,,
+1977,Persons,Pancreatic cancer,,,
+1978,Persons,Pancreatic cancer,,,
+1979,Persons,Pancreatic cancer,,,
+1980,Persons,Pancreatic cancer,,,
+1981,Persons,Pancreatic cancer,,,
+1982,Persons,Pancreatic cancer,0.97,0.97,0.97
+1983,Persons,Pancreatic cancer,0.98,0.97,0.97
+1984,Persons,Pancreatic cancer,0.99,0.98,0.98
+1985,Persons,Pancreatic cancer,0.99,0.98,0.99
+1986,Persons,Pancreatic cancer,0.95,0.93,0.94
+1987,Persons,Pancreatic cancer,1.01,1.01,1.01
+1988,Persons,Pancreatic cancer,0.95,0.93,0.94
+1989,Persons,Pancreatic cancer,1.03,1,1.01
+1990,Persons,Pancreatic cancer,0.98,0.97,0.98
+1991,Persons,Pancreatic cancer,0.96,0.94,0.94
+1992,Persons,Pancreatic cancer,0.96,0.96,0.96
+1993,Persons,Pancreatic cancer,0.97,0.97,0.96
+1994,Persons,Pancreatic cancer,0.93,0.91,0.92
+1995,Persons,Pancreatic cancer,0.96,0.96,0.96
+1996,Persons,Pancreatic cancer,0.96,0.92,0.94
+1997,Persons,Pancreatic cancer,0.94,0.91,0.92
+1998,Persons,Pancreatic cancer,0.9,0.89,0.9
+1999,Persons,Pancreatic cancer,0.93,0.91,0.92
+2000,Persons,Pancreatic cancer,0.92,0.91,0.91
+2001,Persons,Pancreatic cancer,0.95,0.92,0.93
+2002,Persons,Pancreatic cancer,0.97,0.95,0.96
+2003,Persons,Pancreatic cancer,0.9,0.88,0.89
+2004,Persons,Pancreatic cancer,0.94,0.91,0.93
+2005,Persons,Pancreatic cancer,0.9,0.89,0.89
+2006,Persons,Pancreatic cancer,0.9,0.86,0.88
+2007,Persons,Pancreatic cancer,0.87,0.86,0.86
+2008,Persons,Pancreatic cancer,0.91,0.9,0.9
+2009,Persons,Pancreatic cancer,0.86,0.83,0.84
+2010,Persons,Pancreatic cancer,0.91,0.88,0.89
+2011,Persons,Pancreatic cancer,,,
+1968,Male,Prostate cancer,,,
+1969,Male,Prostate cancer,,,
+1970,Male,Prostate cancer,,,
+1971,Male,Prostate cancer,,,
+1972,Male,Prostate cancer,,,
+1973,Male,Prostate cancer,,,
+1974,Male,Prostate cancer,,,
+1975,Male,Prostate cancer,,,
+1976,Male,Prostate cancer,,,
+1977,Male,Prostate cancer,,,
+1978,Male,Prostate cancer,,,
+1979,Male,Prostate cancer,,,
+1980,Male,Prostate cancer,,,
+1981,Male,Prostate cancer,,,
+1982,Male,Prostate cancer,0.43,0.39,0.4
+1983,Male,Prostate cancer,0.43,0.38,0.4
+1984,Male,Prostate cancer,0.42,0.38,0.39
+1985,Male,Prostate cancer,0.43,0.38,0.4
+1986,Male,Prostate cancer,0.43,0.38,0.4
+1987,Male,Prostate cancer,0.44,0.39,0.41
+1988,Male,Prostate cancer,0.44,0.39,0.41
+1989,Male,Prostate cancer,0.43,0.38,0.4
+1990,Male,Prostate cancer,0.39,0.33,0.35
+1991,Male,Prostate cancer,0.36,0.31,0.33
+1992,Male,Prostate cancer,0.33,0.29,0.3
+1993,Male,Prostate cancer,0.26,0.22,0.24
+1994,Male,Prostate cancer,0.24,0.18,0.2
+1995,Male,Prostate cancer,0.24,0.19,0.21
+1996,Male,Prostate cancer,0.3,0.23,0.25
+1997,Male,Prostate cancer,0.28,0.22,0.24
+1998,Male,Prostate cancer,0.29,0.22,0.25
+1999,Male,Prostate cancer,0.27,0.2,0.23
+2000,Male,Prostate cancer,0.28,0.21,0.23
+2001,Male,Prostate cancer,0.27,0.2,0.22
+2002,Male,Prostate cancer,0.26,0.19,0.22
+2003,Male,Prostate cancer,0.23,0.17,0.19
+2004,Male,Prostate cancer,0.2,0.14,0.16
+2005,Male,Prostate cancer,0.2,0.14,0.16
+2006,Male,Prostate cancer,0.19,0.13,0.15
+2007,Male,Prostate cancer,0.17,0.12,0.13
+2008,Male,Prostate cancer,0.16,0.11,0.12
+2009,Male,Prostate cancer,0.16,0.11,0.13
+2010,Male,Prostate cancer,0.18,0.12,0.14
+2011,Male,Prostate cancer,,,
+1968,Female,Prostate cancer,,,
+1969,Female,Prostate cancer,,,
+1970,Female,Prostate cancer,,,
+1971,Female,Prostate cancer,,,
+1972,Female,Prostate cancer,,,
+1973,Female,Prostate cancer,,,
+1974,Female,Prostate cancer,,,
+1975,Female,Prostate cancer,,,
+1976,Female,Prostate cancer,,,
+1977,Female,Prostate cancer,,,
+1978,Female,Prostate cancer,,,
+1979,Female,Prostate cancer,,,
+1980,Female,Prostate cancer,,,
+1981,Female,Prostate cancer,,,
+1982,Female,Prostate cancer,,,
+1983,Female,Prostate cancer,,,
+1984,Female,Prostate cancer,,,
+1985,Female,Prostate cancer,,,
+1986,Female,Prostate cancer,,,
+1987,Female,Prostate cancer,,,
+1988,Female,Prostate cancer,,,
+1989,Female,Prostate cancer,,,
+1990,Female,Prostate cancer,,,
+1991,Female,Prostate cancer,,,
+1992,Female,Prostate cancer,,,
+1993,Female,Prostate cancer,,,
+1994,Female,Prostate cancer,,,
+1995,Female,Prostate cancer,,,
+1996,Female,Prostate cancer,,,
+1997,Female,Prostate cancer,,,
+1998,Female,Prostate cancer,,,
+1999,Female,Prostate cancer,,,
+2000,Female,Prostate cancer,,,
+2001,Female,Prostate cancer,,,
+2002,Female,Prostate cancer,,,
+2003,Female,Prostate cancer,,,
+2004,Female,Prostate cancer,,,
+2005,Female,Prostate cancer,,,
+2006,Female,Prostate cancer,,,
+2007,Female,Prostate cancer,,,
+2008,Female,Prostate cancer,,,
+2009,Female,Prostate cancer,,,
+2010,Female,Prostate cancer,,,
+2011,Female,Prostate cancer,,,
+1968,Persons,Prostate cancer,,,
+1969,Persons,Prostate cancer,,,
+1970,Persons,Prostate cancer,,,
+1971,Persons,Prostate cancer,,,
+1972,Persons,Prostate cancer,,,
+1973,Persons,Prostate cancer,,,
+1974,Persons,Prostate cancer,,,
+1975,Persons,Prostate cancer,,,
+1976,Persons,Prostate cancer,,,
+1977,Persons,Prostate cancer,,,
+1978,Persons,Prostate cancer,,,
+1979,Persons,Prostate cancer,,,
+1980,Persons,Prostate cancer,,,
+1981,Persons,Prostate cancer,,,
+1982,Persons,Prostate cancer,,,
+1983,Persons,Prostate cancer,,,
+1984,Persons,Prostate cancer,,,
+1985,Persons,Prostate cancer,,,
+1986,Persons,Prostate cancer,,,
+1987,Persons,Prostate cancer,,,
+1988,Persons,Prostate cancer,,,
+1989,Persons,Prostate cancer,,,
+1990,Persons,Prostate cancer,,,
+1991,Persons,Prostate cancer,,,
+1992,Persons,Prostate cancer,,,
+1993,Persons,Prostate cancer,,,
+1994,Persons,Prostate cancer,,,
+1995,Persons,Prostate cancer,,,
+1996,Persons,Prostate cancer,,,
+1997,Persons,Prostate cancer,,,
+1998,Persons,Prostate cancer,,,
+1999,Persons,Prostate cancer,,,
+2000,Persons,Prostate cancer,,,
+2001,Persons,Prostate cancer,,,
+2002,Persons,Prostate cancer,,,
+2003,Persons,Prostate cancer,,,
+2004,Persons,Prostate cancer,,,
+2005,Persons,Prostate cancer,,,
+2006,Persons,Prostate cancer,,,
+2007,Persons,Prostate cancer,,,
+2008,Persons,Prostate cancer,,,
+2009,Persons,Prostate cancer,,,
+2010,Persons,Prostate cancer,,,
+2011,Persons,Prostate cancer,,,
+1968,Male,Rectal cancer,,,
+1969,Male,Rectal cancer,,,
+1970,Male,Rectal cancer,,,
+1971,Male,Rectal cancer,,,
+1972,Male,Rectal cancer,,,
+1973,Male,Rectal cancer,,,
+1974,Male,Rectal cancer,,,
+1975,Male,Rectal cancer,,,
+1976,Male,Rectal cancer,,,
+1977,Male,Rectal cancer,,,
+1978,Male,Rectal cancer,,,
+1979,Male,Rectal cancer,,,
+1980,Male,Rectal cancer,,,
+1981,Male,Rectal cancer,,,
+1982,Male,Rectal cancer,0.4,0.37,0.38
+1983,Male,Rectal cancer,0.45,0.4,0.42
+1984,Male,Rectal cancer,0.41,0.38,0.39
+1985,Male,Rectal cancer,0.44,0.39,0.41
+1986,Male,Rectal cancer,0.41,0.39,0.39
+1987,Male,Rectal cancer,0.42,0.38,0.39
+1988,Male,Rectal cancer,0.41,0.37,0.38
+1989,Male,Rectal cancer,0.37,0.34,0.35
+1990,Male,Rectal cancer,0.36,0.34,0.35
+1991,Male,Rectal cancer,0.34,0.32,0.33
+1992,Male,Rectal cancer,0.35,0.32,0.33
+1993,Male,Rectal cancer,0.34,0.31,0.32
+1994,Male,Rectal cancer,0.32,0.3,0.3
+1995,Male,Rectal cancer,0.32,0.29,0.3
+1996,Male,Rectal cancer,0.27,0.25,0.26
+1997,Male,Rectal cancer,0.29,0.27,0.28
+1998,Male,Rectal cancer,0.32,0.29,0.3
+1999,Male,Rectal cancer,0.3,0.28,0.29
+2000,Male,Rectal cancer,0.3,0.28,0.28
+2001,Male,Rectal cancer,0.32,0.3,0.31
+2002,Male,Rectal cancer,0.31,0.28,0.29
+2003,Male,Rectal cancer,0.31,0.28,0.29
+2004,Male,Rectal cancer,0.28,0.25,0.26
+2005,Male,Rectal cancer,0.34,0.31,0.32
+2006,Male,Rectal cancer,0.3,0.28,0.29
+2007,Male,Rectal cancer,0.31,0.28,0.29
+2008,Male,Rectal cancer,0.32,0.28,0.29
+2009,Male,Rectal cancer,0.35,0.32,0.33
+2010,Male,Rectal cancer,0.36,0.31,0.33
+2011,Male,Rectal cancer,,,
+1968,Female,Rectal cancer,,,
+1969,Female,Rectal cancer,,,
+1970,Female,Rectal cancer,,,
+1971,Female,Rectal cancer,,,
+1972,Female,Rectal cancer,,,
+1973,Female,Rectal cancer,,,
+1974,Female,Rectal cancer,,,
+1975,Female,Rectal cancer,,,
+1976,Female,Rectal cancer,,,
+1977,Female,Rectal cancer,,,
+1978,Female,Rectal cancer,,,
+1979,Female,Rectal cancer,,,
+1980,Female,Rectal cancer,,,
+1981,Female,Rectal cancer,,,
+1982,Female,Rectal cancer,0.38,0.34,0.35
+1983,Female,Rectal cancer,0.39,0.35,0.36
+1984,Female,Rectal cancer,0.39,0.35,0.36
+1985,Female,Rectal cancer,0.39,0.34,0.36
+1986,Female,Rectal cancer,0.4,0.37,0.38
+1987,Female,Rectal cancer,0.37,0.32,0.33
+1988,Female,Rectal cancer,0.35,0.32,0.33
+1989,Female,Rectal cancer,0.32,0.29,0.3
+1990,Female,Rectal cancer,0.33,0.29,0.3
+1991,Female,Rectal cancer,0.35,0.32,0.33
+1992,Female,Rectal cancer,0.29,0.27,0.28
+1993,Female,Rectal cancer,0.35,0.3,0.32
+1994,Female,Rectal cancer,0.27,0.24,0.25
+1995,Female,Rectal cancer,0.3,0.27,0.28
+1996,Female,Rectal cancer,0.27,0.24,0.25
+1997,Female,Rectal cancer,0.29,0.27,0.27
+1998,Female,Rectal cancer,0.32,0.3,0.3
+1999,Female,Rectal cancer,0.31,0.29,0.3
+2000,Female,Rectal cancer,0.28,0.26,0.27
+2001,Female,Rectal cancer,0.3,0.28,0.29
+2002,Female,Rectal cancer,0.31,0.28,0.29
+2003,Female,Rectal cancer,0.3,0.27,0.28
+2004,Female,Rectal cancer,0.31,0.29,0.29
+2005,Female,Rectal cancer,0.33,0.29,0.3
+2006,Female,Rectal cancer,0.29,0.27,0.27
+2007,Female,Rectal cancer,0.31,0.29,0.29
+2008,Female,Rectal cancer,0.34,0.32,0.32
+2009,Female,Rectal cancer,0.36,0.32,0.33
+2010,Female,Rectal cancer,0.4,0.35,0.37
+2011,Female,Rectal cancer,,,
+1968,Persons,Rectal cancer,,,
+1969,Persons,Rectal cancer,,,
+1970,Persons,Rectal cancer,,,
+1971,Persons,Rectal cancer,,,
+1972,Persons,Rectal cancer,,,
+1973,Persons,Rectal cancer,,,
+1974,Persons,Rectal cancer,,,
+1975,Persons,Rectal cancer,,,
+1976,Persons,Rectal cancer,,,
+1977,Persons,Rectal cancer,,,
+1978,Persons,Rectal cancer,,,
+1979,Persons,Rectal cancer,,,
+1980,Persons,Rectal cancer,,,
+1981,Persons,Rectal cancer,,,
+1982,Persons,Rectal cancer,0.39,0.36,0.37
+1983,Persons,Rectal cancer,0.41,0.37,0.39
+1984,Persons,Rectal cancer,0.4,0.37,0.38
+1985,Persons,Rectal cancer,0.42,0.37,0.38
+1986,Persons,Rectal cancer,0.4,0.38,0.38
+1987,Persons,Rectal cancer,0.39,0.35,0.36
+1988,Persons,Rectal cancer,0.38,0.35,0.36
+1989,Persons,Rectal cancer,0.35,0.32,0.33
+1990,Persons,Rectal cancer,0.35,0.32,0.33
+1991,Persons,Rectal cancer,0.35,0.32,0.33
+1992,Persons,Rectal cancer,0.32,0.3,0.3
+1993,Persons,Rectal cancer,0.34,0.3,0.31
+1994,Persons,Rectal cancer,0.3,0.27,0.28
+1995,Persons,Rectal cancer,0.3,0.28,0.29
+1996,Persons,Rectal cancer,0.27,0.25,0.25
+1997,Persons,Rectal cancer,0.29,0.27,0.27
+1998,Persons,Rectal cancer,0.32,0.29,0.3
+1999,Persons,Rectal cancer,0.3,0.28,0.29
+2000,Persons,Rectal cancer,0.29,0.27,0.27
+2001,Persons,Rectal cancer,0.31,0.29,0.3
+2002,Persons,Rectal cancer,0.31,0.28,0.29
+2003,Persons,Rectal cancer,0.31,0.28,0.29
+2004,Persons,Rectal cancer,0.29,0.26,0.27
+2005,Persons,Rectal cancer,0.33,0.3,0.31
+2006,Persons,Rectal cancer,0.29,0.27,0.28
+2007,Persons,Rectal cancer,0.31,0.28,0.29
+2008,Persons,Rectal cancer,0.32,0.29,0.3
+2009,Persons,Rectal cancer,0.35,0.32,0.33
+2010,Persons,Rectal cancer,0.37,0.33,0.34
+2011,Persons,Rectal cancer,,,
+1968,Male,Stomach cancer,,,
+1969,Male,Stomach cancer,,,
+1970,Male,Stomach cancer,,,
+1971,Male,Stomach cancer,,,
+1972,Male,Stomach cancer,,,
+1973,Male,Stomach cancer,,,
+1974,Male,Stomach cancer,,,
+1975,Male,Stomach cancer,,,
+1976,Male,Stomach cancer,,,
+1977,Male,Stomach cancer,,,
+1978,Male,Stomach cancer,,,
+1979,Male,Stomach cancer,,,
+1980,Male,Stomach cancer,,,
+1981,Male,Stomach cancer,,,
+1982,Male,Stomach cancer,0.79,0.77,0.77
+1983,Male,Stomach cancer,0.79,0.74,0.75
+1984,Male,Stomach cancer,0.74,0.69,0.71
+1985,Male,Stomach cancer,0.77,0.73,0.74
+1986,Male,Stomach cancer,0.79,0.76,0.77
+1987,Male,Stomach cancer,0.75,0.71,0.72
+1988,Male,Stomach cancer,0.79,0.73,0.76
+1989,Male,Stomach cancer,0.77,0.72,0.74
+1990,Male,Stomach cancer,0.68,0.64,0.65
+1991,Male,Stomach cancer,0.71,0.65,0.67
+1992,Male,Stomach cancer,0.66,0.63,0.64
+1993,Male,Stomach cancer,0.67,0.63,0.65
+1994,Male,Stomach cancer,0.71,0.68,0.69
+1995,Male,Stomach cancer,0.67,0.63,0.64
+1996,Male,Stomach cancer,0.66,0.62,0.63
+1997,Male,Stomach cancer,0.66,0.62,0.64
+1998,Male,Stomach cancer,0.64,0.6,0.62
+1999,Male,Stomach cancer,0.59,0.57,0.58
+2000,Male,Stomach cancer,0.62,0.59,0.6
+2001,Male,Stomach cancer,0.65,0.61,0.62
+2002,Male,Stomach cancer,0.66,0.6,0.62
+2003,Male,Stomach cancer,0.57,0.54,0.56
+2004,Male,Stomach cancer,0.58,0.55,0.56
+2005,Male,Stomach cancer,0.57,0.53,0.55
+2006,Male,Stomach cancer,0.55,0.5,0.52
+2007,Male,Stomach cancer,0.6,0.56,0.58
+2008,Male,Stomach cancer,0.55,0.52,0.53
+2009,Male,Stomach cancer,0.53,0.5,0.51
+2010,Male,Stomach cancer,0.57,0.52,0.54
+2011,Male,Stomach cancer,,,
+1968,Female,Stomach cancer,,,
+1969,Female,Stomach cancer,,,
+1970,Female,Stomach cancer,,,
+1971,Female,Stomach cancer,,,
+1972,Female,Stomach cancer,,,
+1973,Female,Stomach cancer,,,
+1974,Female,Stomach cancer,,,
+1975,Female,Stomach cancer,,,
+1976,Female,Stomach cancer,,,
+1977,Female,Stomach cancer,,,
+1978,Female,Stomach cancer,,,
+1979,Female,Stomach cancer,,,
+1980,Female,Stomach cancer,,,
+1981,Female,Stomach cancer,,,
+1982,Female,Stomach cancer,0.78,0.75,0.76
+1983,Female,Stomach cancer,0.81,0.76,0.78
+1984,Female,Stomach cancer,0.87,0.81,0.83
+1985,Female,Stomach cancer,0.77,0.75,0.75
+1986,Female,Stomach cancer,0.79,0.74,0.75
+1987,Female,Stomach cancer,0.76,0.72,0.73
+1988,Female,Stomach cancer,0.83,0.77,0.79
+1989,Female,Stomach cancer,0.81,0.77,0.77
+1990,Female,Stomach cancer,0.79,0.75,0.76
+1991,Female,Stomach cancer,0.73,0.7,0.71
+1992,Female,Stomach cancer,0.76,0.72,0.73
+1993,Female,Stomach cancer,0.71,0.67,0.69
+1994,Female,Stomach cancer,0.73,0.69,0.71
+1995,Female,Stomach cancer,0.67,0.62,0.63
+1996,Female,Stomach cancer,0.72,0.69,0.7
+1997,Female,Stomach cancer,0.64,0.61,0.62
+1998,Female,Stomach cancer,0.64,0.61,0.62
+1999,Female,Stomach cancer,0.67,0.64,0.65
+2000,Female,Stomach cancer,0.59,0.54,0.55
+2001,Female,Stomach cancer,0.67,0.62,0.64
+2002,Female,Stomach cancer,0.63,0.6,0.61
+2003,Female,Stomach cancer,0.72,0.67,0.68
+2004,Female,Stomach cancer,0.62,0.59,0.6
+2005,Female,Stomach cancer,0.55,0.51,0.53
+2006,Female,Stomach cancer,0.66,0.62,0.63
+2007,Female,Stomach cancer,0.63,0.61,0.62
+2008,Female,Stomach cancer,0.57,0.53,0.54
+2009,Female,Stomach cancer,0.61,0.57,0.58
+2010,Female,Stomach cancer,0.53,0.5,0.51
+2011,Female,Stomach cancer,,,
+1968,Persons,Stomach cancer,,,
+1969,Persons,Stomach cancer,,,
+1970,Persons,Stomach cancer,,,
+1971,Persons,Stomach cancer,,,
+1972,Persons,Stomach cancer,,,
+1973,Persons,Stomach cancer,,,
+1974,Persons,Stomach cancer,,,
+1975,Persons,Stomach cancer,,,
+1976,Persons,Stomach cancer,,,
+1977,Persons,Stomach cancer,,,
+1978,Persons,Stomach cancer,,,
+1979,Persons,Stomach cancer,,,
+1980,Persons,Stomach cancer,,,
+1981,Persons,Stomach cancer,,,
+1982,Persons,Stomach cancer,0.78,0.75,0.76
+1983,Persons,Stomach cancer,0.79,0.74,0.76
+1984,Persons,Stomach cancer,0.79,0.73,0.75
+1985,Persons,Stomach cancer,0.76,0.73,0.74
+1986,Persons,Stomach cancer,0.78,0.75,0.76
+1987,Persons,Stomach cancer,0.74,0.7,0.72
+1988,Persons,Stomach cancer,0.8,0.74,0.76
+1989,Persons,Stomach cancer,0.78,0.73,0.75
+1990,Persons,Stomach cancer,0.71,0.67,0.68
+1991,Persons,Stomach cancer,0.71,0.66,0.67
+1992,Persons,Stomach cancer,0.69,0.65,0.67
+1993,Persons,Stomach cancer,0.68,0.64,0.65
+1994,Persons,Stomach cancer,0.72,0.68,0.7
+1995,Persons,Stomach cancer,0.66,0.62,0.63
+1996,Persons,Stomach cancer,0.67,0.64,0.65
+1997,Persons,Stomach cancer,0.65,0.61,0.63
+1998,Persons,Stomach cancer,0.63,0.6,0.61
+1999,Persons,Stomach cancer,0.62,0.59,0.6
+2000,Persons,Stomach cancer,0.6,0.57,0.58
+2001,Persons,Stomach cancer,0.65,0.61,0.62
+2002,Persons,Stomach cancer,0.64,0.59,0.61
+2003,Persons,Stomach cancer,0.62,0.59,0.6
+2004,Persons,Stomach cancer,0.59,0.56,0.57
+2005,Persons,Stomach cancer,0.56,0.52,0.54
+2006,Persons,Stomach cancer,0.58,0.53,0.55
+2007,Persons,Stomach cancer,0.6,0.58,0.59
+2008,Persons,Stomach cancer,0.55,0.52,0.53
+2009,Persons,Stomach cancer,0.56,0.52,0.53
+2010,Persons,Stomach cancer,0.55,0.51,0.53
+2011,Persons,Stomach cancer,,,
+1968,Male,Testicular cancer,,,
+1969,Male,Testicular cancer,,,
+1970,Male,Testicular cancer,,,
+1971,Male,Testicular cancer,,,
+1972,Male,Testicular cancer,,,
+1973,Male,Testicular cancer,,,
+1974,Male,Testicular cancer,,,
+1975,Male,Testicular cancer,,,
+1976,Male,Testicular cancer,,,
+1977,Male,Testicular cancer,,,
+1978,Male,Testicular cancer,,,
+1979,Male,Testicular cancer,,,
+1980,Male,Testicular cancer,,,
+1981,Male,Testicular cancer,,,
+1982,Male,Testicular cancer,0.11,0.11,0.11
+1983,Male,Testicular cancer,0.17,0.14,0.15
+1984,Male,Testicular cancer,0.15,0.12,0.13
+1985,Male,Testicular cancer,0.1,0.09,0.09
+1986,Male,Testicular cancer,0.11,0.1,0.09
+1987,Male,Testicular cancer,0.08,0.07,0.07
+1988,Male,Testicular cancer,0.11,0.09,0.1
+1989,Male,Testicular cancer,0.08,0.07,0.07
+1990,Male,Testicular cancer,0.08,0.07,0.07
+1991,Male,Testicular cancer,0.07,0.06,0.06
+1992,Male,Testicular cancer,0.06,0.05,0.05
+1993,Male,Testicular cancer,0.03,0.03,0.03
+1994,Male,Testicular cancer,0.05,0.05,0.05
+1995,Male,Testicular cancer,0.08,0.07,0.07
+1996,Male,Testicular cancer,0.06,0.05,0.05
+1997,Male,Testicular cancer,0.04,0.04,0.04
+1998,Male,Testicular cancer,0.04,0.04,0.04
+1999,Male,Testicular cancer,0.06,0.05,0.05
+2000,Male,Testicular cancer,0.03,0.03,0.03
+2001,Male,Testicular cancer,0.03,0.02,0.02
+2002,Male,Testicular cancer,0.04,0.03,0.04
+2003,Male,Testicular cancer,0.03,0.03,0.02
+2004,Male,Testicular cancer,0.02,0.02,0.02
+2005,Male,Testicular cancer,0.03,0.03,0.03
+2006,Male,Testicular cancer,0.03,0.03,0.03
+2007,Male,Testicular cancer,0.04,0.03,0.03
+2008,Male,Testicular cancer,0.01,0.02,0.01
+2009,Male,Testicular cancer,0.03,0.02,0.02
+2010,Male,Testicular cancer,0.03,0.03,0.03
+2011,Male,Testicular cancer,,,
+1968,Female,Testicular cancer,,,
+1969,Female,Testicular cancer,,,
+1970,Female,Testicular cancer,,,
+1971,Female,Testicular cancer,,,
+1972,Female,Testicular cancer,,,
+1973,Female,Testicular cancer,,,
+1974,Female,Testicular cancer,,,
+1975,Female,Testicular cancer,,,
+1976,Female,Testicular cancer,,,
+1977,Female,Testicular cancer,,,
+1978,Female,Testicular cancer,,,
+1979,Female,Testicular cancer,,,
+1980,Female,Testicular cancer,,,
+1981,Female,Testicular cancer,,,
+1982,Female,Testicular cancer,,,
+1983,Female,Testicular cancer,,,
+1984,Female,Testicular cancer,,,
+1985,Female,Testicular cancer,,,
+1986,Female,Testicular cancer,,,
+1987,Female,Testicular cancer,,,
+1988,Female,Testicular cancer,,,
+1989,Female,Testicular cancer,,,
+1990,Female,Testicular cancer,,,
+1991,Female,Testicular cancer,,,
+1992,Female,Testicular cancer,,,
+1993,Female,Testicular cancer,,,
+1994,Female,Testicular cancer,,,
+1995,Female,Testicular cancer,,,
+1996,Female,Testicular cancer,,,
+1997,Female,Testicular cancer,,,
+1998,Female,Testicular cancer,,,
+1999,Female,Testicular cancer,,,
+2000,Female,Testicular cancer,,,
+2001,Female,Testicular cancer,,,
+2002,Female,Testicular cancer,,,
+2003,Female,Testicular cancer,,,
+2004,Female,Testicular cancer,,,
+2005,Female,Testicular cancer,,,
+2006,Female,Testicular cancer,,,
+2007,Female,Testicular cancer,,,
+2008,Female,Testicular cancer,,,
+2009,Female,Testicular cancer,,,
+2010,Female,Testicular cancer,,,
+2011,Female,Testicular cancer,,,
+1968,Persons,Testicular cancer,,,
+1969,Persons,Testicular cancer,,,
+1970,Persons,Testicular cancer,,,
+1971,Persons,Testicular cancer,,,
+1972,Persons,Testicular cancer,,,
+1973,Persons,Testicular cancer,,,
+1974,Persons,Testicular cancer,,,
+1975,Persons,Testicular cancer,,,
+1976,Persons,Testicular cancer,,,
+1977,Persons,Testicular cancer,,,
+1978,Persons,Testicular cancer,,,
+1979,Persons,Testicular cancer,,,
+1980,Persons,Testicular cancer,,,
+1981,Persons,Testicular cancer,,,
+1982,Persons,Testicular cancer,,,
+1983,Persons,Testicular cancer,,,
+1984,Persons,Testicular cancer,,,
+1985,Persons,Testicular cancer,,,
+1986,Persons,Testicular cancer,,,
+1987,Persons,Testicular cancer,,,
+1988,Persons,Testicular cancer,,,
+1989,Persons,Testicular cancer,,,
+1990,Persons,Testicular cancer,,,
+1991,Persons,Testicular cancer,,,
+1992,Persons,Testicular cancer,,,
+1993,Persons,Testicular cancer,,,
+1994,Persons,Testicular cancer,,,
+1995,Persons,Testicular cancer,,,
+1996,Persons,Testicular cancer,,,
+1997,Persons,Testicular cancer,,,
+1998,Persons,Testicular cancer,,,
+1999,Persons,Testicular cancer,,,
+2000,Persons,Testicular cancer,,,
+2001,Persons,Testicular cancer,,,
+2002,Persons,Testicular cancer,,,
+2003,Persons,Testicular cancer,,,
+2004,Persons,Testicular cancer,,,
+2005,Persons,Testicular cancer,,,
+2006,Persons,Testicular cancer,,,
+2007,Persons,Testicular cancer,,,
+2008,Persons,Testicular cancer,,,
+2009,Persons,Testicular cancer,,,
+2010,Persons,Testicular cancer,,,
+2011,Persons,Testicular cancer,,,
+1968,Male,Thyroid cancer,,,
+1969,Male,Thyroid cancer,,,
+1970,Male,Thyroid cancer,,,
+1971,Male,Thyroid cancer,,,
+1972,Male,Thyroid cancer,,,
+1973,Male,Thyroid cancer,,,
+1974,Male,Thyroid cancer,,,
+1975,Male,Thyroid cancer,,,
+1976,Male,Thyroid cancer,,,
+1977,Male,Thyroid cancer,,,
+1978,Male,Thyroid cancer,,,
+1979,Male,Thyroid cancer,,,
+1980,Male,Thyroid cancer,,,
+1981,Male,Thyroid cancer,,,
+1982,Male,Thyroid cancer,0.3,0.23,0.26
+1983,Male,Thyroid cancer,0.28,0.22,0.23
+1984,Male,Thyroid cancer,0.35,0.25,0.27
+1985,Male,Thyroid cancer,0.13,0.1,0.11
+1986,Male,Thyroid cancer,0.28,0.21,0.23
+1987,Male,Thyroid cancer,0.33,0.26,0.27
+1988,Male,Thyroid cancer,0.18,0.13,0.15
+1989,Male,Thyroid cancer,0.15,0.13,0.13
+1990,Male,Thyroid cancer,0.35,0.29,0.31
+1991,Male,Thyroid cancer,0.18,0.15,0.16
+1992,Male,Thyroid cancer,0.23,0.19,0.2
+1993,Male,Thyroid cancer,0.22,0.17,0.19
+1994,Male,Thyroid cancer,0.16,0.11,0.13
+1995,Male,Thyroid cancer,0.13,0.1,0.1
+1996,Male,Thyroid cancer,0.14,0.11,0.11
+1997,Male,Thyroid cancer,0.17,0.13,0.14
+1998,Male,Thyroid cancer,0.16,0.13,0.13
+1999,Male,Thyroid cancer,0.16,0.12,0.13
+2000,Male,Thyroid cancer,0.16,0.13,0.13
+2001,Male,Thyroid cancer,0.13,0.09,0.1
+2002,Male,Thyroid cancer,0.13,0.1,0.11
+2003,Male,Thyroid cancer,0.13,0.09,0.1
+2004,Male,Thyroid cancer,0.12,0.09,0.1
+2005,Male,Thyroid cancer,0.1,0.08,0.08
+2006,Male,Thyroid cancer,0.13,0.1,0.1
+2007,Male,Thyroid cancer,0.09,0.07,0.07
+2008,Male,Thyroid cancer,0.09,0.07,0.07
+2009,Male,Thyroid cancer,0.1,0.07,0.08
+2010,Male,Thyroid cancer,0.08,0.06,0.06
+2011,Male,Thyroid cancer,,,
+1968,Female,Thyroid cancer,,,
+1969,Female,Thyroid cancer,,,
+1970,Female,Thyroid cancer,,,
+1971,Female,Thyroid cancer,,,
+1972,Female,Thyroid cancer,,,
+1973,Female,Thyroid cancer,,,
+1974,Female,Thyroid cancer,,,
+1975,Female,Thyroid cancer,,,
+1976,Female,Thyroid cancer,,,
+1977,Female,Thyroid cancer,,,
+1978,Female,Thyroid cancer,,,
+1979,Female,Thyroid cancer,,,
+1980,Female,Thyroid cancer,,,
+1981,Female,Thyroid cancer,,,
+1982,Female,Thyroid cancer,0.19,0.14,0.15
+1983,Female,Thyroid cancer,0.18,0.13,0.14
+1984,Female,Thyroid cancer,0.14,0.1,0.11
+1985,Female,Thyroid cancer,0.18,0.13,0.14
+1986,Female,Thyroid cancer,0.13,0.09,0.1
+1987,Female,Thyroid cancer,0.13,0.09,0.09
+1988,Female,Thyroid cancer,0.14,0.11,0.11
+1989,Female,Thyroid cancer,0.13,0.09,0.1
+1990,Female,Thyroid cancer,0.1,0.07,0.07
+1991,Female,Thyroid cancer,0.08,0.05,0.06
+1992,Female,Thyroid cancer,0.09,0.06,0.06
+1993,Female,Thyroid cancer,0.09,0.07,0.07
+1994,Female,Thyroid cancer,0.07,0.06,0.06
+1995,Female,Thyroid cancer,0.06,0.05,0.05
+1996,Female,Thyroid cancer,0.06,0.04,0.05
+1997,Female,Thyroid cancer,0.06,0.04,0.04
+1998,Female,Thyroid cancer,0.04,0.03,0.03
+1999,Female,Thyroid cancer,0.05,0.04,0.04
+2000,Female,Thyroid cancer,0.06,0.04,0.05
+2001,Female,Thyroid cancer,0.05,0.04,0.04
+2002,Female,Thyroid cancer,0.06,0.04,0.05
+2003,Female,Thyroid cancer,0.04,0.02,0.03
+2004,Female,Thyroid cancer,0.04,0.03,0.03
+2005,Female,Thyroid cancer,0.04,0.02,0.03
+2006,Female,Thyroid cancer,0.04,0.03,0.03
+2007,Female,Thyroid cancer,0.04,0.03,0.03
+2008,Female,Thyroid cancer,0.04,0.03,0.03
+2009,Female,Thyroid cancer,0.05,0.03,0.03
+2010,Female,Thyroid cancer,0.04,0.03,0.03
+2011,Female,Thyroid cancer,,,
+1968,Persons,Thyroid cancer,,,
+1969,Persons,Thyroid cancer,,,
+1970,Persons,Thyroid cancer,,,
+1971,Persons,Thyroid cancer,,,
+1972,Persons,Thyroid cancer,,,
+1973,Persons,Thyroid cancer,,,
+1974,Persons,Thyroid cancer,,,
+1975,Persons,Thyroid cancer,,,
+1976,Persons,Thyroid cancer,,,
+1977,Persons,Thyroid cancer,,,
+1978,Persons,Thyroid cancer,,,
+1979,Persons,Thyroid cancer,,,
+1980,Persons,Thyroid cancer,,,
+1981,Persons,Thyroid cancer,,,
+1982,Persons,Thyroid cancer,0.23,0.17,0.18
+1983,Persons,Thyroid cancer,0.21,0.15,0.17
+1984,Persons,Thyroid cancer,0.2,0.14,0.15
+1985,Persons,Thyroid cancer,0.18,0.13,0.14
+1986,Persons,Thyroid cancer,0.18,0.13,0.14
+1987,Persons,Thyroid cancer,0.18,0.13,0.14
+1988,Persons,Thyroid cancer,0.16,0.12,0.13
+1989,Persons,Thyroid cancer,0.14,0.1,0.11
+1990,Persons,Thyroid cancer,0.18,0.13,0.14
+1991,Persons,Thyroid cancer,0.11,0.08,0.09
+1992,Persons,Thyroid cancer,0.13,0.1,0.1
+1993,Persons,Thyroid cancer,0.12,0.09,0.1
+1994,Persons,Thyroid cancer,0.1,0.07,0.08
+1995,Persons,Thyroid cancer,0.08,0.06,0.06
+1996,Persons,Thyroid cancer,0.09,0.06,0.06
+1997,Persons,Thyroid cancer,0.09,0.06,0.07
+1998,Persons,Thyroid cancer,0.07,0.05,0.05
+1999,Persons,Thyroid cancer,0.08,0.06,0.06
+2000,Persons,Thyroid cancer,0.09,0.06,0.07
+2001,Persons,Thyroid cancer,0.07,0.05,0.06
+2002,Persons,Thyroid cancer,0.08,0.06,0.06
+2003,Persons,Thyroid cancer,0.06,0.04,0.04
+2004,Persons,Thyroid cancer,0.06,0.04,0.05
+2005,Persons,Thyroid cancer,0.05,0.04,0.04
+2006,Persons,Thyroid cancer,0.07,0.05,0.05
+2007,Persons,Thyroid cancer,0.05,0.04,0.04
+2008,Persons,Thyroid cancer,0.05,0.04,0.04
+2009,Persons,Thyroid cancer,0.06,0.04,0.05
+2010,Persons,Thyroid cancer,0.05,0.04,0.04
+2011,Persons,Thyroid cancer,,,
+1968,Male,Tongue cancer,,,
+1969,Male,Tongue cancer,,,
+1970,Male,Tongue cancer,,,
+1971,Male,Tongue cancer,,,
+1972,Male,Tongue cancer,,,
+1973,Male,Tongue cancer,,,
+1974,Male,Tongue cancer,,,
+1975,Male,Tongue cancer,,,
+1976,Male,Tongue cancer,,,
+1977,Male,Tongue cancer,,,
+1978,Male,Tongue cancer,,,
+1979,Male,Tongue cancer,,,
+1980,Male,Tongue cancer,,,
+1981,Male,Tongue cancer,,,
+1982,Male,Tongue cancer,0.46,0.41,0.43
+1983,Male,Tongue cancer,0.53,0.54,0.53
+1984,Male,Tongue cancer,0.59,0.58,0.58
+1985,Male,Tongue cancer,0.63,0.58,0.59
+1986,Male,Tongue cancer,0.53,0.51,0.52
+1987,Male,Tongue cancer,0.56,0.52,0.52
+1988,Male,Tongue cancer,0.57,0.54,0.54
+1989,Male,Tongue cancer,0.5,0.47,0.47
+1990,Male,Tongue cancer,0.62,0.55,0.57
+1991,Male,Tongue cancer,0.49,0.47,0.47
+1992,Male,Tongue cancer,0.44,0.44,0.43
+1993,Male,Tongue cancer,0.43,0.44,0.44
+1994,Male,Tongue cancer,0.51,0.49,0.49
+1995,Male,Tongue cancer,0.46,0.42,0.43
+1996,Male,Tongue cancer,0.5,0.51,0.5
+1997,Male,Tongue cancer,0.32,0.31,0.31
+1998,Male,Tongue cancer,0.47,0.44,0.45
+1999,Male,Tongue cancer,0.39,0.38,0.37
+2000,Male,Tongue cancer,0.36,0.31,0.32
+2001,Male,Tongue cancer,0.37,0.36,0.36
+2002,Male,Tongue cancer,0.4,0.36,0.37
+2003,Male,Tongue cancer,0.36,0.33,0.34
+2004,Male,Tongue cancer,0.32,0.29,0.3
+2005,Male,Tongue cancer,0.32,0.32,0.32
+2006,Male,Tongue cancer,0.28,0.27,0.27
+2007,Male,Tongue cancer,0.33,0.3,0.31
+2008,Male,Tongue cancer,0.3,0.27,0.28
+2009,Male,Tongue cancer,0.31,0.27,0.28
+2010,Male,Tongue cancer,0.32,0.28,0.29
+2011,Male,Tongue cancer,,,
+1968,Female,Tongue cancer,,,
+1969,Female,Tongue cancer,,,
+1970,Female,Tongue cancer,,,
+1971,Female,Tongue cancer,,,
+1972,Female,Tongue cancer,,,
+1973,Female,Tongue cancer,,,
+1974,Female,Tongue cancer,,,
+1975,Female,Tongue cancer,,,
+1976,Female,Tongue cancer,,,
+1977,Female,Tongue cancer,,,
+1978,Female,Tongue cancer,,,
+1979,Female,Tongue cancer,,,
+1980,Female,Tongue cancer,,,
+1981,Female,Tongue cancer,,,
+1982,Female,Tongue cancer,0.42,0.44,0.43
+1983,Female,Tongue cancer,0.45,0.35,0.39
+1984,Female,Tongue cancer,0.66,0.55,0.58
+1985,Female,Tongue cancer,0.47,0.41,0.43
+1986,Female,Tongue cancer,0.47,0.44,0.45
+1987,Female,Tongue cancer,0.46,0.44,0.44
+1988,Female,Tongue cancer,0.44,0.4,0.41
+1989,Female,Tongue cancer,0.37,0.34,0.35
+1990,Female,Tongue cancer,0.42,0.39,0.4
+1991,Female,Tongue cancer,0.47,0.39,0.42
+1992,Female,Tongue cancer,0.4,0.34,0.36
+1993,Female,Tongue cancer,0.54,0.52,0.53
+1994,Female,Tongue cancer,0.4,0.34,0.36
+1995,Female,Tongue cancer,0.38,0.34,0.35
+1996,Female,Tongue cancer,0.43,0.38,0.4
+1997,Female,Tongue cancer,0.28,0.26,0.27
+1998,Female,Tongue cancer,0.26,0.24,0.25
+1999,Female,Tongue cancer,0.38,0.36,0.35
+2000,Female,Tongue cancer,0.43,0.4,0.4
+2001,Female,Tongue cancer,0.37,0.33,0.35
+2002,Female,Tongue cancer,0.39,0.34,0.36
+2003,Female,Tongue cancer,0.37,0.32,0.33
+2004,Female,Tongue cancer,0.25,0.21,0.22
+2005,Female,Tongue cancer,0.25,0.25,0.26
+2006,Female,Tongue cancer,0.28,0.23,0.25
+2007,Female,Tongue cancer,0.24,0.21,0.21
+2008,Female,Tongue cancer,0.32,0.29,0.3
+2009,Female,Tongue cancer,0.29,0.23,0.25
+2010,Female,Tongue cancer,0.25,0.21,0.22
+2011,Female,Tongue cancer,,,
+1968,Persons,Tongue cancer,,,
+1969,Persons,Tongue cancer,,,
+1970,Persons,Tongue cancer,,,
+1971,Persons,Tongue cancer,,,
+1972,Persons,Tongue cancer,,,
+1973,Persons,Tongue cancer,,,
+1974,Persons,Tongue cancer,,,
+1975,Persons,Tongue cancer,,,
+1976,Persons,Tongue cancer,,,
+1977,Persons,Tongue cancer,,,
+1978,Persons,Tongue cancer,,,
+1979,Persons,Tongue cancer,,,
+1980,Persons,Tongue cancer,,,
+1981,Persons,Tongue cancer,,,
+1982,Persons,Tongue cancer,0.43,0.41,0.42
+1983,Persons,Tongue cancer,0.51,0.49,0.49
+1984,Persons,Tongue cancer,0.63,0.58,0.59
+1985,Persons,Tongue cancer,0.56,0.52,0.53
+1986,Persons,Tongue cancer,0.51,0.49,0.49
+1987,Persons,Tongue cancer,0.52,0.49,0.49
+1988,Persons,Tongue cancer,0.52,0.49,0.5
+1989,Persons,Tongue cancer,0.45,0.42,0.43
+1990,Persons,Tongue cancer,0.53,0.49,0.5
+1991,Persons,Tongue cancer,0.49,0.45,0.46
+1992,Persons,Tongue cancer,0.43,0.41,0.41
+1993,Persons,Tongue cancer,0.47,0.46,0.46
+1994,Persons,Tongue cancer,0.47,0.44,0.45
+1995,Persons,Tongue cancer,0.43,0.39,0.4
+1996,Persons,Tongue cancer,0.48,0.47,0.47
+1997,Persons,Tongue cancer,0.31,0.29,0.29
+1998,Persons,Tongue cancer,0.39,0.37,0.38
+1999,Persons,Tongue cancer,0.39,0.37,0.37
+2000,Persons,Tongue cancer,0.37,0.33,0.34
+2001,Persons,Tongue cancer,0.37,0.35,0.36
+2002,Persons,Tongue cancer,0.39,0.35,0.36
+2003,Persons,Tongue cancer,0.36,0.33,0.34
+2004,Persons,Tongue cancer,0.29,0.27,0.27
+2005,Persons,Tongue cancer,0.3,0.3,0.3
+2006,Persons,Tongue cancer,0.28,0.26,0.26
+2007,Persons,Tongue cancer,0.3,0.27,0.28
+2008,Persons,Tongue cancer,0.3,0.27,0.28
+2009,Persons,Tongue cancer,0.3,0.26,0.27
+2010,Persons,Tongue cancer,0.29,0.26,0.27
+2011,Persons,Tongue cancer,,,
+1968,Male,Unknown primary site,,,
+1969,Male,Unknown primary site,,,
+1970,Male,Unknown primary site,,,
+1971,Male,Unknown primary site,,,
+1972,Male,Unknown primary site,,,
+1973,Male,Unknown primary site,,,
+1974,Male,Unknown primary site,,,
+1975,Male,Unknown primary site,,,
+1976,Male,Unknown primary site,,,
+1977,Male,Unknown primary site,,,
+1978,Male,Unknown primary site,,,
+1979,Male,Unknown primary site,,,
+1980,Male,Unknown primary site,,,
+1981,Male,Unknown primary site,,,
+1982,Male,Unknown primary site,0.55,0.54,0.55
+1983,Male,Unknown primary site,0.6,0.58,0.59
+1984,Male,Unknown primary site,0.64,0.63,0.63
+1985,Male,Unknown primary site,0.66,0.64,0.65
+1986,Male,Unknown primary site,0.69,0.68,0.68
+1987,Male,Unknown primary site,0.76,0.74,0.75
+1988,Male,Unknown primary site,0.72,0.7,0.71
+1989,Male,Unknown primary site,0.72,0.7,0.7
+1990,Male,Unknown primary site,0.7,0.67,0.68
+1991,Male,Unknown primary site,0.71,0.69,0.7
+1992,Male,Unknown primary site,0.73,0.71,0.72
+1993,Male,Unknown primary site,0.72,0.69,0.7
+1994,Male,Unknown primary site,0.78,0.76,0.77
+1995,Male,Unknown primary site,0.77,0.76,0.77
+1996,Male,Unknown primary site,0.76,0.73,0.74
+1997,Male,Unknown primary site,0.69,0.65,0.66
+1998,Male,Unknown primary site,0.73,0.71,0.71
+1999,Male,Unknown primary site,0.71,0.68,0.69
+2000,Male,Unknown primary site,0.71,0.67,0.68
+2001,Male,Unknown primary site,0.67,0.64,0.65
+2002,Male,Unknown primary site,0.63,0.6,0.61
+2003,Male,Unknown primary site,0.77,0.73,0.75
+2004,Male,Unknown primary site,0.88,0.85,0.86
+2005,Male,Unknown primary site,0.9,0.88,0.89
+2006,Male,Unknown primary site,0.93,0.89,0.9
+2007,Male,Unknown primary site,0.86,0.84,0.84
+2008,Male,Unknown primary site,0.88,0.86,0.86
+2009,Male,Unknown primary site,0.9,0.85,0.87
+2010,Male,Unknown primary site,0.76,0.72,0.73
+2011,Male,Unknown primary site,,,
+1968,Female,Unknown primary site,,,
+1969,Female,Unknown primary site,,,
+1970,Female,Unknown primary site,,,
+1971,Female,Unknown primary site,,,
+1972,Female,Unknown primary site,,,
+1973,Female,Unknown primary site,,,
+1974,Female,Unknown primary site,,,
+1975,Female,Unknown primary site,,,
+1976,Female,Unknown primary site,,,
+1977,Female,Unknown primary site,,,
+1978,Female,Unknown primary site,,,
+1979,Female,Unknown primary site,,,
+1980,Female,Unknown primary site,,,
+1981,Female,Unknown primary site,,,
+1982,Female,Unknown primary site,0.58,0.58,0.58
+1983,Female,Unknown primary site,0.58,0.57,0.57
+1984,Female,Unknown primary site,0.63,0.63,0.63
+1985,Female,Unknown primary site,0.65,0.65,0.65
+1986,Female,Unknown primary site,0.67,0.64,0.66
+1987,Female,Unknown primary site,0.71,0.69,0.7
+1988,Female,Unknown primary site,0.67,0.67,0.67
+1989,Female,Unknown primary site,0.71,0.7,0.7
+1990,Female,Unknown primary site,0.68,0.66,0.67
+1991,Female,Unknown primary site,0.7,0.69,0.7
+1992,Female,Unknown primary site,0.72,0.71,0.71
+1993,Female,Unknown primary site,0.76,0.74,0.75
+1994,Female,Unknown primary site,0.74,0.73,0.74
+1995,Female,Unknown primary site,0.7,0.68,0.69
+1996,Female,Unknown primary site,0.79,0.77,0.77
+1997,Female,Unknown primary site,0.72,0.7,0.7
+1998,Female,Unknown primary site,0.72,0.7,0.71
+1999,Female,Unknown primary site,0.78,0.74,0.75
+2000,Female,Unknown primary site,0.69,0.67,0.68
+2001,Female,Unknown primary site,0.67,0.63,0.65
+2002,Female,Unknown primary site,0.7,0.68,0.68
+2003,Female,Unknown primary site,0.73,0.69,0.7
+2004,Female,Unknown primary site,0.85,0.83,0.84
+2005,Female,Unknown primary site,0.81,0.81,0.81
+2006,Female,Unknown primary site,0.89,0.88,0.88
+2007,Female,Unknown primary site,0.81,0.8,0.8
+2008,Female,Unknown primary site,0.89,0.86,0.87
+2009,Female,Unknown primary site,0.83,0.81,0.81
+2010,Female,Unknown primary site,0.81,0.74,0.77
+2011,Female,Unknown primary site,,,
+1968,Persons,Unknown primary site,,,
+1969,Persons,Unknown primary site,,,
+1970,Persons,Unknown primary site,,,
+1971,Persons,Unknown primary site,,,
+1972,Persons,Unknown primary site,,,
+1973,Persons,Unknown primary site,,,
+1974,Persons,Unknown primary site,,,
+1975,Persons,Unknown primary site,,,
+1976,Persons,Unknown primary site,,,
+1977,Persons,Unknown primary site,,,
+1978,Persons,Unknown primary site,,,
+1979,Persons,Unknown primary site,,,
+1980,Persons,Unknown primary site,,,
+1981,Persons,Unknown primary site,,,
+1982,Persons,Unknown primary site,0.56,0.56,0.56
+1983,Persons,Unknown primary site,0.59,0.57,0.58
+1984,Persons,Unknown primary site,0.63,0.63,0.63
+1985,Persons,Unknown primary site,0.65,0.64,0.64
+1986,Persons,Unknown primary site,0.68,0.66,0.67
+1987,Persons,Unknown primary site,0.73,0.72,0.72
+1988,Persons,Unknown primary site,0.69,0.69,0.69
+1989,Persons,Unknown primary site,0.71,0.7,0.7
+1990,Persons,Unknown primary site,0.69,0.67,0.67
+1991,Persons,Unknown primary site,0.7,0.69,0.7
+1992,Persons,Unknown primary site,0.73,0.71,0.72
+1993,Persons,Unknown primary site,0.74,0.71,0.72
+1994,Persons,Unknown primary site,0.76,0.75,0.75
+1995,Persons,Unknown primary site,0.74,0.73,0.73
+1996,Persons,Unknown primary site,0.77,0.74,0.75
+1997,Persons,Unknown primary site,0.7,0.67,0.68
+1998,Persons,Unknown primary site,0.72,0.7,0.71
+1999,Persons,Unknown primary site,0.74,0.7,0.72
+2000,Persons,Unknown primary site,0.69,0.67,0.68
+2001,Persons,Unknown primary site,0.67,0.63,0.64
+2002,Persons,Unknown primary site,0.66,0.63,0.64
+2003,Persons,Unknown primary site,0.75,0.71,0.72
+2004,Persons,Unknown primary site,0.86,0.84,0.85
+2005,Persons,Unknown primary site,0.85,0.85,0.85
+2006,Persons,Unknown primary site,0.9,0.88,0.89
+2007,Persons,Unknown primary site,0.83,0.82,0.82
+2008,Persons,Unknown primary site,0.88,0.86,0.87
+2009,Persons,Unknown primary site,0.86,0.83,0.84
+2010,Persons,Unknown primary site,0.78,0.73,0.75
+2011,Persons,Unknown primary site,,,
+1968,Male,Uterine cancer,,,
+1969,Male,Uterine cancer,,,
+1970,Male,Uterine cancer,,,
+1971,Male,Uterine cancer,,,
+1972,Male,Uterine cancer,,,
+1973,Male,Uterine cancer,,,
+1974,Male,Uterine cancer,,,
+1975,Male,Uterine cancer,,,
+1976,Male,Uterine cancer,,,
+1977,Male,Uterine cancer,,,
+1978,Male,Uterine cancer,,,
+1979,Male,Uterine cancer,,,
+1980,Male,Uterine cancer,,,
+1981,Male,Uterine cancer,,,
+1982,Male,Uterine cancer,,,
+1983,Male,Uterine cancer,,,
+1984,Male,Uterine cancer,,,
+1985,Male,Uterine cancer,,,
+1986,Male,Uterine cancer,,,
+1987,Male,Uterine cancer,,,
+1988,Male,Uterine cancer,,,
+1989,Male,Uterine cancer,,,
+1990,Male,Uterine cancer,,,
+1991,Male,Uterine cancer,,,
+1992,Male,Uterine cancer,,,
+1993,Male,Uterine cancer,,,
+1994,Male,Uterine cancer,,,
+1995,Male,Uterine cancer,,,
+1996,Male,Uterine cancer,,,
+1997,Male,Uterine cancer,,,
+1998,Male,Uterine cancer,,,
+1999,Male,Uterine cancer,,,
+2000,Male,Uterine cancer,,,
+2001,Male,Uterine cancer,,,
+2002,Male,Uterine cancer,,,
+2003,Male,Uterine cancer,,,
+2004,Male,Uterine cancer,,,
+2005,Male,Uterine cancer,,,
+2006,Male,Uterine cancer,,,
+2007,Male,Uterine cancer,,,
+2008,Male,Uterine cancer,,,
+2009,Male,Uterine cancer,,,
+2010,Male,Uterine cancer,,,
+2011,Male,Uterine cancer,,,
+1968,Female,Uterine cancer,,,
+1969,Female,Uterine cancer,,,
+1970,Female,Uterine cancer,,,
+1971,Female,Uterine cancer,,,
+1972,Female,Uterine cancer,,,
+1973,Female,Uterine cancer,,,
+1974,Female,Uterine cancer,,,
+1975,Female,Uterine cancer,,,
+1976,Female,Uterine cancer,,,
+1977,Female,Uterine cancer,,,
+1978,Female,Uterine cancer,,,
+1979,Female,Uterine cancer,,,
+1980,Female,Uterine cancer,,,
+1981,Female,Uterine cancer,,,
+1982,Female,Uterine cancer,0.24,0.2,0.21
+1983,Female,Uterine cancer,0.26,0.22,0.23
+1984,Female,Uterine cancer,0.22,0.19,0.2
+1985,Female,Uterine cancer,0.27,0.23,0.24
+1986,Female,Uterine cancer,0.24,0.21,0.22
+1987,Female,Uterine cancer,0.23,0.2,0.2
+1988,Female,Uterine cancer,0.21,0.17,0.18
+1989,Female,Uterine cancer,0.26,0.21,0.22
+1990,Female,Uterine cancer,0.19,0.16,0.17
+1991,Female,Uterine cancer,0.21,0.17,0.18
+1992,Female,Uterine cancer,0.19,0.15,0.16
+1993,Female,Uterine cancer,0.19,0.16,0.17
+1994,Female,Uterine cancer,0.17,0.15,0.15
+1995,Female,Uterine cancer,0.21,0.17,0.18
+1996,Female,Uterine cancer,0.19,0.16,0.17
+1997,Female,Uterine cancer,0.19,0.15,0.16
+1998,Female,Uterine cancer,0.17,0.14,0.15
+1999,Female,Uterine cancer,0.17,0.15,0.15
+2000,Female,Uterine cancer,0.16,0.13,0.14
+2001,Female,Uterine cancer,0.19,0.17,0.17
+2002,Female,Uterine cancer,0.2,0.17,0.18
+2003,Female,Uterine cancer,0.17,0.14,0.15
+2004,Female,Uterine cancer,0.17,0.14,0.15
+2005,Female,Uterine cancer,0.18,0.15,0.16
+2006,Female,Uterine cancer,0.17,0.14,0.15
+2007,Female,Uterine cancer,0.16,0.13,0.14
+2008,Female,Uterine cancer,0.16,0.14,0.14
+2009,Female,Uterine cancer,0.16,0.13,0.14
+2010,Female,Uterine cancer,0.15,0.12,0.13
+2011,Female,Uterine cancer,,,
+1968,Persons,Uterine cancer,,,
+1969,Persons,Uterine cancer,,,
+1970,Persons,Uterine cancer,,,
+1971,Persons,Uterine cancer,,,
+1972,Persons,Uterine cancer,,,
+1973,Persons,Uterine cancer,,,
+1974,Persons,Uterine cancer,,,
+1975,Persons,Uterine cancer,,,
+1976,Persons,Uterine cancer,,,
+1977,Persons,Uterine cancer,,,
+1978,Persons,Uterine cancer,,,
+1979,Persons,Uterine cancer,,,
+1980,Persons,Uterine cancer,,,
+1981,Persons,Uterine cancer,,,
+1982,Persons,Uterine cancer,,,
+1983,Persons,Uterine cancer,,,
+1984,Persons,Uterine cancer,,,
+1985,Persons,Uterine cancer,,,
+1986,Persons,Uterine cancer,,,
+1987,Persons,Uterine cancer,,,
+1988,Persons,Uterine cancer,,,
+1989,Persons,Uterine cancer,,,
+1990,Persons,Uterine cancer,,,
+1991,Persons,Uterine cancer,,,
+1992,Persons,Uterine cancer,,,
+1993,Persons,Uterine cancer,,,
+1994,Persons,Uterine cancer,,,
+1995,Persons,Uterine cancer,,,
+1996,Persons,Uterine cancer,,,
+1997,Persons,Uterine cancer,,,
+1998,Persons,Uterine cancer,,,
+1999,Persons,Uterine cancer,,,
+2000,Persons,Uterine cancer,,,
+2001,Persons,Uterine cancer,,,
+2002,Persons,Uterine cancer,,,
+2003,Persons,Uterine cancer,,,
+2004,Persons,Uterine cancer,,,
+2005,Persons,Uterine cancer,,,
+2006,Persons,Uterine cancer,,,
+2007,Persons,Uterine cancer,,,
+2008,Persons,Uterine cancer,,,
+2009,Persons,Uterine cancer,,,
+2010,Persons,Uterine cancer,,,
+2011,Persons,Uterine cancer,,,
