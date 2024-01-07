@@ -23,3 +23,10 @@ The overarching goal is to support the efforts to reduce the death caused by ski
 
 ![image](https://github.com/pkrachakonda/trail/assets/20739237/96eebdc6-efd3-4532-8303-5c920e458de6)
 
+# Dataset
+The [Project Dataset](https://github.com/pkrachakonda/Project4_Gr12/tree/main/Project_Datasets) is openly available on
+- Kaggle [ISIC-2019](https://www.kaggle.com/code/bhanuprasanna/skin-cancer-detection-isic-2019/input)
+- ISIC 2019 [Test Datasets](https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Test_Input.zip)
+- ISIC 2019 [Training Datasets](https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_Input.zip)
+- Kaggle [ISIC-2019-Skin-Lesion-Images-For-Classification](https://www.kaggle.com/datasets/salviohexia/isic-2019-skin-lesion-images-for-classification/data)
+- 
