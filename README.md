@@ -36,3 +36,17 @@ The [Project Dataset](https://github.com/pkrachakonda/Project4_Gr12/tree/main/Pr
 # Flowchart
 
 ![image](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/e7187979-e98b-4218-941f-ff810253d311)
+
+# Technologies Used
+
+
+# Model Setup
+
+
+# Results
+
+
+
+# Limitations
+
+# Further Work
