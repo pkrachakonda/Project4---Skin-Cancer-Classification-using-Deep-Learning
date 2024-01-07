@@ -21,7 +21,7 @@ How serious is it? *Melanoma is the most dangerous of the three most common form
 # Objective of the Project
 The overarching goal is to support the efforts to reduce the death caused by skin cancer. This project aims to develop a predictive using **Convolutional Neural Network (CNN)** to classify nine types of skin cancer from outlier lesions images. The improved accuracy and efficiency of the model can aid to detect melanoma in the early stages and can help to reduce unnecessary deaths
 
-![image](https://github.com/pkrachakonda/trail/assets/20739237/96eebdc6-efd3-4532-8303-5c920e458de6)
+![image](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/37cac8f8-6be6-448e-b8fe-8e00b9f6f0a7)
 
 # Dataset
 The [Project Dataset](https://github.com/pkrachakonda/Project4_Gr12/tree/main/Project_Datasets) is openly available on
