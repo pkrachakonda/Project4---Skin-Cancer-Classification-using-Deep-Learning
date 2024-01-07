@@ -225,7 +225,7 @@ import warnings  # tf needs to learn to stfu
 warnings.simplefilter(action="ignore", category=FutureWarning)
 
 import plotly.graph_objects as go
-import numpy as np
+import numpy as np, pandas as pd
 from plotly.subplots import make_subplots
 
 # important libraries
