@@ -39,6 +39,20 @@ The [Project Dataset](https://github.com/pkrachakonda/Project4_Gr12/tree/main/Pr
 
 # Technologies Used
 
+ -[Tensorflow](https://www.tensorflow.org/)
+
+ -[Keras3](https://keras.io/keras_3/)
+
+ -[Scikit-learn](https://scikit-learn.org/stable/)
+
+ -[Pandas](https://pandas.pydata.org/)
+
+ -[Numpy](https://numpy.org/)
+
+ -[Seaborn](https://seaborn.pydata.org/)
+
+ -[Tableau Public](https://www.tableau.com/products/public)
+
 
 # Model Setup
 
