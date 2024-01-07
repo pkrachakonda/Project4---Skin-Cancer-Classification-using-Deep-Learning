@@ -1,0 +1,2 @@
+https://public.tableau.com/app/profile/lakna.premasinghe/viz/MelanomaAnalysis_17032704663840/melanomainaustralia?publish=yes
+https://public.tableau.com/app/profile/praveen.rachakonda/viz/Project_4_SkinCancerAnalysis/Story1
