@@ -66,6 +66,7 @@ The following architecture is used in our model. Four different *Feature and Lab
 
 # Results
 
+![Accuracy](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/df6612b1-3f0a-452b-8468-3b86ceb98e03)
 
 
 # Limitations
