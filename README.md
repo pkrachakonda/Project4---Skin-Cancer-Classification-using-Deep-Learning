@@ -18,6 +18,7 @@ How many people get it? *In 2023, more [17,053](https://public.tableau.com/app/p
 How serious is it? *Melanoma is the most dangerous of the three most common forms of skin cancer. Melanomas can be curable when caught and treated early. In 2023, melanoma is projected to cause about [1,297](https://www.aihw.gov.au/reports/cancer/cancer-data-in-australia/data) deaths.*
 
 # Importance of the Study
+Melanoma is often termed ‘Australia’s cancer’ as a result of the high incidence and mortality rates observed in Australian communities compared to other countries. According to the World Health Organization (WHO) report, an age-standardized death rate of melanoma at 2.84 per 100,000 Australians in 2020, compared to a global average of only 4.2 per 100,000 persons.  The Australian Institute of Health and Welfare (AIHW) estimates that more than 16,000 Australians were diagnosed with melanoma in 2020. As a result of this high incidence rate, AIHW data show that the lifetime melanoma mortality risk is increasing and every year approximately 1,400 Australians are expected to die from melanoma.
 
 # Objective of the Project
 The overarching goal is to support the efforts to reduce the death caused by skin cancer. This project aims to develop a predictive using **Convolutional Neural Network (CNN)** to classify nine types of skin cancer from outlier lesions images. The improved accuracy and efficiency of the model can aid to detect melanoma in the early stages and can help to reduce unnecessary deaths
