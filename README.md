@@ -66,7 +66,13 @@ The following architecture is used in our model. Four different *Feature and Lab
 
 # Results
 
-![Accuracy](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/df6612b1-3f0a-452b-8468-3b86ceb98e03)
+## Accuracy
+
+![Accuracy](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/c2a73ed4-6007-4885-ba7e-739d7727435e)
+
+## Training History
+
+![image](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/90d2de4e-1476-4f3c-9285-dfc443cb44a8)
 
 
 # Limitations
