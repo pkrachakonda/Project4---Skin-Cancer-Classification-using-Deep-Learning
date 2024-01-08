@@ -60,7 +60,7 @@ CNNs have a unique layered architecture consisting of convolutional, pooling, an
 ![image](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/f76ae654-a550-4d0d-b770-50d78d3742e3)
 [Source](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*LeK_gmCf3DfO3gj_.jpeg)
 
-The following architecture is used in our model:
+The following architecture is used in our model. Four different *Feature and Label* datasets were used to test the performance of the model. In Model Version 04, *RandomOverSampler* is implemented which has increased the input size by approximately four times.
 
 ![image](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/a70fa8a8-8e52-4013-be39-679e19ef1843)
 
