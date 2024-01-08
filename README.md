@@ -14,12 +14,10 @@ What is it? *Melanoma is a cancer that develops from melanocytes, the skin cells
 
 Where is it usually found? *Melanomas often resemble moles and sometimes may arise from them. They can be found on any area of the body, even in areas that are not typically exposed to the sun.*
 
-Nowadays, melanoma has emerged as a prevalent affliction in Australia. The incidence of this disease has been on the rise in recent years, posing a significant threat to public health. 
-The number of new cases of melanoma of the skin diagnosed increased from 3,538 (1,736 males and 1,802 females) in 1982 to 15,628 in 2019 and 1,455 people died in 2021. Over the same period, the age-standardised incidence rate increased from 27 cases per 100,000 persons (28 for males and 26 for females) in 1982 to 54 cases per 100,000 in 2019.\
-For individuals who seek to gain further insight into the melanoma situation in Australia, recommend consulting the following dashboard. The dashboard provides a wealth of information that can help to gain a better understanding of the current state of melanoma in the region.\
-[Tableau Dashboard](https://public.tableau.com/app/profile/lakna.premasinghe/viz/MelanomaAnalysis_17032704663840/melanomainaustralia)
+How many people get it? *In 2023, more [17,053](https://public.tableau.com/app/profile/lakna.premasinghe/viz/MelanomaAnalysis_17032704663840/melanomainaustralia) new cases of melanoma are expected to occur in Australia, about 1,455 of which will be invasive*. 
 
-    
+How serious is it? *Melanoma is the most dangerous of the three most common forms of skin cancer. Melanomas can be curable when caught and treated early. In 2023, melanoma is projected to cause about [1,297](https://www.aihw.gov.au/reports/cancer/cancer-data-in-australia/data)deaths.*
+
 # Objective of the Project
 The overarching goal is to support the efforts to reduce the death caused by skin cancer. This project aims to develop a predictive using **Convolutional Neural Network (CNN)** to classify nine types of skin cancer from outlier lesions images. The improved accuracy and efficiency of the model can aid to detect melanoma in the early stages and can help to reduce unnecessary deaths
 
@@ -88,3 +86,6 @@ Based on the analysis, **Model V04** performance is better in comparison with ot
 
 # Limitations
 Even though **Model V04** performance is better in comparison with other models, performance of model in identification of labels for datasets, obtained from external sources in failing. One the reason for failure could be the pixilated images datasets used for training the model. All model require further training and validations on different types of datasets, such as datasets from the *Cancer Imaging Archive*.
+
+# Further work
+As part of this project, one CNN architecture, *Sequential Model* is implemented. Other model CNN architectures, such as *Efficientnetb1*, *fasiai*, *K-fold methods*. PyTorch libraries could also be used for accelerated processing.
