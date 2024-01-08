@@ -60,8 +60,7 @@ The [Project Dataset](https://github.com/pkrachakonda/Project4_Gr12/tree/main/Pr
 # Model Setup
 CNNs have a unique layered architecture consisting of convolutional, pooling, and fully connected layers, which are designed to automatically learn the features and hierarchies of the input data, while Ohter ML algorithms have different architecture.
 
-![image](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/f76ae654-a550-4d0d-b770-50d78d3742e3)
-[Source](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*LeK_gmCf3DfO3gj_.jpeg)
+![Image](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*LeK_gmCf3DfO3gj_.jpeg)
 
 The following architecture is used in our model. Four different *Feature and Label* datasets were used to test the performance of the model. In Model Version 04, *RandomOverSampler* is implemented which has increased the input size by approximately four times.
 
