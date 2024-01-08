@@ -1,4 +1,3 @@
-# Project4_Gr12
 # Skin Cancer Classification using Deep Learning
 
 # Introduction and Background
