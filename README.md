@@ -16,7 +16,7 @@ Where is it usually found? *Melanomas often resemble moles and sometimes may ari
 
 How many people get it? *In 2023, more [17,053](https://public.tableau.com/app/profile/lakna.premasinghe/viz/MelanomaAnalysis_17032704663840/melanomainaustralia) new cases of melanoma are expected to occur in Australia, about 1,455 of which will be invasive*. 
 
-How serious is it? *Melanoma is the most dangerous of the three most common forms of skin cancer. Melanomas can be curable when caught and treated early. In 2023, melanoma is projected to cause about [1,297](https://www.aihw.gov.au/reports/cancer/cancer-data-in-australia/data)deaths.*
+How serious is it? *Melanoma is the most dangerous of the three most common forms of skin cancer. Melanomas can be curable when caught and treated early. In 2023, melanoma is projected to cause about [1,297](https://www.aihw.gov.au/reports/cancer/cancer-data-in-australia/data) deaths.*
 
 # Objective of the Project
 The overarching goal is to support the efforts to reduce the death caused by skin cancer. This project aims to develop a predictive using **Convolutional Neural Network (CNN)** to classify nine types of skin cancer from outlier lesions images. The improved accuracy and efficiency of the model can aid to detect melanoma in the early stages and can help to reduce unnecessary deaths
@@ -88,4 +88,6 @@ Based on the analysis, **Model V04** performance is better in comparison with ot
 Even though **Model V04** performance is better in comparison with other models, performance of model in identification of labels for datasets, obtained from external sources in failing. One the reason for failure could be the pixilated images datasets used for training the model. All model require further training and validations on different types of datasets, such as datasets from the *Cancer Imaging Archive*.
 
 # Further work
-As part of this project, one CNN architecture, *Sequential Model* is implemented. Other model CNN architectures, such as *Efficientnetb1*, *fasiai*, *K-fold methods*. PyTorch libraries could also be used for accelerated processing.
+ - As part of this project, *CNN Sequential Model* is explored for accuracy and efficiency. Other model CNN architectures, such as *Efficientnetb1*, *fasiai*, *K-fold methods* could also explored for accuracy and efficiency in *Skin Condition Classification*. 
+ 
+ - PyTorch libraries could also be expolored for accelerated processing.
