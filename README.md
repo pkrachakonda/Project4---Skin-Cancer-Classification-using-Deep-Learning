@@ -88,3 +88,6 @@ Based on the analysis, **Model V04** performance is better in comparison with ot
 
 # Limitations
 Even though **Model V04** performance is better in comparison with other models, performance of model in identification of labels for datasets, obtained from external sources in failing. One the reason for failure could be the pixilated images datasets used for training the model. All model require further training and validations on different types of datasets, such as datasets from the *Cancer Imaging Archive*.
+
+Further work
+As part of this project, one CNN architecture, *Sequential Model* is implemented. Other model CNN architectures, such as *Efficientnetb1*, *fasiai*, *K-fold methods*. PyTorch libraries could also be used for accelerated processing.
