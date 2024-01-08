@@ -68,13 +68,19 @@ The following architecture is used in our model. Four different *Feature and Lab
 
 ## Accuracy
 
-![Accuracy](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/c2a73ed4-6007-4885-ba7e-739d7727435e)
+![image](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/3a5b33d8-c3ee-461b-af35-3f27058589be)
+
 
 ## Training History
 
 ![image](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/90d2de4e-1476-4f3c-9285-dfc443cb44a8)
 
+## Confusion Matrix
+
+For Model V04
+![Confusion Matrix_v04](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/b2b9c1f1-57d4-4104-96bf-fc3db9b05759)
+
+Based on the analysis, **Model V04** performance is better in comparison with other Models. 
 
 # Limitations
-
-# Further Work
+Even though **Model V04** performance is better in comparison with other models, performance of model in identification of labels for datasets, obtained from external sources in failing. One the reason for failure could be the pixilated images datasets used for training the model. All model require further training and validations on different types of datasets, such as datasets from the *Cancer Imaging Archive*.
