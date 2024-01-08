@@ -90,3 +90,12 @@ Even though **Model V04** performance is better in comparison with other models,
  - As part of this project, *CNN Sequential Model* is explored for accuracy and efficiency. Other model CNN architectures, such as *Efficientnetb1*, *fasiai*, *K-fold methods* could also explored for accuracy and efficiency in *Skin Condition Classification*. 
  
  - PyTorch libraries could also be expolored for accelerated processing.
+
+
+### Contributor
+
+ - [Praveen Rachakonda](https://github.com/pkrachakonda)
+ - [Lakna Premasinghe](https://github.com/lakigit)
+ - [Ryan James](https://github.com/RyanLJames1997)
+ - [John Porretta](https://github.com/Johnporretta)
+
