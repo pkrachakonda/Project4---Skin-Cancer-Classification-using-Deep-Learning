@@ -17,6 +17,8 @@ How many people get it? *In 2023, more [17,053](https://public.tableau.com/app/p
 
 How serious is it? *Melanoma is the most dangerous of the three most common forms of skin cancer. Melanomas can be curable when caught and treated early. In 2023, melanoma is projected to cause about [1,297](https://www.aihw.gov.au/reports/cancer/cancer-data-in-australia/data) deaths.*
 
+# Importance of the Study
+
 # Objective of the Project
 The overarching goal is to support the efforts to reduce the death caused by skin cancer. This project aims to develop a predictive using **Convolutional Neural Network (CNN)** to classify nine types of skin cancer from outlier lesions images. The improved accuracy and efficiency of the model can aid to detect melanoma in the early stages and can help to reduce unnecessary deaths
 
