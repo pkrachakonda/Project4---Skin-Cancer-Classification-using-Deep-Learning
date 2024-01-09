@@ -43,20 +43,19 @@ The [Project Dataset](https://github.com/pkrachakonda/Project4_Gr12/tree/main/Pr
 
 # Technologies Used
 
- -[Tensorflow](https://www.tensorflow.org/)
+ - [Tensorflow](https://www.tensorflow.org/)
 
- -[Keras3](https://keras.io/keras_3/)
+ - [Keras3](https://keras.io/keras_3/)
 
- -[Scikit-learn](https://scikit-learn.org/stable/)
+ - [Scikit-learn](https://scikit-learn.org/stable/)
 
- -[Pandas](https://pandas.pydata.org/)
+ - [Pandas](https://pandas.pydata.org/)
 
- -[Numpy](https://numpy.org/)
+ - [Numpy](https://numpy.org/)
 
- -[Seaborn](https://seaborn.pydata.org/)
+ - [Seaborn](https://seaborn.pydata.org/)
 
- -[Tableau Public](https://www.tableau.com/products/public)
-
+ - [Tableau Public](https://www.tableau.com/products/public)
 
 # Model Setup
 CNNs have a unique layered architecture consisting of convolutional, pooling, and fully connected layers, which are designed to automatically learn the features and hierarchies of the input data, while Ohter ML algorithms have different architecture.
@@ -73,26 +72,33 @@ The following architecture is used in our model. Four different *Feature and Lab
 
 ![image](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/3a5b33d8-c3ee-461b-af35-3f27058589be)
 
-
 ## Training History
 
 ![image](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/90d2de4e-1476-4f3c-9285-dfc443cb44a8)
 
 ## Confusion Matrix
 
-For Model V04
-![Confusion Matrix_v04](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/b2b9c1f1-57d4-4104-96bf-fc3db9b05759)
+Based on analysis, ***Models V03 and V04*** performance are better in comparison with other two Models.
 
-Based on the analysis, **Model V04** performance is better in comparison with other Models. 
+#### Model V03
+
+![Confusion Matrix - Model_V03](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/53855653-7825-47f9-8d5c-ad8e21ed4a43)
+
+#### Model V04
+
+![Confusion Matrix - Model_V04](https://github.com/pkrachakonda/Project4_Gr12/assets/20739237/cf2f927b-091a-4689-ac1d-1509087579c1)
 
 # Limitations
-Even though **Model V04** performance is better in comparison with other models, performance of model in identification of labels for datasets, obtained from external sources in failing. One the reason for failure could be the pixilated images datasets used for training the model. All model require further training and validations on different types of datasets, such as datasets from the *Cancer Imaging Archive*.
+- Even though **Model V04** performance is better in comparison with other models, performance of model in identification of labels for datasets, obtained from external sources in failing. One the reason for failure could be the pixilated images datasets used for training the model.
+- Performance of *Model V04* for datasets sourced from external websites, needs improvement as model is trained on a low scaled pixel images.
+- RandomOverSampling Methodology is best suited for this of datasets. However, the model might be overfitting, therefore regression analysis of post processed datasets is required as additional step .
+- Model needs to be trained on different types of datasets, such as dicom, tiff.
+- All model require further training and validations on different types of datasets, such as datasets from the *Cancer Imaging Archive*.
 
 # Further work
  - As part of this project, *CNN Sequential Model* is explored for accuracy and efficiency. Other model CNN architectures, such as *Efficientnetb1*, *fasiai*, *K-fold methods* could also explored for accuracy and efficiency in *Skin Condition Classification*. 
  
  - PyTorch libraries could also be expolored for accelerated processing.
-
 
 ### Contributor
 
